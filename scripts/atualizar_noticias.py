@@ -36,8 +36,25 @@ def buscar_noticias_contabeis():
 if __name__ == "__main__":
     try:
         dados_json_str = buscar_noticias_contabeis()
-        with open("noticias.json", "w", encoding="utf-8") as f:
-            f.write(dados_json_str)
-        print("Arquivo noticias.json atualizado com sucesso!")
+        
+        # Limpar eventuais crases de markdown caso o modelo as inclua
+        dados_limpos = dados_json_str.strip()
+        if dados_limpos.startswith("```json"):
+            dados_limpos = dados_limpos[7:]
+        elif dados_limpos.startswith("```"):
+            dados_limpos = dados_limpos[3:]
+        if dados_limpos.endswith("```"):
+            dados_limpos = dados_limpos[:-3]
+        dados_limpos = dados_limpos.strip()
+
+        # Validar se é um JSON válido antes de salvar
+        parsed_json = json.loads(dados_limpos)
+
+        # Salvar na raiz do repositório (garantindo o caminho correto a partir da pasta scripts)
+        caminho_raiz = os.path.join(os.path.dirname(__file__), '..', 'noticias.json')
+        with open(caminho_raiz, "w", encoding="utf-8") as f:
+            json.dump(parsed_json, f, ensure_ascii=False, indent=4)
+            
+        print("Arquivo noticias.json atualizado e validado com sucesso na raiz!")
     except Exception as e:
         print(f"Erro ao atualizar notícias: {e}")
