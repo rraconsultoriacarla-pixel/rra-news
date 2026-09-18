@@ -10,12 +10,12 @@ def buscar_noticias_contabeis():
     prompt = f"""
     Aja como um editor-chefe e jornalista sênior especializado em contabilidade, tributação e finanças no Brasil.
     Hoje é dia {data_atual}. 
-    Faça uma pesquisa profunda e abrangente na web utilizando fontes e portais de referência confiáveis como 'Portal Contábeis' (contabeis.com.br), 'Jornal Contábil' (jornalcontabil.com.br), 'IOB', 'Receita Federal' (gov.br/receitafederal) e 'CFC' (cfc.org.br).
+    Faça uma pesquisa exaustiva na web utilizando fontes e portais de referência confiáveis como 'Portal Contábeis' (contabeis.com.br), 'Jornal Contábil' (jornalcontabil.com.br), 'IOB', 'Receita Federal' (gov.br/receitafederal) e 'CFC' (cfc.org.br).
     
-    Busque e selecione exatamente 6 notícias recentes, relevantes e imperdíveis publicadas nos portais acima sobre: Reforma Tributária, novidades da Receita Federal, obrigações acessórias, CFC ou legislação fiscal.
+    Busque e selecione exatamente 12 notícias recentes, relevantes e imperdíveis publicadas nestes portais sobre: Reforma Tributária, novidades da Receita Federal, obrigações acessórias, CFC, auditoria ou legislação fiscal.
     Certifique-se de incluir links reais e funcionais correspondentes às fontes originais em cada notícia.
     
-    Retorne a resposta EXATAMENTE no formato JSON puro, sem blocos de markdown adicionais, contendo um array de objetos com esta estrutura exata:
+    Retorne a resposta EXATAMENTE no formato JSON puro, contendo um array de objetos com esta estrutura exata:
     [
       {
         "id": 1,
@@ -40,9 +40,10 @@ def buscar_noticias_contabeis():
 
 if __name__ == "__main__":
     try:
+        print("Iniciando busca de notícias na web...")
         dados_json_str = buscar_noticias_contabeis()
         
-        # Limpeza rigorosa de eventuais crases de markdown
+        # Limpeza rigorosa de crases
         dados_limpos = dados_json_str.strip()
         if dados_limpos.startswith("```json"):
             dados_limpos = dados_limpos[7:]
@@ -52,14 +53,14 @@ if __name__ == "__main__":
             dados_limpos = dados_limpos[:-3]
         dados_limpos = dados_limpos.strip()
 
-        # Validar integridade do JSON retornado pela IA
         parsed_json = json.loads(dados_limpos)
 
-        # Salvar na raiz do repositório para o GitHub Pages atualizar o site
+        # Salvar na raiz do repositório
         caminho_raiz = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'noticias.json'))
         with open(caminho_raiz, "w", encoding="utf-8") as f:
             json.dump(parsed_json, f, ensure_ascii=False, indent=4)
             
-        print("Portal atualizado com sucesso com notícias frescas da web!")
+        print(f"Sucesso! {len(parsed_json)} notícias salvas em {caminho_raiz}")
     except Exception as e:
-        print(f"Erro ao atualizar notícias da web: {e}")
+        print(f"ERRO CRÍTICO AO ATUALIZAR: {e}")
+        raise e
