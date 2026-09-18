@@ -361,56 +361,22 @@
     </footer>
 
     <script>
-        const newsData = [
-            {
-                id: 1,
-                category: "Reforma Tributária",
-                title: "Regulamentação do IVA Dual avança no Congresso",
-                summary: "Novas diretrizes sobre a apuração integrada do IBS e da CBS trazem impactos diretos para o planejamento tributário.",
-                content: "O Congresso Nacional deu mais um passo importante na regulamentação do IVA Dual. Especialistas apontam que as empresas precisarão revisar seus sistemas de emissão de notas fiscais e parametrização de ERPs.",
-                sourceUrl: "https://www.gov.br"
-            },
-            {
-                id: 2,
-                category: "Fiscal",
-                title: "Prazo da ECF e EFD Contribuições é estipulado pela Receita",
-                summary: "Receita Federal divulga o cronograma oficial e novas regras de validação para as declarações acessórias.",
-                content: "A Receita Federal publicou instruções normativas atualizando os manuais de preenchimento da ECF e da EFD Contribuições, focando no cruzamento automatizado com notas fiscais.",
-                sourceUrl: "https://www.gov.br/receitafederal"
-            },
-            {
-                id: 3,
-                category: "Legislação",
-                title: "Nova Lei Complementar altera regras de compensação de créditos",
-                summary: "Alterações trazem maior dinamismo na recuperação de tributos pagos a indébito pelas empresas.",
-                content: "Foi sancionada a Lei Complementar que moderniza o processo de compensação de créditos tributários reconhecidos judicialmente, visando agilizar o fluxo de caixa corporativo.",
-                sourceUrl: "https://www.planalto.gov.br"
-            },
-            {
-                id: 4,
-                category: "Auditoria",
-                title: "Desafios da Auditoria Independente frente às normas ESG",
-                summary: "Empresas de auditoria devem intensificar a checagem de dados não financeiros nos relatórios corporativos.",
-                content: "As exigências de transparência em sustentabilidade colocaram os relatórios ESG no escopo da auditoria independente, avaliando métricas ambientais e sociais.",
-                sourceUrl: "https://cfc.org.br"
-            },
-            {
-                id: 5,
-                category: "Dicas",
-                title: "5 estratégias para otimizar o fechamento contábil mensal",
-                summary: "Dicas práticas para escritórios contábeis ganharem eficiência operacional e reduzirem retrabalho.",
-                content: "O fechamento contábil eficiente depende de conciliações diárias, automação de extratos bancários e comunicação ágil com o cliente.",
-                sourceUrl: "https://www.contabeis.com.br"
-            },
-            {
-                id: 6,
-                category: "Contábil",
-                title: "Atualizações nas Normas Brasileiras de Contabilidade (NBC)",
-                summary: "Conselho Federal de Contabilidade emite novas orientações sobre ativos intangíveis.",
-                content: "O CFC publicou novas diretrizes que alteram o tratamento contábil aplicável a ativos intangíveis gerados internamente pelas organizações.",
-                sourceUrl: "https://cfc.org.br"
-            }
-        ];
+       let newsData = [];
+
+async function carregarNoticiasAutomaticas() {
+    try {
+        // O site vai ler de um arquivo noticias.json na raiz do seu site
+        const response = await fetch('./noticias.json');
+        newsData = await response.json();
+        renderNews(); // Desenha os cards na tela
+    } catch (error) {
+        console.error("Erro ao carregar as notícias:", error);
+    }
+}
+
+window.onload = function() {
+    carregarNoticiasAutomaticas();
+};
 
         function renderNews(filter = 'all') {
             const grid = document.getElementById('newsGrid');
