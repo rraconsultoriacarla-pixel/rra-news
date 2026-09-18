@@ -30,7 +30,7 @@ def buscar_noticias_contabeis():
     )
     
     response = client.models.generate_content(
-        model='gemini-3.6-flash',
+        model='gemini-2.5-flash',
         contents=prompt,
         config={
             "tools": [{"google_search": {}}],
@@ -41,7 +41,7 @@ def buscar_noticias_contabeis():
 
 if __name__ == "__main__":
     try:
-        print("Iniciando busca de notícias na web com Gemini 3.6...")
+        print("Iniciando busca de notícias na web...")
         dados_json_str = buscar_noticias_contabeis()
         
         # Limpeza rigorosa de crases
@@ -61,7 +61,7 @@ if __name__ == "__main__":
         with open(caminho_raiz, "w", encoding="utf-8") as f:
             json.dump(parsed_json, f, ensure_ascii=False, indent=4)
             
-        print(f"Sucesso! {len(parsed_json)} notícias fresquinhas salvas em {caminho_raiz}")
+        print(f"Sucesso! {len(parsed_json)} notícias salvas em {caminho_raiz}")
     except Exception as e:
         print(f"ERRO CRÍTICO AO ATUALIZAR: {e}")
         raise e
