@@ -1,14 +1,17 @@
 import os
 import json
+from datetime import datetime
 from google import genai
 
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
 def buscar_noticias_contabeis():
-    prompt = """
+    data_atual = datetime.now().strftime("%d/%m/%Y")
+    prompt = f"""
     Aja como um jornalista contábil e fiscal sênior no Brasil. 
-    Pesquise na web em portais especializados de referência como 'Portal Contábeis', 'Jornal Contábil', 'IOB', Receita Federal e CFC.
-    Liste exatamente 6 das notícias mais recentes e importantes sobre contabilidade, reforma tributária, obrigações acessórias, Receita Federal ou legislação fiscal.
+    Hoje é {data_atual}. Faça uma pesquisa na web focada em portais de referência como 'Portal Contábeis', 'Jornal Contábil', 'IOB', Receita Federal e CFC.
+    Encontre e liste exatamente 6 notícias RECENTES, inéditas e publicadas nos últimos dias sobre contabilidade, reforma tributária, obrigações acessórias, Receita Federal ou legislação fiscal.
+    Evite repetir notícias genéricas antigas; busque as atualizações mais quentes do mercado.
     
     Retorne a resposta EXATAMENTE no formato JSON puro, sem textos adicionais, contendo um array de objetos com esta estrutura exata:
     [
@@ -55,6 +58,6 @@ if __name__ == "__main__":
         with open(caminho_raiz, "w", encoding="utf-8") as f:
             json.dump(parsed_json, f, ensure_ascii=False, indent=4)
             
-        print("Notícias atualizadas com sucesso a partir dos novos portais!")
+        print("Notícias novas atualizadas com sucesso!")
     except Exception as e:
         print(f"Erro ao atualizar notícias: {e}")
