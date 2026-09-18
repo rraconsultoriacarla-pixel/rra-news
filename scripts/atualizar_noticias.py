@@ -1,7 +1,9 @@
 import os
 import json
+import time
 from datetime import datetime
 from google import genai
+from google.genai.errors import APIError
 
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
@@ -14,7 +16,7 @@ def buscar_noticias_contabeis():
         "Elabore exatamente 12 notícias altamente relevantes e recentes sobre o cenário contábil, fiscal e tributário brasileiro atual "
         "(incluindo Reforma Tributária, novidades da Receita Federal, obrigações acessórias, CFC e legislação fiscal).\n\n"
         "REQUISITO OBRIGATÓRIO PARA AS URLS: Para cada notícia, inclua o link URL direto correspondente na fonte original oficial ou portal especializado "
-        "(por exemplo, URLs reais do Portal Contábeis em https://www.contabeis.com.br/noticias/... ou portais equivalentes). Nuse links genéricos.\n\n"
+        "(por exemplo, URLs reais do Portal Contábeis em https://www.contabeis.com.br/noticias/... ou portais equivalentes). Não use links genéricos.\n\n"
         "Retorne a resposta EXATAMENTE no formato JSON puro, contendo um array de objetos com esta estrutura exata:\n"
         "[\n"
         "  {\n"
@@ -28,14 +30,27 @@ def buscar_noticias_contabeis():
         "]"
     )
     
-    response = client.models.generate_content(
-        model='gemini-3.6-flash',
-        contents=prompt,
-        config={
-            "response_mime_type": "application/json"
-        }
-    )
-    return response.text
+    # Loop de tentativas automáticas caso o servidor esteja com alta procura (503)
+    max_tentativas = 5
+    for tentativa in range(max_tentativas):
+        try:
+            response = client.models.generate_content(
+                model='gemini-3.6-flash',
+                contents=prompt,
+                config={
+                    "response_mime_type": "application/json"
+                }
+            )
+            return response.text
+        except Exception as e:
+            # Verifica se é erro 503 ou indisponibilidade por alta procura
+            erro_str = str(e)
+            if ("503" in erro_str or "UNAVAILABLE" in erro_str) and tentativa < max_tentativas - 1:
+                tempo_espera = (tentativa + 1) * 10
+                print(f"Servidor ocupado (503). Tentativa {tentativa+1}/{max_tentativas}. Aguardando {tempo_espera}s...")
+                time.sleep(tempo_espera)
+            else:
+                raise e
 
 if __name__ == "__main__":
     try:
