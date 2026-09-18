@@ -35,3 +35,5 @@ jobs:
         with:
           commit_message: "Atualização automática de notícias contábeis"
           file_pattern: "noticias.json"
+          commit_options: '--no-verify'
+          skip_ci: true
