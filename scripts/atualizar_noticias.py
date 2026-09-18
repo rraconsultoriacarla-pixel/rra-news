@@ -7,26 +7,28 @@ client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
 def buscar_noticias_contabeis():
     data_atual = datetime.now().strftime("%d/%m/%Y")
-    prompt = f"""
-    Aja como um editor-chefe e jornalista sênior especializado em contabilidade, tributação e finanças no Brasil.
-    Hoje é dia {data_atual}. 
-    Faça uma pesquisa exaustiva na web utilizando fontes e portais de referência confiáveis como 'Portal Contábeis' (contabeis.com.br), 'Jornal Contábil' (jornalcontabil.com.br), 'IOB', 'Receita Federal' (gov.br/receitafederal) e 'CFC' (cfc.org.br).
     
-    Busque e selecione exatamente 12 notícias recentes, relevantes e imperdíveis publicadas nestes portais sobre: Reforma Tributária, novidades da Receita Federal, obrigações acessórias, CFC, auditoria ou legislação fiscal.
-    Certifique-se de incluir links reais e funcionais correspondentes às fontes originais em cada notícia.
-    
-    Retorne a resposta EXATAMENTE no formato JSON puro, contendo um array de objetos com esta estrutura exata:
-    [
-      {
-        "id": 1,
-        "category": "Reforma Tributária",
-        "title": "Título real e chamativo da notícia",
-        "summary": "Resumo objetivo e atrativo de até 2 linhas.",
-        "content": "Conteúdo detalhado explicando os desdobramentos da notícia, o contexto e os impactos práticos para os profissionais da contabilidade e empresas.",
-        "sourceUrl": "https://www.contabeis.com.br"
-      }
-    ]
-    """
+    # Prompt estruturado sem conflito de chaves do Python
+    prompt = (
+        f"Aja como um editor-chefe e jornalista sênior especializado em contabilidade, tributação e finanças no Brasil. "
+        f"Hoje é dia {data_atual}. "
+        "Faça uma pesquisa exaustiva na web utilizando fontes e portais de referência confiáveis como 'Portal Contábeis' (contabeis.com.br), "
+        "'Jornal Contábil' (jornalcontabil.com.br), 'IOB', 'Receita Federal' (gov.br/receitafederal) e 'CFC' (cfc.org.br).\n\n"
+        "Busque e selecione exatamente 12 notícias recentes, relevantes e imperdíveis publicadas nestes portais sobre: "
+        "Reforma Tributária, novidades da Receita Federal, obrigações acessórias, CFC, auditoria ou legislação fiscal.\n"
+        "Certifique-se de incluir links reais e funcionais correspondentes às fontes originais em cada notícia.\n\n"
+        "Retorne a resposta EXATAMENTE no formato JSON puro, contendo um array de objetos com esta estrutura exata:\n"
+        "[\n"
+        "  {\n"
+        "    \"id\": 1,\n"
+        "    \"category\": \"Reforma Tributária\",\n"
+        "    \"title\": \"Título real e chamativo da notícia\",\n"
+        "    \"summary\": \"Resumo objetivo e atrativo de até 2 linhas.\",\n"
+        "    \"content\": \"Conteúdo detalhado explicando os desdobramentos da notícia, o contexto e os impactos práticos para os profissionais da contabilidade e empresas.\",\n"
+        "    \"sourceUrl\": \"https://www.contabeis.com.br\"\n"
+        "  }\n"
+        "]"
+    )
     
     response = client.models.generate_content(
         model='gemini-2.5-flash',
