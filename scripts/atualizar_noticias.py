@@ -11,11 +11,12 @@ def buscar_noticias_contabeis():
     prompt = (
         f"Aja como um editor-chefe e jornalista sênior especializado em contabilidade, tributação e finanças no Brasil. "
         f"Hoje é dia {data_atual}. "
-        "Faça uma pesquisa exaustiva na web utilizando fontes e portais de referência confiáveis como 'Portal Contábeis' (contabeis.com.br), "
-        "'Jornal Contábil' (jornalcontabil.com.br), 'IOB', 'Receita Federal' (gov.br/receitafederal) e 'CFC' (cfc.org.br).\n\n"
+        "Faça uma pesquisa exaustiva na web utilizando fontes e portais de referência confiáveis como 'Portal Contábeis', "
+        "'Jornal Contábil', 'IOB', 'Receita Federal' e 'CFC'.\n\n"
         "Busque e selecione exatamente 12 notícias recentes, relevantes e imperdíveis publicadas nestes portais sobre: "
         "Reforma Tributária, novidades da Receita Federal, obrigações acessórias, CFC, auditoria ou legislação fiscal.\n"
-        "Certifique-se de incluir links reais e funcionais correspondentes às fontes originais em cada notícia.\n\n"
+        "ATENÇÃO MÁXIMA NA URL: Para cada notícia encontrada, você DEVE pesquisar e incluir o link URL DIRETO e EXATO da página específica daquela matéria (por exemplo: https://www.contabeis.com.br/noticias/...). "
+        "NUNCA utilize links genéricos de páginas principais ou capas de sites (como apenas 'contabeis.com.br'). A sourceUrl precisa ser a URL exata da notícia.\n\n"
         "Retorne a resposta EXATAMENTE no formato JSON puro, contendo um array de objetos com esta estrutura exata:\n"
         "[\n"
         "  {\n"
@@ -24,7 +25,7 @@ def buscar_noticias_contabeis():
         "    \"title\": \"Título real e chamativo da notícia\",\n"
         "    \"summary\": \"Resumo objetivo e atrativo de até 2 linhas.\",\n"
         "    \"content\": \"Conteúdo detalhado explicando os desdobramentos da notícia, o contexto e os impactos práticos para os profissionais da contabilidade e empresas.\",\n"
-        "    \"sourceUrl\": \"https://www.contabeis.com.br\"\n"
+        "    \"sourceUrl\": \"https://www.contabeis.com.br/noticias/exemplo-link-direto\"\n"
         "  }\n"
         "]"
     )
@@ -41,7 +42,7 @@ def buscar_noticias_contabeis():
 
 if __name__ == "__main__":
     try:
-        print("Iniciando busca de notícias na web com Gemini 3.6...")
+        print("Buscando notícias com links diretos na web...")
         dados_json_str = buscar_noticias_contabeis()
         
         # Limpeza rigorosa de crases
@@ -61,7 +62,7 @@ if __name__ == "__main__":
         with open(caminho_raiz, "w", encoding="utf-8") as f:
             json.dump(parsed_json, f, ensure_ascii=False, indent=4)
             
-        print(f"Sucesso! {len(parsed_json)} notícias fresquinhas salvas em {caminho_raiz}")
+        print(f"Sucesso! {len(parsed_json)} notícias com links diretos salvas.")
     except Exception as e:
         print(f"ERRO CRÍTICO AO ATUALIZAR: {e}")
         raise e
