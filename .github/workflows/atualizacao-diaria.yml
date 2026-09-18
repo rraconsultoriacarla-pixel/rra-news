@@ -14,8 +14,6 @@ jobs:
     steps:
       - name: Copiar código do repositório
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Configurar Python
         uses: actions/setup-python@v5
@@ -32,10 +30,8 @@ jobs:
         run: |
           python scripts/atualizar_noticias.py
 
-      - name: Enviar noticias.json atualizado para o GitHub
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add noticias.json
-          git commit -m "Atualização automática de notícias contábeis [skip ci]" || exit 0
-          git push
+      - name: Salvar alterações no repositório
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Atualização automática de notícias contábeis"
+          file_pattern: "noticias.json"
