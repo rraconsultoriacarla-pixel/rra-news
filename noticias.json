@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "category": "Reforma Tributária",
+    "title": "Regulamentação da Reforma Tributária avança no Congresso",
+    "summary": "Novas diretrizes sobre o IVA dual trazem impactos importantes para o planejamento fiscal das empresas brasileiras.",
+    "content": "O Congresso Nacional avançou nas discussões sobre a regulamentação da reforma tributária. Especialistas destacam que os escritórios de contabilidade devem orientar seus clientes quanto à adaptação aos novos tributos (CBS e IBS) para evitar bitributação e garantir a conformidade fiscal.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 2,
+    "category": "Fiscal",
+    "title": "Receita Federal atualiza regras para entrega da ECD e ECF",
+    "summary": "Novidades visam simplificar a prestação de contas das empresas do lucro real e presumido.",
+    "content": "A Receita Federal do Brasil divulgou novas orientações para a entrega da Escrituração Contábil Digital (ECD) e da Escrituração Contábil Fiscal (ECF). As mudanças exigem atenção redobrada dos contadores na validação dos registros para evitar malha fina e penalidades.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 3,
+    "category": "Contábil",
+    "title": "Novas Normas Brasileiras de Contabilidade entram em vigor",
+    "summary": "CFC estabelece atualizações alinhadas aos padrões internacionais de auditoria e relatórios financeiros.",
+    "content": "O Conselho Federal de Contabilidade (CFC) reforçou a aplicação das novas diretrizes nas demonstrações contábeis. A medida busca aumentar a transparência e a confiabilidade das informações financeiras apresentadas pelas entidades corporativas ao mercado.",
+    "sourceUrl": "https://www.cfc.org.br"
+  }
+]
