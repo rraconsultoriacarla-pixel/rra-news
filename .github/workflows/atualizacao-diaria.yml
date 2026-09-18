@@ -1,15 +1,16 @@
 name: Atualizar Noticias Contabeis
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 8 * * *'
-  workflow_dispatch:
 
 jobs:
   atualizar:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      
     steps:
       - name: Copiar código do repositório
         uses: actions/checkout@v4
@@ -20,15 +21,19 @@ jobs:
           python-version: '3.10'
 
       - name: Instalar dependências
-        run: pip install google-genai
+        run: |
+          pip install google-genai
 
-      - name: Executar script de busca de notícias
+      - name: Executar robô de notícias
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python scripts/atualizar_noticias.py
+        run: |
+          python scripts/atualizar_noticias.py
 
-      - name: Salvar alterações no repositório
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "🤖 Atualização automática das notícias contábeis do dia"
-          file_pattern: noticias.json
+      - name: Enviar noticias.json atualizado para o GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add noticias.json
+          git commit -m "Atualização automática de notícias contábeis [skip ci]" || exit 0
+          git push
