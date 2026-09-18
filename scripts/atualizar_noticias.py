@@ -1,7 +1,9 @@
 import os
 import json
+import time
 from datetime import datetime
 from google import genai
+from google.genai.errors import APIError
 
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
@@ -16,7 +18,7 @@ def buscar_noticias_contabeis():
         "Busque e selecione exatamente 12 notícias recentes, relevantes e imperdíveis publicadas nestes portais sobre: "
         "Reforma Tributária, novidades da Receita Federal, obrigações acessórias, CFC, auditoria ou legislação fiscal.\n"
         "ATENÇÃO MÁXIMA NA URL: Para cada notícia encontrada, você DEVE pesquisar e incluir o link URL DIRETO e EXATO da página específica daquela matéria (por exemplo: https://www.contabeis.com.br/noticias/...). "
-        "NUNCA utilize links genéricos de páginas principais ou capas de sites (como apenas 'contabeis.com.br'). A sourceUrl precisa ser a URL exata da notícia.\n\n"
+        "NUNCA utilize links genéricos de páginas principais ou capas de sites. A sourceUrl precisa ser a URL exata da notícia.\n\n"
         "Retorne a resposta EXATAMENTE no formato JSON puro, contendo um array de objetos com esta estrutura exata:\n"
         "[\n"
         "  {\n"
@@ -30,15 +32,26 @@ def buscar_noticias_contabeis():
         "]"
     )
     
-    response = client.models.generate_content(
-        model='gemini-3.6-flash',
-        contents=prompt,
-        config={
-            "tools": [{"google_search": {}}],
-            "response_mime_type": "application/json"
-        }
-    )
-    return response.text
+    # Tentativa com pausa automática em caso de limite excedido (429)
+    max_tentativas = 3
+    for tentativa in range(max_tentativas):
+        try:
+            response = client.models.generate_content(
+                model='gemini-3.6-flash',
+                contents=prompt,
+                config={
+                    "tools": [{"google_search": {}}],
+                    "response_mime_type": "application/json"
+                }
+            )
+            return response.text
+        except APIError as e:
+            if e.code == 429 and tentativa < max_tentativas - 1:
+                tempo_espera = (tentativa + 1) * 15
+                print(f"Limite de cota atingido (429). Aguardando {tempo_espera} segundos para tentar novamente...")
+                time.sleep(tempo_espera)
+            else:
+                raise e
 
 if __name__ == "__main__":
     try:
