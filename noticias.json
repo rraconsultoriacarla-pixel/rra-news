@@ -126,5 +126,37 @@
     "summary": "Simplificação de processos visa integrar microempreendedores individuais aos benefícios previdenciários com menos burocracia.",
     "content": "Medidas incentivam a formalização e facilitam o acesso a linhas de crédito especiais voltadas aos pequenos negócios.",
     "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 17,
+    "category": "Legislação",
+    "title": "Governo Federal publica novas diretrizes para desoneração da folha",
+    "summary": "Portal Gov.br detalha os impactos e as compensações financeiras previstas para os setores contemplados.",
+    "content": "A medida traz orientações normativas essenciais para que os departamentos de recursos humanos apliquem corretamente as alíquotas reduzidas na apuração mensal.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 18,
+    "category": "Reforma Tributária",
+    "title": "Governo lança portal de orientações sobre a transição tributária",
+    "summary": "Nova página oficial no Gov.br centraliza cartilhas, calculadoras estimadas e dúvidas frequentes sobre o IBS e a CBS.",
+    "content": "A ferramenta foi desenvolvida para apoiar contribuintes, contadores e empresários na adaptação antecipada ao novo modelo de tributação sobre o consumo.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 19,
+    "category": "Fiscal",
+    "title": "Receita Federal anuncia novidades no programa do IRPF",
+    "summary": "Órgão fiscalizador divulga atualizações no preenchimento de declarações e facilidades na autorregularização de pendências.",
+    "content": "A Receita Federal destacou que o cruzamento automatizado de dados com instituições financeiras será intensificado neste ano, exigindo atenção redobrada aos rendimentos declarados.",
+    "sourceUrl": "https://www.gov.br/receitafederal"
+  },
+  {
+    "id": 20,
+    "category": "Fiscal",
+    "title": "Receita Federal amplia prazos e canais de atendimento digital",
+    "summary": "Novas facilidades no e-CAC permitem resolução de divergências cadastrais sem necessidade de comparecimento presencial.",
+    "content": "A iniciativa visa dar mais celeridade aos processos administrativos e diminuir o volume de litígios tributários pendentes de análise nas delegacias da Receita Federal.",
+    "sourceUrl": "https://www.gov.br/receitafederal"
   }
 ]
