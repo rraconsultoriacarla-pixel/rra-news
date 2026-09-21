@@ -53,7 +53,6 @@
             align-items: baseline;
         }
 
-        /* Cores aplicadas letra por letra conforme o seu logotipo oficial */
         .r1 {
             color: var(--logo-r1);
             font-size: 32px;
@@ -338,7 +337,8 @@
     <main>
         <h2 class="section-title">Últimas Atualizações</h2>
         <div class="news-grid" id="newsGrid">
-            <!-- Cards injetados via JS -->
+            <!-- Mensagem de carregamento inicial -->
+            <p style="color: var(--text-gray); grid-column: 1/-1;">Carregando atualizações recentes...</p>
         </div>
     </main>
 
@@ -350,7 +350,7 @@
             <h2 class="modal-title" id="modalTitle">Título da Notícia</h2>
             <p class="modal-body" id="modalBody">Resumo detalhado da notícia...</p>
             <div class="modal-footer">
-                <a href="#" id="modalLink" class="btn-external" target="_blank">Acessar Notícia Completa (Fonte Original) &rarr;</a>
+                <a href="#" id="modalLink" class="btn-external" target="_blank" rel="noopener noreferrer">Acessar Notícia Completa (Fonte Original) &rarr;</a>
             </div>
         </div>
     </div>
@@ -360,23 +360,25 @@
         &copy; 2026 RRA Contabilidade - Todos os direitos reservados.
     </footer>
 
+    <main>
     <script>
-       let newsData = [];
+        let newsData = [];
 
-async function carregarNoticiasAutomaticas() {
-    try {
-        // O site vai ler de um arquivo noticias.json na raiz do seu site
-        const response = await fetch('./noticias.json');
-        newsData = await response.json();
-        renderNews(); // Desenha os cards na tela
-    } catch (error) {
-        console.error("Erro ao carregar as notícias:", error);
-    }
-}
+        async function carregarNoticiasAutomaticas() {
+            try {
+                const response = await fetch('./noticias.json');
+                if (!response.ok) throw new Error('Arquivo de notícias não encontrado.');
+                newsData = await response.json();
+                renderNews('all'); 
+            } catch (error) {
+                console.error("Erro ao carregar as notícias:", error);
+                document.getElementById('newsGrid').innerHTML = '<p style="color: red; grid-column: 1/-1;">Não foi possível carregar as notícias no momento. Tente novamente mais tarde.</p>';
+            }
+        }
 
-window.onload = function() {
-    carregarNoticiasAutomaticas();
-};
+        window.onload = function() {
+            carregarNoticiasAutomaticas();
+        };
 
         function renderNews(filter = 'all') {
             const grid = document.getElementById('newsGrid');
@@ -384,18 +386,23 @@ window.onload = function() {
 
             const filteredNews = filter === 'all' 
                 ? newsData 
-                : newsData.filter(item => item.category === filter);
+                : newsData.filter(item => item.category && item.category.toLowerCase() === filter.toLowerCase());
+
+            if (filteredNews.length === 0) {
+                grid.innerHTML = '<p style="color: var(--text-gray); grid-column: 1/-1;">Nenhuma notícia encontrada para esta categoria.</p>';
+                return;
+            }
 
             filteredNews.forEach(item => {
                 const card = document.createElement('div');
                 card.className = 'news-card';
                 card.innerHTML = `
                     <div>
-                        <span class="news-category">${item.category}</span>
+                        <span class="news-category">${item.category || 'Geral'}</span>
                         <h3>${item.title}</h3>
                         <p>${item.summary}</p>
                     </div>
-                    <button class="read-more-btn" onclick="openModal(${item.id})">Ler Notícia</button>
+                    <button class="read-more-btn" onclick="openModal('${item.id}')">Ler Notícia</button>
                 `;
                 grid.appendChild(card);
             });
@@ -412,7 +419,8 @@ window.onload = function() {
         }
 
         function openModal(id) {
-            const news = newsData.find(item => item.id === id);
+            // Converte ambos para string para garantir comparação exata (independente de ser número ou texto no JSON)
+            const news = newsData.find(item => String(item.id) === String(id));
             if(news) {
                 document.getElementById('modalCategory').textContent = news.category;
                 document.getElementById('modalTitle').textContent = news.title;
@@ -432,8 +440,6 @@ window.onload = function() {
                 closeModal();
             }
         }
-
-        renderNews();
     </script>
 </body>
 </html>
