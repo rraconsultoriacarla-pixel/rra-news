@@ -36,7 +36,7 @@ def buscar_noticias_contabeis():
     for tentativa in range(max_tentativas):
         try:
             response = client.models.generate_content(
-                model='gemini-3.6-flash',  # Corrigido para um modelo válido e atual
+                model='gemini-3.6-flash',
                 contents=prompt,
                 config={
                     "tools": [{"google_search": {}}],
@@ -71,8 +71,8 @@ if __name__ == "__main__":
 
         parsed_json = json.loads(dados_limpos)
 
-        # Caminho onde o JSON será salvo no seu repositório do GitHub Pages / site
-        caminho_raiz = "noticias.json" # Ajuste o caminho se necessário (ex: assets/noticias.json)
+        # Salva o JSON na raiz do repositório para o site ler
+        caminho_raiz = "noticias.json" 
         
         with open(caminho_raiz, "w", encoding="utf-8") as f:
             json.dump(parsed_json, f, ensure_ascii=False, indent=4)
