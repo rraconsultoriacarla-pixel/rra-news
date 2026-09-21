@@ -28,7 +28,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          python atualizar_noticias.py
+          python scripts/atualizar_noticias.py
 
       - name: Salvar alterações no repositório
         uses: stefanzweifel/git-auto-commit-action@v5
