@@ -23,18 +23,16 @@ jobs:
       - name: Instalar dependências
         run: |
           python -m pip install --upgrade pip
-          pip install google-genai requests
+          pip install requests
 
       - name: Executar robô de notícias
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python scripts/atualizar_noticias.py
 
       - name: Salvar alterações no repositório
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Atualização automática de notícias contábeis"
+          commit_message: "Atualização automática de notícias contábeis via RSS"
           file_pattern: "noticias.json"
           commit_options: '--no-verify'
           skip_ci: true
