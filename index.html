@@ -330,7 +330,7 @@
 
         async function carregarNoticiasAutomaticas() {
             try {
-                const response = await fetch('./noticias.json');
+                const response = await fetch('./noticias.json?v=' + new Date().getTime());
                 if (!response.ok) throw new Error('Arquivo de notícias não encontrado.');
                 newsData = await response.json();
                 renderNews('all'); 
