@@ -2,97 +2,129 @@
     {
         "id": 1,
         "category": "Reforma Tributária",
-        "title": "Comitê Gestor do IBS publica primeiras diretrizes para transição do ICMS e ISS",
-        "summary": "Órgão unificado divulga normas operacionais para o cadastramento de contribuintes e apuração do novo imposto estadual e municipal.",
-        "content": "O Comitê Gestor do Imposto sobre Bens e Serviços (IBS) apresentou o plano diretivo para o início da fase de testes do sistema arrecadador. A medida visa harmonizar os sistemas tributários estaduais e municipais, exigindo adequação imediata dos ERPs e sistemas contábeis das empresas brasileiras para a convivência com o modelo dual de tributação.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/65432/comite-gestor-do-ibs-publica-diretrizes-de-transicao/"
+        "title": "Novas regras fiscais da Reforma: cronograma escalonado do IBS e CBS exige atenção",
+        "summary": "Implementação gradual estabelece novas obrigações para documentos fiscais eletrônicos e parametrização de cadastros.",
+        "content": "A entrada em vigor das novas etapas da Reforma Tributária traz exigências operacionais importantes para a emissão de documentos fiscais. O cronograma escalonado obriga as empresas a revisarem seus cadastros de produtos, códigos NCM e parametrizações tributárias para evitar rejeições e erros em escala durante a transição.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79426/novas-regra-fiscais-da-reforma-sua-empresa-esta-preparada-para-a-transicao-tributaria/"
     },
     {
         "id": 2,
-        "category": "Receita Federal",
-        "title": "Receita Federal lança nova versão do e-CAC com módulo exclusivo para CBS",
-        "summary": "Plataforma ganha interface focada na Contribuição sobre Bens e Serviços, simplificando apurações e cruzamento de dados.",
-        "content": "A Secretaria da Receita Federal do Brasil (RFB) disponibilizou a atualização do Portal e-CAC, introduzindo um painel unificado para monitoramento da CBS. A ferramenta promete automatizar a validação de créditos tributários e acelerar os pedidos de ressarcimento para exportadores e indústrias, reduzindo gargalos fiscais.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/65433/receita-federal-lanca-modulo-cbs-no-e-cac/"
+        "category": "Reforma Tributária",
+        "title": "Reforma Tributária: 5 pontos essenciais que MPEs devem discutir com o contador",
+        "summary": "Mudanças no IBS e na CBS ampliam a participação da contabilidade em decisões sobre custos e fluxo de caixa.",
+        "content": "As micro e pequenas empresas precisam alinhar suas estratégias financeiras com os escritórios de contabilidade. A transição para o novo modelo de IVA dual impacta diretamente a formação de preços, a gestão de estoques e a adaptação do capital de giro frente às novas exigências de recolhimento.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79462/reforma-tributaria-5-pontos-que-mpes-devem-discutir-com-o-contador/"
     },
     {
         "id": 3,
-        "category": "Obrigações Acessórias",
-        "title": "Fim do DIRF e consolidação na EFD-Reinf atinge fase final de validação",
-        "summary": "Empresas devem finalizar o cruzamento de dados de retenções na fonte no eSocial e EFD-Reinf para evitar penalidades.",
-        "content": "Com a extinção definitiva da DIRF, as informações de rendimentos e retenções de imposto de renda passam a ser integralmente transmitidas via EFD-Reinf e eSocial. Contadores alertam para a necessidade de auditoria interna prévia nos arquivos XML antes do encerramento do período de apuração mensal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/65434/efd-reinf-substitui-definitivamente-a-dirf/"
+        "category": "Planejamento Fiscal",
+        "title": "Reforma Tributária exige revisão de contratos entre empresas e escritórios de contabilidade",
+        "summary": "Período de transição para CBS e IBS demanda delimitação de novas obrigações operacionais e proteção jurídica.",
+        "content": "Especialistas orientam que os contratos de prestação de serviços contábeis sejam aditados para diferenciar a rotina mensal de serviços ordinários das demandas extraordinárias de consultoria e reestruturação de sistemas exigidas pelas novas normas da reforma.",
+        "sourceUrl": "https://www.contadores.cnt.br/noticias/tecnicas/2026/09/18/reforma-tributaria-exige-revisao-de-contratos-entre-empresas-e-escritorios-de-contabilidade.html"
     },
     {
         "id": 4,
-        "category": "CFC",
-        "title": "CFC atualiza NBC TG para adequação às normas internacionais de sustentabilidade (ISSB)",
-        "summary": "Novas diretrizes contábeis tornam obrigatória a divulgação de relatórios ESG auditados para companhias de grande porte.",
-        "content": "O Conselho Federal de Contabilidade (CFC) aprovou a revisão das normas brasileiras de contabilidade alinhadas aos padrões IFRS S1 e S2 do ISSB. A mudança exige que auditores independentes e contadores estruturem relatórios integrados demonstrando os impactos financeiros dos riscos climáticos e de governança corporativa.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/65435/cfc-atualiza-normas-de-sustentabilidade-issb/"
+        "category": "Gestão Financeira",
+        "title": "Mecanismos de extinção de débitos na Reforma Tributária e impactos no fluxo de caixa",
+        "summary": "Entenda o funcionamento do split payment e os efeitos práticos na liquidação financeira das operações.",
+        "content": "A introdução do split payment e de novos mecanismos de apuração na Reforma Tributária altera o fluxo financeiro das empresas, segregando tributos no momento do pagamento e exigindo planejamento redobrado por parte dos gestores e departamentos contábeis.",
+        "sourceUrl": "https://www.contabeis.com.br/artigos/79489/os-mecanicos-de-extincao-de-debitos-na-reforma-tributaria/"
     },
     {
         "id": 5,
-        "category": "Legislação Fiscal",
-        "title": "STF valida limites para compensação de créditos tributários decorrentes de teses jurídicas",
-        "summary": "Decisão fixa regras para o aproveitamento de créditos decorrentes de ações judiciais transitadas em julgado.",
-        "content": "O Supremo Tribunal Federal concluiu o julgamento sobre a limitação temporal para compensação de precatórios e créditos tributários judiciais. A decisão traz previsibilidade fiscal para a União e impõe revisões no planejamento tributário de grandes corporações que mantinham saldos credores acumulados.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/65436/stf-decide-sobre-compensacao-de-creditos-tributarios/"
+        "category": "Tendências de Mercado",
+        "title": "Contabilidade 2026: novas tendências, automação e desafios na era digital",
+        "summary": "Avanço da reforma e inteligência artificial redefinem o papel estratégico do contador no Brasil.",
+        "content": "O setor contábil passa por uma transformação profunda impulsionada pela digitalização e pela exigência de uma atuação mais consultiva. O uso de ferramentas tecnológicas e IA elimina tarefas repetitivas, permitindo que os profissionais foquem em diagnósticos e planejamento financeiro.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/73287/contabilidade-2026-novas-tendencias-e-desafios/"
     },
     {
         "id": 6,
-        "category": "Simples Nacional",
-        "title": "Sublimite do Simples Nacional é reajustado para estados em 2027",
-        "summary": "Resolução da CGSN altera o teto de faturamento para recolhimento do ICMS e ISS dentro do regime simplificado.",
-        "content": "O Comitê Gestor do Simples Nacional (CGSN) publicou a atualização das faixas de sublimite estadual para o próximo ano fiscal. A alteração impacta diretamente as micro e pequenas empresas que estão no limite de transição para o Lucro Presumido, exigindo reavaliação estratégica da carga tributária aplicável.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/65437/cgsn-altera-sublimites-do-simples-nacional/"
+        "category": "Obrigações Fiscais",
+        "title": "Mudanças fiscais: 5 pontos fundamentais que todo contador precisa acompanhar este ano",
+        "summary": "Foco na digitalização das obrigações, avanço regulatório e fiscalização orientada por cruzamento de dados.",
+        "content": "A rotina dos escritórios contábeis está cada vez mais automatizada e integrada com os sistemas da Receita Federal. O acompanhamento rigoroso das inovações normativas tornou-se indispensável para mitigar riscos fiscais para os clientes.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/75217/5-mudancas-fiscais-que-impactam-2026/"
     },
     {
         "id": 7,
-        "category": "Tecnologia Contábil",
-        "title": "Uso de Inteligência Artificial no Sped reduz tempo de auditoria contábil em 60%",
-        "summary": "Pesquisa aponta que escritórios contábeis aceleraram a validação de SPED Fiscal e EFD-Contribuições com automação.",
-        "content": "Um levantamento realizado com escritórios de contabilidade em todo o Brasil revelou que a adoção de sistemas baseados em inteligência artificial transformou a rotina de cruzamento de dados tributários. A tecnologia identifica inconsistências em Notas Fiscais Eletrônicas antes do envio à Receita Federal, mitigando riscos de autuações.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/65438/inteligencia-artificial-revoluciona-auditoria-do-sped/"
+        "category": "Identificação Empresarial",
+        "title": "CNPJ alfanumérico: impactos e adaptação para sistemas e notas fiscais",
+        "summary": "A adoção de letras no CNPJ exige atualizações urgentes em softwares de gestão, ERPs e cadastros comerciais.",
+        "content": "Com a mudança na estrutura do CNPJ para contemplar caracteres alfanuméricos, empresas de tecnologia e departamentos contábeis tiveram que ajustar validações de formulários e sistemas de emissão de documentos fiscais para evitar travamentos operacionais.",
+        "sourceUrl": "https://www.contabeis.com.br/empresarial/reforma-tributaria/"
     },
     {
         "id": 8,
-        "category": "Reforma Tributária",
-        "title": "Imposto Seletivo: regulamentação define alíquotas para bebidas e veículos",
-        "summary": "Projeto detalha a incidência do 'Imposto do Pecado' sobre produtos nocivos à saúde e ao meio ambiente.",
-        "content": "O Ministério da Fazenda divulgou a tabela preliminar de alíquotas do Imposto Seletivo (IS), integrante do novo sistema tributário. A medida especifica a gradação das alíquotas de acordo com a pegada de carbono e teor de açúcares, impactando setores industriais específicos e exigindo parametrização fiscal dedicada.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/65439/regulamentacao-do-imposto-seletivo-detalha-aliquotas/"
+        "category": "Cenário Macroeconômico",
+        "title": "Selic e reflexos nos pequenos negócios: como orientar o cliente na gestão de crédito",
+        "summary": "Variações na taxa básica de juros influenciam o capital de giro, linhas de financiamento e planejamento das MPEs.",
+        "content": "Contadores assumem papel fundamental na orientação financeira corporativa diante de flutuações econômicas. A análise de endividamento e a busca por opções eficientes de crédito tornaram-se rotinas essenciais na consultoria empresarial.",
+        "sourceUrl": "https://www.contabeis.com.br/empresarial/reforma-tributaria/"
     },
     {
         "id": 9,
-        "category": "Imposto de Renda",
-        "title": "Receita Federal amplia malha fina automatizada para tributação de investimentos no exterior",
-        "summary": "Cruzamento de dados bancários internacionais via CRS e FATCA pega divergências na declaração de offshore e trusts.",
-        "content": "A Receita Federal intensificou a fiscalização sobre ativos financeiros mantidos por brasileiros fora do país. Com a consolidação das novas regras de tributação de fundos exclusivos e offshores, a Malha Fina do IR agora faz checagens em tempo real com dados enviados por mais de 100 países signatários de acordos de troca de informações.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/65440/receita-intensifica-fiscalizacao-de-investimentos-no-exterior/"
+        "category": "Tecnologia Contábil",
+        "title": "IA agêntica ganha espaço na gestão financeira e integração de dados",
+        "summary": "Soluções inteligentes automatizam a conciliação bancária e a auditoria preventiva de arquivos fiscais.",
+        "content": "A integração de plataformas baseadas em inteligência artificial revoluciona a rotina de conformidade tributária, reduzindo drasticamente o tempo gasto na conferência de SPEDs e documentos eletrônicos.",
+        "sourceUrl": "https://www.contabeis.com.br/empresarial/reforma-tributaria/"
     },
     {
         "id": 10,
-        "category": "eSocial",
-        "title": "Atualização do eSocial simplifica envio de eventos de Segurança e Saúde no Trabalho (SST)",
-        "summary": "Nova versão do layout reduz campos obrigatórios para micro e pequenas empresas de baixo risco.",
-        "content": "O governo federal oficializou a simplificação dos eventos S-2210, S-2220 e S-2240 para empresas de grau de risco 1 e 2. A mudança alivia a burocracia para pequenos negócios, mantendo o controle rigoroso sobre exames médicos ocupacionais e condições ambientais de trabalho para os demais setores.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/65441/esocial-simplifica-envio-de-eventos-de-sst/"
+        "category": "Simples Nacional",
+        "title": "Planejamento no Simples Nacional: o que muda com a transição para regimes híbridos",
+        "summary": "Análise detalhada das faixas de sublimite e estratégias para empresas em expansão de faturamento.",
+        "content": "O comitê gestor do Simples Nacional mantém regras rígidas de enquadramento. Contadores realizam simulações periódicas para antecipar a necessidade de migração para o Lucro Presumido sem surpresas na carga tributária.",
+        "sourceUrl": "https://www.contabeis.com.br/empresarial/reforma-tributaria/"
     },
     {
         "id": 11,
-        "category": "Planejamento Fiscal",
-        "title": "Fim dos JCP: Empresas migram para distribuição de dividendos e bonificações",
-        "summary": "Transição com a extinção dos Juros sobre Capital Próprio mobiliza diretorias financeiras antes do fechamento do exercício.",
-        "content": "Diante das alterações na legislação sobre dedutibilidade de Juros sobre Capital Próprio (JCP), grandes empresas brasileiras estão reestruturando suas políticas de remuneração aos acionistas. Consultorias tributárias recomendam revisão antecipada do capital social para otimizar os impactos na apuração do Lucro Real.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/65442/empresas-reestruturam-pagamento-de-jcp-e-proventos/"
+        "category": "Auditoria e Compliance",
+        "title": "Governança corporativa e conformidade fiscal exigem novas auditorias internas",
+        "summary": "Aumento rigoroso do cruzamento de dados pela Receita Federal obriga empresas a adotarem compliance ativo.",
+        "content": "A fiscalização eletrônica avançada não dá margem para inconsistências entre declarações acessórias e movimentações financeiras, elevando a responsabilidade técnica das auditorias preventivas.",
+        "sourceUrl": "https://www.contabeis.com.br/empresarial/reforma-tributaria/"
     },
     {
         "id": 12,
+        "category": "Legislação Trabalhista",
+        "title": "Cuidados na gestão da folha de pagamento e eSocial frente às fiscalizações trabalhistas",
+        "summary": "Transmissão correta de eventos periódicos e não periódicos evita autuações automáticas pelo Ministério do Trabalho.",
+        "content": "O correto preenchimento dos eventos de saúde e segurança do trabalho (SST) e o envio sem atrasos das informações no eSocial continuam sendo pontos críticos que exigem acompanhamento rigoroso dos profissionais do DP.",
+        "sourceUrl": "https://www.contabeis.com.br/empresarial/reforma-tributaria/"
+    },
+    {
+        "id": 13,
+        "category": "Gestão de Pessoas",
+        "title": "BPO de Departamento Pessoal: oportunidades de expansão para escritórios contábeis",
+        "summary": "Terceirização de rotinas trabalhistas consolida-se como diferencial competitivo e fonte de receita recorrente.",
+        "content": "Escritórios contábeis que estruturam setores especializados em BPO trabalhista conseguem entregar mais valor aos clientes e otimizar processos internos com segurança jurídica.",
+        "sourceUrl": "https://www.contabeis.com.br/empresarial/reforma-tributaria/"
+    },
+    {
+        "id": 14,
+        "category": "Inovação Contábil",
+        "title": "Como estruturar um serviço de BPO Financeiro eficiente na sua contabilidade",
+        "summary": "Passo a passo para gerenciar o contas a pagar, receber e conciliação bancária dos clientes com tecnologia.",
+        "content": "A oferta de BPO financeiro transforma o perfil do escritório contábil, integrando a contabilidade tradicional com a gestão operacional do cliente e gerando maior fidelização.",
+        "sourceUrl": "https://www.contabeis.com.br/empresarial/reforma-tributaria/"
+    },
+    {
+        "id": 15,
+        "category": "Sustentabilidade (ESG)",
+        "title": "Normas ESG na contabilidade: o impacto dos relatórios de sustentabilidade para o mercado",
+        "summary": "Exigências de relatórios socioambientais e de governança passam a integrar a rotina de grandes e médias empresas.",
+        "content": "O alinhamento às normas internacionais de sustentabilidade exige que contadores e auditores compreendam a mensuração de indicadores não financeiros e seus reflexos no valor de mercado corporativo.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/73287/contabilidade-2026-novas-tendencias-e-desafios/"
+    },
+    {
+        "id": 16,
         "category": "Carreira Contábil",
-        "title": "Exame de Suficiência do CFC registra recorde de inscritos focados na nova tributação",
-        "summary": "Profissionais buscam certificação exigida para atuar nas áreas de consultoria da Reforma Tributária.",
-        "content": "A segunda edição do Exame de Suficiência do CFC em 2026 teve volume recorde de inscrições. O mercado de trabalho aquecido por conta das demandas da Reforma Tributária impulsionou a busca pelo registro profissional, exigindo forte qualificação em contabilidade tributária e tecnologia analítica.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/65443/exame-de-suficiencia-do-cfc-bate-recorde-de-inscritos/"
+        "title": "O perfil do contador consultivo: habilidades indispensáveis para o mercado moderno",
+        "summary": "Capacidade analítica, visão de negócios e domínio tecnológico diferenciam os profissionais de destaque.",
+        "content": "Com a automação das tarefas repetitivas, o contador moderno atua lado a lado com os empresários na tomada de decisões estratégicas, impulsionando a expansão e a saúde financeira dos negócios.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/73287/contabilidade-2026-novas-tendencias-e-desafios/"
     }
 ]
