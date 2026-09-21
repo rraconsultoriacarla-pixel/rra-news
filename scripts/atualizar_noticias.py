@@ -36,7 +36,7 @@ def buscar_noticias_contabeis():
     for tentativa in range(max_tentativas):
         try:
             response = client.models.generate_content(
-                model='gemini-2.5-flash',  # Corrigido para um modelo válido e atual
+                model='gemini-3.6-flash',  # Corrigido para um modelo válido e atual
                 contents=prompt,
                 config={
                     "tools": [{"google_search": {}}],
