@@ -1,210 +1,130 @@
 [
     {
         "id": 1,
-        "category": "Reforma Tributária",
-        "title": "Cooperativas têm até 31 de outubro para optar por IBS e CBS",
-        "summary": "Cooperativas podem optar até 31 de outubro pelo regime específico de IBS e CBS, com efeitos a partir de janeiro de 2027.",
+        "category": "Dicas",
+        "title": "Projeto prevê isenção de IR sobre horas extras na saúde",
+        "summary": "PL 2483/26 prevê isenção de Imposto de Renda sobre horas extras de profissionais da saúde das redes pública e privada.\n              Leia mais em https://www.contabeis.com.br/notic...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79525/cooperativas-tem-ate-31-de-outubro-para-optar-por-ibs-e-cbs/"
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79530/projeto-preve-isencao-de-ir-sobre-horas-extras-na-saude/"
     },
     {
         "id": 2,
-        "category": "Reforma Tributária",
-        "title": "Simples Nacional poderá rever escolha sobre IBS e CBS",
-        "summary": "Empresas terão até o final do período de testes para definir como recolher os novos tributos federais, estaduais e municipais.",
+        "category": "Dicas",
+        "title": "Receita muda regras para hospitais e instituições financeiras",
+        "summary": "Nova norma da Receita altera regras de IRPJ e CSLL para serviços hospitalares e perdas de créditos de instituições financeiras.\n              Leia mais em https://www.contabeis.com...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79524/simples-nacional-podera-rever-escolha-sobre-ibs-e-cbs/"
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79533/receita-muda-regras-para-hospitais-e-instituicoes-financeiras/"
     },
     {
         "id": 3,
-        "category": "Dicas",
-        "title": "Regras automáticas evitam erros recorrentes na EFD ICMS/IPI",
-        "summary": "Quando um erro recorrente depende de uma informação ou decisão do escritório, basta parametrizar como ele deve ser tratado.",
+        "category": "Fiscal",
+        "title": "BC altera regras do Pix e amplia medidas de segurança",
+        "summary": "Banco Central atualiza regras do Pix, com mudanças na cobrança híbrida, contas-salário, suspeitas de fraude e participação de instituições.\n              Leia mais em https://www.c...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79501/o-mesmo-erro-no-sped-todo-mes-regras-automaticas-evitam-erros-na-efd-icms-ipi/"
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79526/bc-altera-regras-do-pix-e-amplia-medidas-de-seguranca/"
     },
     {
         "id": 4,
         "category": "Dicas",
-        "title": "Escritórios contábeis: 79% não têm Departamento Comercial estruturado",
-        "summary": "Descubra por que a maioria das organizações contábeis ainda carece de processos ativos de vendas e expansão consultiva.",
+        "title": "Receita adota regra da OCDE para incentivos fiscais",
+        "summary": "IN RFB 2.342/2026 cria regra para incentivos ligados a gastos e produção no cálculo da tributação mínima de grandes multinacionais.\n              Leia mais em https://www.contabeis...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79472/escritorios-contabeis-79-nao-tem-depto-comercial-estruturado/"
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79527/receita-adota-regra-da-ocde-para-incentivos-fiscais/"
     },
     {
         "id": 5,
         "category": "Dicas",
-        "title": "Redução da jornada de trabalho: o que muda para empresas e o RH",
-        "summary": "Debates sobre alterações na escala e controle de jornada exigem que o departamento pessoal revise fluxos e banco de horas.",
+        "title": "Tema 88 do TST: entenda o limbo previdenciário",
+        "summary": "Entenda o Tema 88 do TST e as implicações do limbo previdenciário para empregados e empresas. Saiba o que muda nas relações trabalhistas.\n              Leia mais em https://www.con...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79476/reducao-da-jornada-o-que-muda-para-empresas-e-rh/"
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79534/tema-88-do-tst-entenda-o-limbo-previdenciario/"
     },
     {
         "id": 6,
         "category": "Fiscal",
-        "title": "Combustíveis: novas medidas podem afetar custos operacionais das empresas",
-        "summary": "Alterações na tributação setorial e subvenções impactam diretamente a logística e a formação de preços corporativos.",
+        "title": "MEI: prazo para negociar dívidas na PGFN acaba dia 30",
+        "summary": "MEIs têm até 30 de setembro, às 19h, para aderir à negociação da PGFN. Confira dívidas aceitas, descontos, parcelas e regras.\n              Leia mais em https://www.contabeis.com.b...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79477/combustiveis-medidas-podem-afetar-custos-das-empresas/"
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79523/mei-prazo-para-negociar-dividas-na-pgfn-acaba-dia-30/"
     },
     {
         "id": 7,
         "category": "Reforma Tributária",
-        "title": "Contador é investigado por operação de fraude tributária milionária",
-        "summary": "Ações conjuntas dos órgãos de fiscalização em Pernambuco desarticulam esquema envolvendo empresas de fachada e desvios.",
+        "title": "Cooperativas têm até 31 de outubro para optar por IBS e CBS",
+        "summary": "Cooperativas podem optar até 31 de outubro pelo regime específico de IBS e CBS, com efeitos a partir de janeiro de 2027.\n              Leia mais em https://www.contabeis.com.br/not...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79463/contador-e-investigado-por-fraude-tributaria-milionaria/"
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79525/cooperativas-tem-ate-31-de-outubro-para-optar-por-ibs-e-cbs/"
     },
     {
         "id": 8,
         "category": "Reforma Tributária",
-        "title": "Reforma Tributária: 5 pontos que MPEs devem discutir com o contador",
-        "summary": "Escolha do regime, classificação fiscal, adaptação de sistemas e formação de preços exigem alinhamento estratégico antecipado.",
+        "title": "Simples Nacional poderá rever escolha sobre IBS e CBS",
+        "summary": "Empresas terão até 30 de setembro para definir como recolher os novos tributos no primeiro semestre de 2027.\n              Leia mais em https://www.contabeis.com.br/noticias/79524/...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79462/reforma-tributaria-5-pontos-que-mpes-devem-discutir-com-o-contador/"
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79524/simples-nacional-podera-rever-escolha-sobre-ibs-e-cbs/"
     },
     {
         "id": 9,
+        "category": "Dicas",
+        "title": "NR-1 e saúde mental: empresas têm até dia 23 para se ajustar",
+        "summary": "Decisão do STF vence dia 23 de setembro e empregadores devem revisar o PGR e incorporar diretrizes de saúde mental no trabalho\nO post NR-1 e saúde mental: empresas têm até dia 23 p...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://jornalcontabil.com.br/noticia/nr-1-e-saude-mental-empresas-tem-ate-dia-23-para-se-ajustar/"
+    },
+    {
+        "id": 10,
+        "category": "Fiscal",
+        "title": "Recadastramento no novo PAT segue até 09 de novembro",
+        "summary": "Atualização cadastral deve ser feita com autenticação via gov.br até novembro  \nO post Recadastramento no novo PAT segue até 09 de novembro  apareceu primeiro em Jornal Contábil - ...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://jornalcontabil.com.br/noticia/recadastramento-no-novo-pat-segue-ate-09-de-novembro/"
+    },
+    {
+        "id": 11,
+        "category": "Reforma Tributária",
+        "title": "TAX SimpliQ lança índice de competitividade para empresas do Simples Nacional na transição para IBS e CBS",
+        "summary": "Plataforma lê os XMLs da empresa, aponta inconsistências fiscais e calcula o ISCQ, indicador de 0 a 100 que mostra se a permanência no Simples ou a opção pelo regime regular de IBS...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://jornalcontabil.com.br/noticia/tax-simpliq-lanca-indice-de-competitividade-para-empresas-do-simples-nacional-na-transicao-para-ibs-e-cbs/"
+    },
+    {
+        "id": 12,
         "category": "Reforma Tributária",
         "title": "Empresas do Simples Nacional ganham direito de rever pagamento de IBS e CBS",
-        "summary": "Fisco e entidades contábeis asseguram flexibilidade de ajustes operacionais para o micro e pequeno empresário.",
+        "summary": "Receita Federal e entidades contábeis garantem flexibilidade no Simples Nacional após a definição final das alíquotas de IBS e CBS.\nO post Empresas do Simples Nacional ganham direi...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://jornalcontabil.com.br/noticia/empresas-do-simples-nacional-ganham-direito-de-rever-pagamento-de-ibs-e-cbs/"
     },
     {
-        "id": 10,
+        "id": 13,
         "category": "Legislação",
-        "title": "Prova de Vida Automática: Votar nas Eleições já resolve obrigações do INSS",
-        "summary": "Aposentados e pensionistas que comparecerem às urnas contam com a validação cadastral automática nos sistemas do governo.",
+        "title": "Prova de Vida Automática: Votar nas Eleições Já Resolve",
+        "summary": "A prova de vida automática ganhou mais um caminho em 2026. Aposentados, pensionistas e titulares de benefícios assistenciais que comparecerem às urnas nas eleições deste ano terão ...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://jornalcontabil.com.br/noticia/prova-de-vida-automatica-eleicoes/"
     },
     {
-        "id": 11,
+        "id": 14,
         "category": "Fiscal",
-        "title": "Mercado financeiro e a variação do ouro: impactos na contabilidade patrimonial",
-        "summary": "A alta das commodities e metais preciosos volta a exigir cuidados especiais na avaliação de ativos e reservas corporativas.",
+        "title": "Ouro acima de US$ 4.400: por que o metal voltou ao centro das atenções dos mercados em 2026?",
+        "summary": "O ouro voltou a protagonizar um dos movimentos mais impressionantes dos mercados financeiros. Em agosto de 2026, o metal chegou novamente à região de US$ 4.400 por onça, depois de ...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://jornalcontabil.com.br/noticia/ouro-acima-de-us-4-400-por-que-o-metal-voltou-ao-centro-das-atencoes-dos-mercados-em-2026/"
     },
     {
-        "id": 12,
+        "id": 15,
         "category": "Dicas",
-        "title": "Taxas municipais e estaduais: entenda regras de conformidade para viagens de negócios",
-        "summary": "Orientações sobre taxas de preservação ambiental e tributos locais aplicados a despesas corporativas e deslocamentos.",
+        "title": "Taxa de entrada em Morro de São Paulo TUPA: como funciona",
+        "summary": "Entenda a taxa de entrada em Morro de São Paulo TUPA e organize melhor sua viagem.\nO post Taxa de entrada em Morro de São Paulo TUPA: como funciona apareceu primeiro em Jornal Cont...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://jornalcontabil.com.br/noticia/taxa-de-entrada-em-morro-de-sao-paulo-tupa-como-funciona/"
     },
     {
-        "id": 13,
+        "id": 16,
         "category": "Fiscal",
         "title": "FGTS Digital centraliza pagamento de parcelas vencidas do Crédito do Trabalhador",
-        "summary": "Empresas devem quitar valores em atraso exclusivamente pelos canais unificados disponibilizados pelo Governo Federal.",
+        "summary": "Com mudança válida desde fevereiro de 2026, empresas devem quitar valores em atraso exclusivamente pelo sistema do Governo \nO post FGTS Digital centraliza pagamento de parcelas ven...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://jornalcontabil.com.br/noticia/fgts-digital-centraliza-pagamento-de-parcelas-vencidas-do-credito-do-trabalhador/"
-    },
-    {
-        "id": 14,
-        "category": "Fiscal",
-        "title": "Por que a estrutura atual do SPED precisa de evolução para o novo modelo?",
-        "summary": "A implementação da CBS e do IBS exige validação de dados em tempo real, superando o formato tradicional de entrega periódica.",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/por-que-a-estrutura-atual-do-sped-nao-e-suficiente-para-o-novo-modelo-de-impostos/"
-    },
-    {
-        "id": 15,
-        "category": "Dicas",
-        "title": "Errou ao preencher a NF-e? Veja a forma correta de regularização perante o Fisco",
-        "summary": "Falhas de preenchimento em documentos já autorizados exigem procedimentos específicos como cartas de correção ou cancelamento tempestivo.",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/errou-ao-preencher-a-nf-e-veja-a-forma-certa-de-fazer-a-correcao/"
-    },
-    {
-        "id": 16,
-        "category": "Dicas",
-        "title": "CONFAZ publica pacote com 13 novas regras para documentos eletrônicos",
-        "summary": "Ajustes SINIEF alteram rotinas fiscais aplicadas ao produtor rural, ao setor de transporte de cargas e ao e-commerce nacional.",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/confaz-publica-13-mudancas-em-notas-e-documentos-eletronicos/"
-    },
-    {
-        "id": 17,
-        "category": "Fiscal",
-        "title": "Receita Federal intensifica cruzamento de dados de criptoativos no IRPF",
-        "summary": "Novas exigências de declaração de ativos digitais em exchanges estrangeiras pegam contribuintes desprevenidos na malha fina.",
-        "content": "A Receita Federal do Brasil aprimorou seus sistemas de inteligência artificial para cruzar informações enviadas por corretoras internacionais de criptomoedas, exigindo rigor na prestação de contas dos investidores.",
-        "sourceUrl": "https://www.gov.br/receitafederal"
-    },
-    {
-        "id": 18,
-        "category": "Reforma Tributária",
-        "title": "Comitê Gestor do IBS define cronograma de testes para os estados e municípios",
-        "summary": "Ambiente de homologação permitirá que corporações testem a emissão de documentos com as novas alíquotas de referência.",
-        "content": "O Comitê Gestor do Imposto sobre Bens e Serviços divulgou as diretrizes técnicas para o início dos testes práticos integrados, visando preparar o ecossistema empresarial para 2027.",
-        "sourceUrl": "https://www.gov.br"
-    },
-    {
-        "id": 19,
-        "category": "Legislação",
-        "title": "Governo Federal publica novas diretrizes para o parcelamento especial de débitos federais",
-        "summary": "Empresas em dificuldade financeira ganham novas condições para regularizar passivos tributários junto à Procuradoria-Geral.",
-        "content": "A medida visa facilitar a repactuação de dívidas fiscais acumuladas, oferecendo descontos em juros e prazos estendidos de amortização para contribuintes elegíveis.",
-        "sourceUrl": "https://www.gov.br"
-    },
-    {
-        "id": 20,
-        "category": "Contábil",
-        "title": "Conselho Federal de Contabilidade atualiza normas sobre sustentabilidade corporativa",
-        "summary": "Padrões internacionais de reporte ESG passam a integrar de forma obrigatória as diretrizes de auditoria para grandes companhias.",
-        "content": "O CFC alinhou as normas brasileiras de contabilidade aos parâmetros globais estabelecidos pelo ISSB, exigindo maior transparência nos relatórios de impacto socioambiental.",
-        "sourceUrl": "https://www.cfc.org.br"
-    },
-    {
-        "id": 21,
-        "category": "Fiscal",
-        "title": "Nota Fiscal Paulistana e NFS-e Nacional: o avanço da padronização municipal",
-        "summary": "Prefeituras adotam sistema integrado para emissão de notas de serviços, simplificando a rotina dos escritórios de contabilidade.",
-        "content": "A unificação dos padrões de emissão de NFS-e reduz a burocracia enfrentada por prestadores de serviços que atuam em múltiplos municípios em todo o território nacional.",
-        "sourceUrl": "https://www.gov.br"
-    },
-    {
-        "id": 22,
-        "category": "Dicas",
-        "title": "Como realizar o planejamento tributário preventivo antes do encerramento do ano fiscal",
-        "summary": "Simulações comparativas entre Lucro Real e Lucro Presumido evitam pagamentos excessivos de tributos no próximo exercício.",
-        "content": "Especialistas recomendam que empresas avaliem seus indicadores financeiros atuais para definir o enquadramento mais vantajoso de tributação para o próximo ciclo comercial.",
-        "sourceUrl": "https://www.contabeis.com.br"
-    },
-    {
-        "id": 23,
-        "category": "Auditoria",
-        "title": "Governança corporativa e compliance tornam-se diferenciais competitivos para PMEs",
-        "summary": "Empresas de médio porte que adotam auditorias independentes atraem melhores taxas de crédito e investimentos estratégicos.",
-        "content": "O mercado financeiro valoriza organizações que demonstram clareza nos controles internos, reduzindo riscos de inadimplência e passivos ocultos.",
-        "sourceUrl": "https://www.gov.br"
-    },
-    {
-        "id": 24,
-        "category": "Legislação",
-        "title": "Ministério do Trabalho atualiza regras de segurança e saúde ocupacional (SST) no eSocial",
-        "summary": "Fiscalização digital passa a cruzar eventos de medicina do trabalho com autuações automáticas para empresas irregulares.",
-        "content": "O envio correto dos eventos de SST tornou-se prioridade máxima para o departamento pessoal, evitando multas pesadas aplicadas por auditoria fiscal trabalhista.",
-        "sourceUrl": "https://www.gov.br"
-    },
-    {
-        "id": 25,
-        "category": "Reforma Tributária",
-        "title": "Imposto Seletivo (IS): governo define lista de produtos sujeitos à nova tributação",
-        "summary": "Bebidas açucaradas, cigarros e itens prejudiciais à saúde e ao meio ambiente entram na mira da seletividade fiscal.",
-        "content": "O Imposto Seletivo incidirá sobre a extração e fabricação de bens específicos, integrando o novo modelo tributário com foco em externalidades negativas.",
-        "sourceUrl": "https://www.gov.br/receitafederal"
-    },
-    {
-        "id": 26,
-        "category": "Contábil",
-        "title": "O papel estratégico do contador na era da inteligência artificial generativa",
-        "summary": "Profissionais contábeis abandonam tarefas puramente operacionais para focar em consultoria gerencial de alto valor agregado.",
-        "content": "Com a automação de lançamentos e apurações pelo Fisco, o contador contemporâneo atua como parceiro de negócios essencial na tomada de decisões estratégicas.",
-        "sourceUrl": "https://www.cfc.org.br"
     }
 ]
