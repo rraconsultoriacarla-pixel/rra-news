@@ -3,13 +3,9 @@ import os
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime
+import re
 
 def buscar_noticias_rss():
-    """
-    Busca notícias contábeis e fiscais diretamente dos feeds RSS oficiais 
-    de portais confiáveis, eliminando a dependência de IA e cotas de API.
-    """
-    # URLs de Feeds RSS públicos de portais de contabilidade
     rss_urls = [
         "https://www.contabeis.com.br/noticias/rss/",
         "https://www.jornalcontabil.com.br/feed/"
@@ -23,13 +19,12 @@ def buscar_noticias_rss():
             print(f"Buscando notícias em: {url}")
             response = requests.get(url, timeout=10, headers={'User-Agent': 'Mozilla/5.0'})
             if response.status_code == 200:
-                # Parse do XML/RSS
                 root = ET.fromstring(response.content)
                 channel = root.find('channel')
                 
                 if channel is not None:
                     items = channel.findall('item')
-                    for item in items[:8]: # Pega até 8 notícias por portal
+                    for item in items[:10]:
                         title_elem = item.find('title')
                         link_elem = item.find('link')
                         desc_elem = item.find('description')
@@ -37,38 +32,36 @@ def buscar_noticias_rss():
                         title = title_elem.text.strip() if title_elem is not None and title_elem.text else "Sem Título"
                         link = link_elem.text.strip() if link_elem is not None and link_elem.text else "#"
                         
-                        # Limpa tags HTML básicas do resumo se houver
-                        summary = "Atualização recente sobre o cenário contábil, fiscal e tributário brasileiro."
+                        summary = "Atualização recente sobre o cenário contábil e fiscal brasileiro."
                         if desc_elem is not None and desc_elem.text:
-                            raw_desc = desc_elem.text
-                            # Remove tags HTML simples
-                            import re
-                            clean_desc = re.sub('<[^<]+?>', '', raw_desc)
+                            clean_desc = re.sub('<[^<]+?>', '', desc_elem.text)
                             if len(clean_desc.strip()) > 10:
                                 summary = clean_desc.strip()[:180] + "..."
 
-                        # Classificação automática simples por palavras-chave no título
-                        category = "Geral"
+                        # Padronização restrita para bater com os botões do site:
+                        # 'Reforma Tributária', 'Fiscal', 'Contábil', 'Legislação', 'Auditoria', 'Dicas'
+                        category = "Fiscal" # Categoria padrão caso não encaixe nas outras
                         t_lower = title.lower()
+                        
                         if "reforma" in t_lower or "tributári" in t_lower or "ibs" in t_lower or "cbs" in t_lower:
                             category = "Reforma Tributária"
-                        elif "fiscal" in t_lower or "imposto" in t_lower or "receita federal" in t_lower or "das" in t_lower:
-                            category = "Fiscal"
-                        elif "contábil" in t_lower or "contabilidade" in t_lower or "cfc" in t_lower:
+                        elif "contábil" in t_lower or "contabilidade" in t_lower or "balanço" in t_lower or "escritório" in t_lower:
                             category = "Contábil"
-                        elif "lei" in t_lower or "decreto" in t_lower or "norma" in t_lower or "trabalhista" in t_lower:
-                            category = "Legislação"
                         elif "auditoria" in t_lower:
                             category = "Auditoria"
-                        else:
+                        elif "lei" in t_lower or "decreto" in t_lower or "norma" in t_lower or "trabalhista" in t_lower or "clt" in t_lower:
+                            category = "Legislação"
+                        elif "dica" in t_lower or "guia" in t_lower or "passo" in t_lower:
                             category = "Dicas"
+                        else:
+                            category = "Fiscal"
 
                         noticias_coletadas.append({
                             "id": id_contador,
                             "category": category,
                             "title": title,
                             "summary": summary,
-                            "content": f"Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+                            "content": f"Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews.",
                             "sourceUrl": link
                         })
                         id_contador += 1
@@ -85,16 +78,12 @@ if __name__ == "__main__":
         if not lista_noticias:
             raise Exception("Nenhuma notícia foi encontrada nos feeds RSS.")
 
-        # Limita a um total consolidado de 12 a 16 notícias
         lista_noticias = lista_noticias[:16]
 
-        # Salva o JSON na raiz do repositório para o site ler
-        caminho_raiz = "noticias.json"  
-        
-        with open(caminho_raiz, "w", encoding="utf-8") as f:
+        with open("noticias.json", "w", encoding="utf-8") as f:
             json.dump(lista_noticias, f, ensure_ascii=False, indent=4)
 
-        print(f"Sucesso! {len(lista_noticias)} notícias coletadas e salvas em {caminho_raiz}.")
+        print(f"Sucesso! {len(lista_noticias)} notícias coletadas e salvas.")
     except Exception as e:
         print(f"ERRO CRÍTICO AO ATUALIZAR: {e}")
         raise e
