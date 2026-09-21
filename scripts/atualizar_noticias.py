@@ -1,83 +1,100 @@
-import os
 import json
-import time
+import os
+import requests
+import xml.etree.ElementTree as ET
 from datetime import datetime
-from google import genai
-from google.genai.errors import APIError
 
-client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
+def buscar_noticias_rss():
+    """
+    Busca notícias contábeis e fiscais diretamente dos feeds RSS oficiais 
+    de portais confiáveis, eliminando a dependência de IA e cotas de API.
+    """
+    # URLs de Feeds RSS públicos de portais de contabilidade
+    rss_urls = [
+        "https://www.contabeis.com.br/noticias/rss/",
+        "https://www.jornalcontabil.com.br/feed/"
+    ]
+    
+    noticias_coletadas = []
+    id_contador = 1
 
-def buscar_noticias_contabeis():
-    data_atual = datetime.now().strftime("%d/%m/%Y")
-
-    prompt = (
-        f"Aja como um editor-chefe e jornalista sênior especializado em contabilidade, tributação e finanças no Brasil. "
-        f"Hoje é dia {data_atual}.\n\n"
-        "Utilize a ferramenta de pesquisa na web para buscar exatamente 12 notícias reais, recentes e publicadas em portais "
-        "confiáveis como 'Portal Contábeis' (contabeis.com.br), 'Jornal Contábil' (jornalcontabil.com.br) ou fontes equivalentes.\n\n"
-        "REQUISITOS OBRIGATÓRIOS:\n"
-        "1. O título, o resumo e o conteúdo devem ser baseados estritamente na notícia real encontrada na web.\n"
-        "2. No campo 'sourceUrl', você DEVE colocar a URL exata e direta da página daquela notícia específica obtida na pesquisa web "
-        "(ex: https://www.contabeis.com.br/noticias/...). NUNCA utilize URLs genéricas da página inicial.\n\n"
-        "Retorne a resposta EXATAMENTE em formato JSON puro (sem blocos de código markdown como ```json), contendo um array de objetos com esta estrutura exata:\n"
-        "[\n"
-        "  {\n"
-        "    \"id\": 1,\n"
-        "    \"category\": \"Reforma Tributária\",\n"
-        "    \"title\": \"Título real e chamativo da notícia\",\n"
-        "    \"summary\": \"Resumo objetivo e atrativo de até 2 linhas.\",\n"
-        "    \"content\": \"Conteúdo detalhado explicando os desdobramentos da notícia, o contexto e os impactos práticos para os profissionais da contabilidade e empresas.\",\n"
-        "    \"sourceUrl\": \"[https://www.contabeis.com.br/noticias/exemplo-link-direto](https://www.contabeis.com.br/noticias/exemplo-link-direto)\"\n"
-        "  }\n"
-        "]"
-    )
-
-    max_tentativas = 5
-    for tentativa in range(max_tentativas):
+    for url in rss_urls:
         try:
-            response = client.models.generate_content(
-                model='gemini-3.6-flash',
-                contents=prompt,
-                config={
-                    "tools": [{"google_search": {}}],
-                    "response_mime_type": "application/json"
-                }
-            )
-            return response.text
+            print(f"Buscando notícias em: {url}")
+            response = requests.get(url, timeout=10, headers={'User-Agent': 'Mozilla/5.0'})
+            if response.status_code == 200:
+                # Parse do XML/RSS
+                root = ET.fromstring(response.content)
+                channel = root.find('channel')
+                
+                if channel is not None:
+                    items = channel.findall('item')
+                    for item in items[:8]: # Pega até 8 notícias por portal
+                        title_elem = item.find('title')
+                        link_elem = item.find('link')
+                        desc_elem = item.find('description')
+                        
+                        title = title_elem.text.strip() if title_elem is not None and title_elem.text else "Sem Título"
+                        link = link_elem.text.strip() if link_elem is not None and link_elem.text else "#"
+                        
+                        # Limpa tags HTML básicas do resumo se houver
+                        summary = "Atualização recente sobre o cenário contábil, fiscal e tributário brasileiro."
+                        if desc_elem is not None and desc_elem.text:
+                            raw_desc = desc_elem.text
+                            # Remove tags HTML simples
+                            import re
+                            clean_desc = re.sub('<[^<]+?>', '', raw_desc)
+                            if len(clean_desc.strip()) > 10:
+                                summary = clean_desc.strip()[:180] + "..."
+
+                        # Classificação automática simples por palavras-chave no título
+                        category = "Geral"
+                        t_lower = title.lower()
+                        if "reforma" in t_lower or "tributári" in t_lower or "ibs" in t_lower or "cbs" in t_lower:
+                            category = "Reforma Tributária"
+                        elif "fiscal" in t_lower or "imposto" in t_lower or "receita federal" in t_lower or "das" in t_lower:
+                            category = "Fiscal"
+                        elif "contábil" in t_lower or "contabilidade" in t_lower or "cfc" in t_lower:
+                            category = "Contábil"
+                        elif "lei" in t_lower or "decreto" in t_lower or "norma" in t_lower or "trabalhista" in t_lower:
+                            category = "Legislação"
+                        elif "auditoria" in t_lower:
+                            category = "Auditoria"
+                        else:
+                            category = "Dicas"
+
+                        noticias_coletadas.append({
+                            "id": id_contador,
+                            "category": category,
+                            "title": title,
+                            "summary": summary,
+                            "content": f"Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+                            "sourceUrl": link
+                        })
+                        id_contador += 1
         except Exception as e:
-            erro_str = str(e)
-            if ("429" in erro_str or "503" in erro_str or "UNAVAILABLE" in erro_str) and tentativa < max_tentativas - 1:
-                tempo_espera = (tentativa + 1) * 12
-                print(f"Servidor ocupado ou limite atingido. Tentativa {tentativa+1}/{max_tentativas}. Aguardando {tempo_espera}s...")
-                time.sleep(tempo_espera)
-            else:
-                raise e
+            print(f"Erro ao processar o feed {url}: {e}")
+
+    return noticias_coletadas
 
 if __name__ == "__main__":
     try:
-        print("Gerando lote de notícias atualizadas...")
-        print("Buscando notícias reais com links diretos na web...")
-        dados_json_str = buscar_noticias_contabeis()
+        print("Iniciando coleta automática de notícias via RSS...")
+        lista_noticias = buscar_noticias_rss()
 
-        # Limpeza rigorosa de crases caso venham no texto
-        dados_limpos = dados_json_str.strip()
-        if dados_limpos.startswith("```json"):
-            dados_limpos = dados_limpos[7:]
-        elif dados_limpos.startswith("```"):
-            dados_limpos = dados_limpos[3:]
-        if dados_limpos.endswith("```"):
-            dados_limpos = dados_limpos[:-3]
-        dados_limpos = dados_limpos.strip()
+        if not lista_noticias:
+            raise Exception("Nenhuma notícia foi encontrada nos feeds RSS.")
 
-        parsed_json = json.loads(dados_limpos)
+        # Limita a um total consolidado de 12 a 16 notícias
+        lista_noticias = lista_noticias[:16]
 
         # Salva o JSON na raiz do repositório para o site ler
-        caminho_raiz = "noticias.json" 
+        caminho_raiz = "noticias.json"  
         
         with open(caminho_raiz, "w", encoding="utf-8") as f:
-            json.dump(parsed_json, f, ensure_ascii=False, indent=4)
+            json.dump(lista_noticias, f, ensure_ascii=False, indent=4)
 
-        print(f"Sucesso! {len(parsed_json)} notícias com links diretos salvas.")
+        print(f"Sucesso! {len(lista_noticias)} notícias coletadas e salvas em {caminho_raiz}.")
     except Exception as e:
         print(f"ERRO CRÍTICO AO ATUALIZAR: {e}")
         raise e
