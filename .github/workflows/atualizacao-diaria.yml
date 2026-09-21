@@ -22,13 +22,13 @@ jobs:
 
       - name: Instalar dependências
         run: |
-          pip install google-genai
+          pip install --upgrade google-genai
 
       - name: Executar robô de notícias
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          python scripts/atualizar_noticias.py
+          python atualizar_noticias.py
 
       - name: Salvar alterações no repositório
         uses: stefanzweifel/git-auto-commit-action@v5
