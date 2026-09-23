@@ -1,130 +1,242 @@
 [
-    {
-        "id": 1,
-        "category": "Dicas",
-        "title": "Governo sanciona Redata: desoneração para datacenters",
-        "summary": "A Lei 15.504 cria o Redata, suspendendo impostos federais sobre equipamentos de datacenters. Saiba como empresas podem acessar benefícios e as contrapartidas exigidas.\n            ...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79543/governo-sanciona-redata-desoneracao-para-datacenters/"
-    },
-    {
-        "id": 2,
-        "category": "Reforma Tributária",
-        "title": "STF: Limites na Compensação de Créditos Tributários Judiciais",
-        "summary": "STF valida limites mensais para compensação de créditos tributários judiciais acima de R$10 milhões. Entenda os impactos da decisão para empresas.\n              Leia mais em https:...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79568/stf-limites-na-compensacao-de-creditos-tributarios-judiciais/"
-    },
-    {
-        "id": 3,
-        "category": "Dicas",
-        "title": "Dois empregos: como evitar desconto indevido de INSS",
-        "summary": "Trabalhador com dois empregos deve informar os vínculos para evitar contribuição ao INSS acima do teto previdenciário.\n              Leia mais em https://www.contabeis.com.br/notic...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79567/dois-empregos-como-evitar-desconto-indevido-de-inss/"
-    },
-    {
-        "id": 4,
-        "category": "Dicas",
-        "title": "STF analisa ICMS sobre energia e Áreas de Livre Comércio",
-        "summary": "STF analisa inclusão de subsídio de energia na base do ICMS e benefícios fiscais destinados às Áreas de Livre Comércio.\n              Leia mais em https://www.contabeis.com.br/noti...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79565/stf-analisa-icms-sobre-energia-e-areas-de-livre-comercio/"
-    },
-    {
-        "id": 5,
-        "category": "Dicas",
-        "title": "Simples híbrido: modelo de negócio orienta escolha",
-        "summary": "Empresas do Simples devem avaliar clientes, fornecedores, custos e créditos antes de escolher o modelo híbrido em 2027.\n              Leia mais em https://www.contabeis.com.br/noti...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79564/simples-hibrido-modelo-de-negocio-orienta-escolha/"
-    },
-    {
-        "id": 6,
-        "category": "Dicas",
-        "title": "Adicional da CSLL: Receita estende regra de transição até 2027",
-        "summary": "IN RFB nº 2.342/2026 prorroga regra que pode considerar zero o Adicional da CSLL de multinacionais. Entenda os três testes.\n              Leia mais em https://www.contabeis.com.br/...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79561/adicional-da-csll-receita-estende-regra-de-transicao-ate-2027/"
-    },
-    {
-        "id": 7,
-        "category": "Dicas",
-        "title": "Documentos fiscais e financeiros: por quanto tempo guardar?",
-        "summary": "NF-e, NFS-e, SPED, comprovantes de tributos e documentos trabalhistas têm diferentes prazos de guarda; entenda as regras.\n              Leia mais em https://www.contabeis.com.br/no...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79554/documentos-fiscais-e-financeiros-por-quanto-tempo-guardar/"
-    },
-    {
-        "id": 8,
-        "category": "Dicas",
-        "title": "Lucro Presumido: RFB muda regra para serviços hospitalares",
-        "summary": "Receita retira restrições para serviços hospitalares prestados em estruturas de terceiros e inclui anestesiologia entre as atividades beneficiadas.\n              Leia mais em https...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79549/lucro-presumido-rfb-muda-regra-para-servicos-hospitalares/"
-    },
-    {
-        "id": 9,
-        "category": "Dicas",
-        "title": "Fim da escala 6×1: quais os impactos para empresas e trabalhadores?",
-        "summary": "Com avanço da proposta no Congresso, mercado de trabalho avalia custos operacionais, produtividade e novas formas de organizar as jornadas\nO post Fim da escala 6&#215;1: quais os i...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/fim-da-escala-6x1-quais-os-impactos-para-empresas-e-trabalhadores/"
-    },
-    {
-        "id": 10,
-        "category": "Fiscal",
-        "title": "Empreendedorismo digital: como aumentar vendas pela internet",
-        "summary": "Presença digital, conteúdo, tráfego qualificado e experiência de compra são pilares para estruturar negócios e ampliar oportunidades no ambiente online\nO post Empreendedorismo digi...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/empreendedorismo-digital-como-aumentar-vendas-pela-internet/"
-    },
-    {
-        "id": 11,
-        "category": "Fiscal",
-        "title": "Locais das provas da 2ª edição do EQT/2026 já estão disponíveis",
-        "summary": "Candidatos devem acessar a página eletrônica da FGV \nO post Locais das provas da 2ª edição do EQT/2026 já estão disponíveis apareceu primeiro em Jornal Contábil - Independência e c...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/locais-das-provas-da-2a-edicao-do-eqt-2026-ja-estao-disponiveis/"
-    },
-    {
-        "id": 12,
-        "category": "Dicas",
-        "title": "Manutenção programada deixará serviço de NFC-e indisponível",
-        "summary": "Emissão de Nota Fiscal de Consumidor Eletrônica ficará suspensa por quase duas horas. Confira\nO post Manutenção programada deixará serviço de NFC-e indisponível  apareceu primeiro ...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/manutencao-programada-deixara-servico-de-nfc-e-indisponivel/"
-    },
-    {
-        "id": 13,
-        "category": "Reforma Tributária",
-        "title": "Novo IVA DUAL: como a Reforma Tributária transforma a emissão de notas fiscais no Brasil",
-        "summary": "Atualização das notas fiscais eletrônicas traz novos campos para IBS e CBS e adequação é essencial para evitar rejeição \nO post Novo IVA DUAL: como a Reforma Tributária transforma ...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/novo-iva-dual-como-a-reforma-tributaria-transforma-a-emissao-de-notas-fiscais-no-brasil/"
-    },
-    {
-        "id": 14,
-        "category": "Reforma Tributária",
-        "title": "Vale a pena continuar no Simples Nacional após a Reforma Tributária?",
-        "summary": "Regime unificado segue garantido, mas mecanismo do IVA Dual força pequenos negócios a recalcularem a competitividade nas vendas para outras empresas\nO post Vale a pena continuar no...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/vale-a-pena-continuar-no-simples-nacional-apos-a-reforma-tributaria/"
-    },
-    {
-        "id": 15,
-        "category": "Dicas",
-        "title": "Fora do Simples Nacional? Saiba como evitar exclusão e reingressar",
-        "summary": "Falta de acompanhamento fiscal e pendências com o Fisco podem forçar a transição involuntária para regimes tributários mais complexos e dispendiosos\nO post Fora do Simples Nacional...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/fora-do-simples-nacional-saiba-como-evitar-exclusao-e-reingressar/"
-    },
-    {
-        "id": 16,
-        "category": "Fiscal",
-        "title": "DeRE atualiza teto de contas suportadas nos módulos D-1011 e D-1101",
-        "summary": "Mudança eleva limite de registros no Plano de Contas e Balancete Mensal do ambiente de testes da Declaração de Regimes Específicos \nO post DeRE atualiza teto de contas suportadas n...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/dere-atualiza-teto-de-contas-suportadas-nos-modulos-d-1011-e-d-1101/"
-    }
+  {
+    "id": 1,
+    "category": "Reforma Tributária",
+    "title": "Regulamentação da Reforma Tributária avança no Congresso",
+    "summary": "Novas diretrizes trazem impactos diretos para o planejamento fiscal das empresas de médio e grande porte a partir do próximo ciclo.",
+    "content": "A regulamentação da Reforma Tributária traz consigo uma série de inovações e obrigações acessórias que exigem atenção redobrada dos contribuintes e profissionais contábeis. Especialistas recomendam revisões imediatas nos processos internos.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 2,
+    "category": "Fiscal",
+    "title": "Novas regras para emissão de documentos fiscais eletrônicos",
+    "summary": "Secretaria da Fazenda atualiza validações em notas fiscais, exigindo adaptações nos softwares de gestão das empresas.",
+    "content": "As alterações visam coibir inconsistências e fraudes fiscais, automatizando o cruzamento de dados pelas administrações tributárias estaduais e federais.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 3,
+    "category": "Contábil",
+    "title": "Novas diretrizes para o balanço patrimonial e demonstrações",
+    "summary": "Conselho Federal de Contabilidade publica orientações sobre novas normas internacionais de reporte financeiro.",
+    "content": "As mudanças afetam diretamente a transparência exigida de companhias abertas e fechadas, focando em provisões e riscos operacionais.",
+    "sourceUrl": "https://www.cfc.org.br"
+  },
+  {
+    "id": 4,
+    "category": "Legislação",
+    "title": "Alterações no eSocial trazem novas exigências trabalhistas",
+    "summary": "Governo federal implanta novos eventos e prazos mais rígidos para envio de informações de folha de pagamento.",
+    "content": "Empresas que perderem os prazos estarão sujeitas a autuações automáticas pelo sistema. O departamento pessoal deve revisar os fluxos de cadastros.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 5,
+    "category": "Auditoria",
+    "title": "A importância da auditoria preventiva na gestão de riscos corporativos",
+    "summary": "Empresas buscam auditorias independentes para mitigar passivos ocultos e garantir conformidade com governança.",
+    "content": "O mercado exige maior rigor na validação de controles internos, blindando organizações contra fraudes e desvios de compliance.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 6,
+    "category": "Dicas",
+    "title": "5 estratégias para otimizar o fechamento contábil mensal",
+    "summary": "Organização de processos e automação de conciliações bancárias reduzem erros e ganham tempo precioso no escritório.",
+    "content": "Adotar rotinas semanais de conferência impede acúmulos de pendências no final do mês e agiliza a entrega de relatórios para os gestores.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 7,
+    "category": "Reforma Tributária",
+    "title": "Impacto do IVA dual nos setores de serviços e comércio",
+    "summary": "Especialistas analisam as alíquotas de referência e as novas regras de apuração de créditos não cumulativos.",
+    "content": "A transição exigirá simulações detalhadas para que o impacto na carga tributária final seja compreendido e repassado adequadamente na cadeia de valor.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 8,
+    "category": "Fiscal",
+    "title": "Prorrogação de prazos para entrega de declarações acessórias",
+    "summary": "Órgãos competentes cedem a pedidos de entidades de classe e estendem datas limite devido a instabilidades sistêmicas.",
+    "content": "A medida traz um alívio temporário para os escritórios de contabilidade durante o pico de obrigações do trimestre.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 9,
+    "category": "Contábil",
+    "title": "Provisões trabalhistas e cíveis: como registrar corretamente",
+    "summary": "Cuidados essenciais na mensuração contábil de contingências para evitar distorções no resultado do exercício.",
+    "content": "A avaliação jurídica deve ser integrada de forma transparente com o setor contábil para garantir a exatidão das notas explicativas.",
+    "sourceUrl": "https://www.cfc.org.br"
+  },
+  {
+    "id": 10,
+    "category": "Legislação",
+    "title": "Novas diretrizes para incentivos fiscais em projetos culturais",
+    "summary": "Governo atualiza limites de dedução de Imposto de Renda para empresas tributadas com base no lucro real.",
+    "content": "Oportunidade para corporações aplicarem parte de seus tributos em iniciativas sociais e de fomento à cultura regional.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 11,
+    "category": "Auditoria",
+    "title": "Transformação digital nos processos de auditoria interna",
+    "summary": "Uso de inteligência artificial e análise de dados em massa (Big Data) revoluciona a detecção de anomalias.",
+    "content": "Auditores agora conseguem analisar 100% das transações de uma empresa em tempo real, em vez de trabalhar apenas por amostragem.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 12,
+    "category": "Dicas",
+    "title": "Como preparar sua empresa para uma fiscalização surpresa",
+    "summary": "Checklist prático com documentos obrigatórios e condutas adequadas para receber auditores fiscais com tranquilidade.",
+    "content": "Manter livros contábeis, guias de recolhimento e certidões em dia e centralizados evita transtornos e multas por atraso na apresentação.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 13,
+    "category": "Reforma Tributária",
+    "title": "Regime específico para o setor imobiliário na Reforma",
+    "summary": "Mudanças nas regras de tributação para compra, venda e locação de imóveis geram debates no mercado.",
+    "content": "Construtoras e incorporadoras precisam recalcular o impacto de longo prazo nos seus orçamentos e cronogramas de obras.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 14,
+    "category": "Fiscal",
+    "title": "Malha fina do Imposto de Renda Pessoa Jurídica: principais causas",
+    "summary": "Erros comuns de cruzamento de dados bancários com faturamento declarado que levam empresas à fiscalização malhada.",
+    "content": "O alinhamento rigoroso entre extratos financeiros e contabilidade gerencial elimina divergências comuns evitáveis.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 15,
+    "category": "Contábil",
+    "title": "Avaliando o valor justo de ativos biológicos e imobilizados",
+    "summary": "Normas exigem laudos periódicos de avaliação para garantir que o patrimônio líquido reflita a realidade de mercado.",
+    "content": "Empresas com forte presença de ativos fixos precisam de parceiros especializados para a mensuração correta exigida pela auditoria.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 16,
+    "category": "Legislação",
+    "title": "Novas facilidades para abertura e regularização de MEIs",
+    "summary": "Simplificação de processos visa integrar microempreendedores individuais aos benefícios previdenciários com menos burocracia.",
+    "content": "Medidas incentivam a formalização e facilitam o acesso a linhas de crédito especiais voltadas aos pequenos negócios.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 17,
+    "category": "CONFAZ",
+    "title": "CONFAZ publica Ajuste SINIEF nº 40/2026 sobre fim da inutilização da NF-e",
+    "summary": "A medida extingue a obrigação de transmissão do evento de inutilização de numeração da NF-e para SP, BA e AC.",
+    "content": "A partir de 1º de novembro de 2026, os contribuintes estabelecidos em São Paulo, Bahia e Acre ficam dispensados de transmitir o pedido de inutilização de numeração da NF-e (Modelo 55) em caso de quebras de sequência numérica.",
+    "sourceUrl": "https://www.confaz.fazenda.gov.br"
+  },
+  {
+    "id": 18,
+    "category": "CONFAZ",
+    "title": "Ajuste SINIEF nº 38/2026 traz dispensa de inutilização para NFC-e",
+    "summary": "Decisão do CONFAZ alinha regras de desburocratização também para a Nota Fiscal de Consumidor Eletrônica.",
+    "content": "Seguindo a mesma diretriz da NF-e, os estados de SP, BA e AC passam a contar com a dispensa do pedido de inutilização de numeração para a NFC-e, agilizando os processos de emissão no varejo.",
+    "sourceUrl": "https://www.confaz.fazenda.gov.br"
+  },
+  {
+    "id": 19,
+    "category": "CONFAZ",
+    "title": "Manual de Orientação do Contribuinte (MOC) passa a contar com versão online centralizada",
+    "summary": "Paraná assume a gestão do formato centralizado do MOC para diversos documentos fiscais eletrônicos.",
+    "content": "O pacote de ajustes publicados pelo CONFAZ estabelece que as especificações técnicas de integração passam a valer diretamente pelo MOC online centralizado, substituindo atos intermediários anteriores.",
+    "sourceUrl": "https://www.confaz.fazenda.gov.br"
+  },
+  {
+    "id": 20,
+    "category": "CONFAZ",
+    "title": "Ajustes SINIEF nº 28 a 40/2026 trazem pacotes de atualizações fiscais",
+    "summary": "Reunião ordinária do CONFAZ em Maceió define alterações em dez documentos fiscais eletrônicos.",
+    "content": "O pacote de normas altera rotinas operacionais de emissão, prazos de vedação e procedimentos de contingência com vigências escalonadas até dezembro de 2026.",
+    "sourceUrl": "https://www.confaz.fazenda.gov.br"
+  },
+  {
+    "id": 21,
+    "category": "Receita Federal",
+    "title": "Receita Federal amplia cruzamento de dados de faturamento PJ",
+    "summary": "Novas ferramentas de inteligência artificial otimizam a detecção de omissões de receitas em declarações acessórias.",
+    "content": "O Fisco intensifica as análises cruzadas entre escriturações fiscais digitais e movimentações financeiras declaradas por instituições de pagamento.",
+    "sourceUrl": "https://www.gov.br/receitafederal"
+  },
+  {
+    "id": 22,
+    "category": "Receita Federal",
+    "title": "Orientações sobre regularização de divergências na ECF",
+    "summary": "Órgão alerta contribuintes sobre prazos para autorregularização de omissões identificadas na Escrituração Contábil Fiscal.",
+    "content": "Empresas notificadas ganham prazo para retificar informações sem a incidência de multas qualificadas, desde que o façam antes de autuações de ofício.",
+    "sourceUrl": "https://www.gov.br/receitafederal"
+  },
+  {
+    "id": 23,
+    "category": "LinkedIn",
+    "title": "Tendências de Tax Compliance e automação fiscal corporativa",
+    "summary": "Especialistas discutem em fóruns profissionais os impactos da parametrização seletiva por estado nos ERPs.",
+    "content": "Publicações destacam a importância de equipes de TI e fiscal trabalharem em conjunto para adaptar mensagerias diante das novas exceções geográficas do CONFAZ.",
+    "sourceUrl": "https://www.linkedin.com"
+  },
+  {
+    "id": 24,
+    "category": "LinkedIn",
+    "title": "O papel do profissional contábil na era da desburocratização digital",
+    "summary": "Artigos de líderes de opinião enfatizam a migração do foco operacional para a consultoria estratégica de negócios.",
+    "content": "Com a automatização de rotinas como inutilizações e validações de notas, o contador assume um papel consultivo essencial na tomada de decisões corporativas.",
+    "sourceUrl": "https://www.linkedin.com"
+  },
+  {
+    "id": 25,
+    "category": "Fiscal",
+    "title": "Minas Gerais publica ressalva regulatória no fluxo operacional da SEFAZ/MG",
+    "summary": "Estado ajusta procedimentos internos previstos no Ajuste SINIEF nº 40/2026.",
+    "content": "A normativa estabelece disposições específicas que afastam a aplicação de determinados dispositivos gerais para o território mineiro, exigindo atenção das equipes fiscais locais.",
+    "sourceUrl": "https://www.fazenda.mg.gov.br"
+  },
+  {
+    "id": 26,
+    "category": "CONFAZ",
+    "title": "Prorrogação da vedação de NF-e de saída referenciando NFC-e",
+    "summary": "Ajuste SINIEF nº 29/2026 altera prazo limite para adequação dos emissores de documentos fiscais.",
+    "content": "A restrição que passaria a valer em datas anteriores foi estendida para dezembro de 2026, dando fôlego para as empresas reestruturarem seus emissores.",
+    "sourceUrl": "https://www.confaz.fazenda.gov.br"
+  },
+  {
+    "id": 27,
+    "category": "Fiscal",
+    "title": "Cuidados com a manutenção da inutilização de numeração nas demais UFs",
+    "summary": "Especialistas alertam para o risco de desativação indevida da rotina fiscal em filiais fora de SP, BA e AC.",
+    "content": "Como a dispensa do evento de inutilização é restrita a três estados, empresas multinodais precisam parametrizar seus sistemas de forma regionalizada.",
+    "sourceUrl": "https://www.gov.br"
+  },
+  {
+    "id": 28,
+    "category": "CONFAZ",
+    "title": "Novas regras para recusa total ou parcial de mercadorias na NF-e",
+    "summary": "Ajuste SINIEF nº 34/2026 reescreve procedimentos aplicáveis aos retornos por recusa ou não localização do destinatário.",
+    "content": "A medida padroniza o fluxo que deve ser adotado pelo remetente da nota original ao lidar com devoluções por recusa no ato da entrega.",
+    "sourceUrl": "https://www.confaz.fazenda.gov.br"
+  },
+  {
+    "id": 29,
+    "category": "LinkedIn",
+    "title": "Desafios na gestão de múltiplos estados diante de regras tributárias assimétricas",
+    "summary": "Redes profissionais debatem a complexidade de manter conformidade com legislações estaduais divergentes.",
+    "content": "Debates apontam que a descentralização parcial de regras pelo CONFAZ aumenta o grau de exigência sobre os softwares de mensageria fiscal.",
+    "sourceUrl": "https://www.linkedin.com"
+  },
+  {
+    "id": 30,
+    "category": "Receita Federal",
+    "title": "Avanço do sistema de Nota Fiscal Fácil para produtores rurais",
+    "summary": "Iniciativa simplifica a emissão de documentos fiscais diretamente por dispositivos móveis no campo.",
+    "content": "A expansão da ferramenta visa integrar pequenos produtores rurais às exigências fiscais vigentes com menor fricção operacional.",
+    "sourceUrl": "https://www.gov.br/receitafederal"
+  }
 ]
