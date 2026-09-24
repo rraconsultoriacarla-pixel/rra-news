@@ -1,70 +1,118 @@
-[ 
+[
     {
         "id": 1,
-        "category": "Dicas",
-        "title": "Confaz autoriza parcelamento de ICMS com desconto de até 95%",
-        "summary": "Piauí e Rio de Janeiro poderão parcelar débitos de ICMS em até 60 vezes, enquanto Mato Grosso poderá ampliar anistia por falhas formais.\n              Leia mais em https://www.cont...",
+        "category": "Reforma Tributária",
+        "title": "Alíquota CBS: prazo apertado e impacto nas empresas",
+        "summary": "Saiba como a indefinição da alíquota da CBS para 2027 pode afetar o planejamento de preços e contratos das empresas brasileiras, gerando preocupações.\n              Leia mais em ht...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79589/confaz-autoriza-parcelamento-de-icms-com-desconto-de-ate-95/"
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79592/aliquota-cbs-prazo-apertado-e-impacto-nas-empresas/"
     },
     {
         "id": 2,
         "category": "Dicas",
-        "title": "Receita libera hoje (23) lote residual do IRPF 2026",
-        "summary": "Receita Federal libera consulta ao lote residual do IRPF 2026 nesta quarta (23); pagamento de R$ 1,26 bilhão será feito em 30 de setembro.\n              Leia mais em https://www.co...",
+        "title": "Split Payment 2027: Impactos e o que sua empresa deve fazer",
+        "summary": "Entenda o split payment 2027, mecanismo da Reforma Tributária que separa tributos. Veja como se preparar para seus impactos financeiros e operacionais.\n              Leia mais em h...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79591/receita-libera-hoje-23-lote-residual-do-irpf-2026/"
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79610/split-payment-2027-impactos-e-o-que-sua-empresa-deve-fazer/"
     },
     {
         "id": 3,
         "category": "Reforma Tributária",
-        "title": "Divulgado balanço de opções pelo Simples e regime regular do IBS/CBS",
-        "summary": "Até 18 de setembro, foram registradas 181.172 solicitações pelo Simples Nacional e 165.034 pelo regime regular do IBS e da CBS.\n              Leia mais em https://www.contabeis.com...",
+        "title": "Reforma Tributária: o que mudou no MEI, ME, EPP e Nanoempreendedor",
+        "summary": "Descubra as mudanças da Reforma Tributária para Simples Nacional, MEIs e o novo nanoempreendedor individual. Saiba prazos e impactos para pequenos negócios.\n              Leia mais...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79587/divulgado-balanco-de-opcoes-pelo-simples-e-regime-regular-do-ibs-cbs/"
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79621/reforma-tributaria-o-que-mudou-no-mei-me-epp-e-nanoempreendedor/"
     },
     {
         "id": 4,
         "category": "Dicas",
-        "title": "Simples: quase 120 mil pedidos são indeferidos",
-        "summary": "Receita recebeu 181 mil pedidos para o Simples em 2027; quase 120 mil foram indeferidos, mas contribuintes têm 30 dias para regularizar.\n              Leia mais em https://www.cont...",
+        "title": "Dedução do IR para Pronon e Pronas/PCD é prorrogada até 2031",
+        "summary": "Benefício tributário para pessoas jurídicas, que terminaria em 2026, foi estendido pela Lei 15.513/2026; dedução para pessoas físicas vigorou até 2025.\n              Leia mais em h...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79586/simples-quase-120-mil-pedidos-sao-indeferidos/"
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79605/deducao-do-ir-para-pronon-e-pronas-pcd-e-prorrogada-ate-2031/"
     },
     {
         "id": 5,
         "category": "Dicas",
-        "title": "Governo sanciona Redata: desoneração para datacenters",
-        "summary": "A Lei 15.504 cria o Redata, suspendendo impostos federais sobre equipamentos de datacenters. Saiba como empresas podem acessar benefícios e as contrapartidas exigidas.\n            ...",
+        "title": "INSS amplia prazo do auxílio por incapacidade temporária",
+        "summary": "Nova portaria mantém a regra excepcional para benefícios concedidos por análise documental.\n              Leia mais em https://www.contabeis.com.br/noticias/79603/inss-amplia-prazo...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79543/governo-sanciona-redata-desoneracao-para-datacenters/"
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79603/inss-amplia-prazo-do-auxilio-por-incapacidade-temporaria/"
     },
     {
         "id": 6,
-        "category": "Reforma Tributária",
-        "title": "STF: Limites na Compensação de Créditos Tributários Judiciais",
-        "summary": "STF valida limites mensais para compensação de créditos tributários judiciais acima de R$10 milhões. Entenda os impactos da decisão para empresas.\n              Leia mais em https:...",
+        "category": "Dicas",
+        "title": "SP terá Certidão Única de Débitos a partir de outubro",
+        "summary": "Nova certidão reunirá dados da Sefaz-SP e da PGE para comprovar a regularidade fiscal de pessoas físicas e jurídicas.\n              Leia mais em https://www.contabeis.com.br/notici...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79568/stf-limites-na-compensacao-de-creditos-tributarios-judiciais/"
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79598/sp-tera-certidao-unica-de-debitos-a-partir-de-outubro/"
     },
     {
         "id": 7,
         "category": "Dicas",
-        "title": "Dois empregos: como evitar desconto indevido de INSS",
-        "summary": "Trabalhador com dois empregos deve informar os vínculos para evitar contribuição ao INSS acima do teto previdenciário.\n              Leia mais em https://www.contabeis.com.br/notic...",
+        "title": "Energia autogerada não gera crédito de PIS e Cofins, diz Receita",
+        "summary": "Solução de Consulta Cosit nº 177/2026 afasta créditos de PIS/Pasep e Cofins sobre energia elétrica gerada e consumida pela própria empresa.\n              Leia mais em https://www.c...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79567/dois-empregos-como-evitar-desconto-indevido-de-inss/"
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79597/energia-autogerada-nao-gera-credito-de-pis-e-cofins-diz-receita/"
     },
     {
         "id": 8,
-        "category": "Dicas",
-        "title": "STF analisa ICMS sobre energia e Áreas de Livre Comércio",
-        "summary": "STF analisa inclusão de subsídio de energia na base do ICMS e benefícios fiscais destinados às Áreas de Livre Comércio.\n              Leia mais em https://www.contabeis.com.br/noti...",
+        "category": "Contábil",
+        "title": "CFC libera locais do EQT; provas começam dia 28",
+        "summary": "CFC divulga locais da 2ª edição do EQT 2026. Provas serão realizadas entre 28 de setembro e 3 de outubro, das 14h às 18h.\n              Leia mais em https://www.contabeis.com.br/no...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79565/stf-analisa-icms-sobre-energia-e-areas-de-livre-comercio/"
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79596/cfc-libera-locais-do-eqt-provas-comecam-dia-28/"
     },
     {
         "id": 9,
+        "category": "Dicas",
+        "title": "CONFAZ autoriza o Refis para o ICMS em três estados. Confira!",
+        "summary": "Propostas preveem abatimento de até 95% em juros e multas para débitos fiscais\nO post CONFAZ autoriza o Refis para o ICMS em três estados. Confira! apareceu primeiro em Jornal Cont...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://jornalcontabil.com.br/noticia/confaz-autoriza-o-refis-para-o-icms-em-tres-estados-confira/"
+    },
+    {
+        "id": 10,
+        "category": "Dicas",
+        "title": "Documentos fiscais: quanto tempo sua empresa deve guardar e mudanças recentes",
+        "summary": "Saber exatamente até quando guardar cada comprovante evita multas pesadas e garante a saúde financeira do seu negócio\nO post Documentos fiscais: quanto tempo sua empresa deve guard...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://jornalcontabil.com.br/noticia/documentos-fiscais-quanto-tempo-sua-empresa-deve-guardar-e-mudancas-recentes/"
+    },
+    {
+        "id": 11,
+        "category": "Dicas",
+        "title": "Trabalhador formal: por que a carteira é um passo para sua aposentadoria?",
+        "summary": "Veja como proceder em caso de períodos trabalhados sem o registro\nO post Trabalhador formal: por que a carteira é um passo para sua aposentadoria?  apareceu primeiro em Jornal Cont...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://jornalcontabil.com.br/noticia/trabalhador-formal-por-que-a-carteira-e-um-passo-para-sua-aposentadoria/"
+    },
+    {
+        "id": 12,
+        "category": "Dicas",
+        "title": "6 erros mais cometidos por contadores iniciantes",
+        "summary": "Profissionais recém-formados enfrentam decisões decisivas na captação de clientes e na gestão do escritório. Veja os principais erros e evite-os\nO post 6 erros mais cometidos por c...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://jornalcontabil.com.br/noticia/6-erros-mais-cometidos-por-contadores-iniciantes/"
+    },
+    {
+        "id": 13,
+        "category": "Dicas",
+        "title": "Renovado por mais um ano o auxílio-doença sem perícia presencial",
+        "summary": "Decisão estende por 365 dias a regra que permite a concessão do benefício de até 90 dias via Atestmed\nO post Renovado por mais um ano o auxílio-doença sem perícia presencial  apare...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://jornalcontabil.com.br/noticia/renovado-por-mais-um-ano-o-auxilio-doenca-sem-pericia-presencial/"
+    },
+    {
+        "id": 14,
+        "category": "Dicas",
+        "title": "Como a automação comercial pode alavancar os lucros do seu negócio",
+        "summary": "Automação comercial é um tema cada vez mais relevante no mundo dos negócios. Entenda sua vantagens\nO post Como a automação comercial pode alavancar os lucros do seu negócio aparece...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://jornalcontabil.com.br/noticia/como-a-automacao-comercial-pode-alavancar-os-lucros-do-seu-negocio/"
+    },
+    {
+        "id": 15,
         "category": "Reforma Tributária",
         "title": "Receita registra mais de 340 mil pedidos de adesão a regimes tributários",
         "summary": "Balanço aponta alto número de indeferimentos para o Simples Nacional, mas contribuintes ainda podem regularizar pendências \nO post Receita registra mais de 340 mil pedidos de adesã...",
@@ -72,59 +120,11 @@
         "sourceUrl": "https://jornalcontabil.com.br/noticia/receita-registra-mais-de-340-mil-pedidos-de-adesao-a-regimes-tributarios/"
     },
     {
-        "id": 10,
+        "id": 16,
         "category": "Dicas",
         "title": "INSS: quem não contribui atualmente pode receber o auxílio-doença?",
         "summary": "Veja como garantir seu benefício mesmo sem contribuições recentes ao INSS.\nO post INSS: quem não contribui atualmente pode receber o auxílio-doença?  apareceu primeiro em Jornal Co...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://jornalcontabil.com.br/noticia/inss-quem-nao-contribui-atualmente-pode-receber-o-auxilio-doenca/"
-    },
-    {
-        "id": 11,
-        "category": "Dicas",
-        "title": "Fim da escala 6×1: quais os impactos para empresas e trabalhadores?",
-        "summary": "Com avanço da proposta no Congresso, mercado de trabalho avalia custos operacionais, produtividade e novas formas de organizar as jornadas\nO post Fim da escala 6&#215;1: quais os i...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/fim-da-escala-6x1-quais-os-impactos-para-empresas-e-trabalhadores/"
-    },
-    {
-        "id": 12,
-        "category": "Fiscal",
-        "title": "Empreendedorismo digital: como aumentar vendas pela internet",
-        "summary": "Presença digital, conteúdo, tráfego qualificado e experiência de compra são pilares para estruturar negócios e ampliar oportunidades no ambiente online\nO post Empreendedorismo digi...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/empreendedorismo-digital-como-aumentar-vendas-pela-internet/"
-    },
-    {
-        "id": 13,
-        "category": "Fiscal",
-        "title": "Locais das provas da 2ª edição do EQT/2026 já estão disponíveis",
-        "summary": "Candidatos devem acessar a página eletrônica da FGV \nO post Locais das provas da 2ª edição do EQT/2026 já estão disponíveis apareceu primeiro em Jornal Contábil - Independência e c...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/locais-das-provas-da-2a-edicao-do-eqt-2026-ja-estao-disponiveis/"
-    },
-    {
-        "id": 14,
-        "category": "Dicas",
-        "title": "Manutenção programada deixará serviço de NFC-e indisponível",
-        "summary": "Emissão de Nota Fiscal de Consumidor Eletrônica ficará suspensa por quase duas horas. Confira\nO post Manutenção programada deixará serviço de NFC-e indisponível  apareceu primeiro ...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/manutencao-programada-deixara-servico-de-nfc-e-indisponivel/"
-    },
-    {
-        "id": 15,
-        "category": "Reforma Tributária",
-        "title": "Novo IVA DUAL: como a Reforma Tributária transforma a emissão de notas fiscais no Brasil",
-        "summary": "Atualização das notas fiscais eletrônicas traz novos campos para IBS e CBS e adequação é essencial para evitar rejeição \nO post Novo IVA DUAL: como a Reforma Tributária transforma ...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/novo-iva-dual-como-a-reforma-tributaria-transforma-a-emissao-de-notas-fiscais-no-brasil/"
-    },
-    {
-        "id": 16,
-        "category": "Reforma Tributária",
-        "title": "Vale a pena continuar no Simples Nacional após a Reforma Tributária?",
-        "summary": "Regime unificado segue garantido, mas mecanismo do IVA Dual força pequenos negócios a recalcularem a competitividade nas vendas para outras empresas\nO post Vale a pena continuar no...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://jornalcontabil.com.br/noticia/vale-a-pena-continuar-no-simples-nacional-apos-a-reforma-tributaria/"
     }
 ]
