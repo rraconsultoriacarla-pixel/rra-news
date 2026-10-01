@@ -263,6 +263,7 @@
             display: inline-flex;
             align-items: center;
             gap: 6px;
+            transition: background-color 0.2s;
         }
 
         .btn-external:hover {
@@ -316,7 +317,8 @@
             <h2 class="modal-title" id="modalTitle">Título da Notícia</h2>
             <p class="modal-body" id="modalBody">Resumo detalhado da notícia...</p>
             <div class="modal-footer">
-                <a href="#" id="modalLink" class="btn-external" target="_blank" rel="noopener noreferrer">Acessar Notícia Completa (Fonte Original) &rarr;</a>
+                <!-- O ID abaixo garante que o link seja alterado dinamicamente para a notícia específica -->
+                <a href="#" id="modalLink" class="btn-external" target="_blank" rel="noopener noreferrer">Acessar Notícia Completa &rarr;</a>
             </div>
         </div>
     </div>
@@ -334,35 +336,13 @@
                 if (!response.ok) throw new Error('Arquivo de notícias não encontrado.');
                 newsData = await response.json();
                 
-                // Garantia no Front-end: se porventura o JSON tiver menos de 30 itens, completa automaticamente
                 if (!Array.isArray(newsData)) newsData = [];
-                
-                const temasFallback = [
-                    { category: "Fiscal", title: "Prazo de entrega de obrigações acessórias exige atenção dos contadores" },
-                    { category: "Contábil", title: "Novas diretrizes para o balanço patrimonial e demonstrações contábeis" },
-                    { category: "Reforma Tributária", title: "Impactos do IVA dual na rotina de pequenas e médias empresas" },
-                    { category: "Legislação", title: "Governo federal publica novas portarias sobre rotinas trabalhistas" },
-                    { category: "Dicas", title: "Como otimizar o planejamento tributário para o próximo trimestre" }
-                ];
 
-                let contadorFallback = 1;
-                while (newsData.length < 30) {
-                    const fallbackItem = temasFallback[(newsData.length) % temasFallback.length];
-                    newsData.push({
-                        id: newsData.length + 1,
-                        category: fallbackItem.category,
-                        title: `${fallbackItem.title} (Boletim Diário #${contadorFallback})`,
-                        summary: "Acompanhe as principais movimentações e orientações regulatórias voltadas para o setor empresarial e contábil brasileiro.",
-                        content: "Esta publicação faz parte do informativo diário do portal RRAnews, mantendo os profissionais atualizados sobre as exigências e normativas da área.",
-                        sourceUrl: "https://www.contabeis.com.br"
-                    });
-                    contadorFallback++;
-                }
-
-                // Limita estritamente a 30 itens e garante IDs consistentes
+                // Padronização e limites rigorosos de 30 itens
                 newsData = newsData.slice(0, 30).map((item, index) => ({
                     ...item,
-                    id: index + 1
+                    id: index + 1,
+                    sourceUrl: item.sourceUrl && item.sourceUrl.startsWith('http') ? item.sourceUrl : "https://www.contabeis.com.br"
                 }));
 
                 renderNews('all'); 
@@ -428,8 +408,11 @@
             if(news) {
                 document.getElementById('modalCategory').textContent = news.category;
                 document.getElementById('modalTitle').textContent = news.title;
-                document.getElementById('modalBody').textContent = news.content;
+                document.getElementById('modalBody').textContent = news.summary + "\n\n" + news.content;
+                
+                // CORREÇÃO PRINCIPAL: Atribui especificamente o link individual daquela notícia ao botão do modal
                 document.getElementById('modalLink').href = news.sourceUrl;
+                
                 document.getElementById('newsModal').classList.add('active');
             }
         }
