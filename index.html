@@ -317,7 +317,6 @@
             <h2 class="modal-title" id="modalTitle">Título da Notícia</h2>
             <p class="modal-body" id="modalBody">Resumo detalhado da notícia...</p>
             <div class="modal-footer">
-                <!-- O link agora é atualizado dinamicamente direto pela URL correta da notícia -->
                 <a href="#" id="modalLink" class="btn-external" target="_blank" rel="noopener noreferrer">Acessar Notícia Completa &rarr;</a>
             </div>
         </div>
@@ -332,7 +331,7 @@
 
         async function carregarNoticiasAutomaticas() {
             try {
-                // Força o navegador a buscar a versão mais recente ignorando o cache
+                // Força o navegador a buscar a versão atualizada ignorando o cache
                 const response = await fetch('./noticias.json?v=' + new Date().getTime());
                 if (!response.ok) throw new Error('Arquivo de notícias não encontrado.');
                 newsData = await response.json();
@@ -342,7 +341,7 @@
                 renderNews('all'); 
             } catch (error) {
                 console.error("Erro ao carregar as notícias:", error);
-                document.getElementById('newsGrid').innerHTML = '<p style="color: red; grid-column: 1/-1;">Não foi possível carregar as notícias no momento. Verifique se o arquivo noticias.json está na mesma pasta.</p>';
+                document.getElementById('newsGrid').innerHTML = '<p style="color: red; grid-column: 1/-1;">Não foi possível carregar as notícias. Verifique se o arquivo noticias.json está na mesma pasta.</p>';
             }
         }
 
@@ -369,7 +368,6 @@
                 const card = document.createElement('div');
                 card.className = 'news-card';
                 
-                // Armazenamos a URL exata da notícia dentro de um atributo de dados (data-url) do botão
                 const safeUrl = item.sourceUrl && item.sourceUrl.startsWith('http') ? item.sourceUrl : "https://www.contabeis.com.br";
 
                 card.innerHTML = `
@@ -407,7 +405,6 @@
             renderNews(categoryName);
         }
 
-        // Função infalível que puxa os dados direto do botão clicado
         function openModalFromButton(button) {
             const title = button.getAttribute('data-title');
             const category = button.getAttribute('data-category');
@@ -419,7 +416,7 @@
             document.getElementById('modalTitle').textContent = title;
             document.getElementById('modalBody').textContent = summary + "\n\n" + content;
             
-            // Atribui a URL exata e específica da notícia ao botão de redirecionamento
+            // Atribui a URL específica da notícia escolhida para o botão de redirecionamento
             document.getElementById('modalLink').href = url;
             
             document.getElementById('newsModal').classList.add('active');
