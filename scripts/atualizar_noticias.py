@@ -6,9 +6,10 @@ from datetime import datetime
 
 def buscar_noticias_rss():
     """
-    Busca notícias contábeis e fiscais diretamente dos feeds RSS oficiais,
-    garantindo a coleta de exatamente 30 notícias no total.
+    Busca notícias contábeis e fiscais diretamente dos feeds RSS oficiais 
+    de portais confiáveis, coletando até 30 notícias no total.
     """
+    # URLs de Feeds RSS públicos de portais de contabilidade
     rss_urls = [
         "https://www.contabeis.com.br/noticias/rss/",
         "https://www.jornalcontabil.com.br/feed/"
@@ -16,25 +17,22 @@ def buscar_noticias_rss():
     
     noticias_coletadas = []
     id_contador = 1
-    limite_total = 30
+
+    # Definimos 15 notícias por portal para totalizar 30 notícias
+    limite_por_portal = 15
 
     for url in rss_urls:
-        if len(noticias_coletadas) >= limite_total:
-            break
-            
         try:
             print(f"Buscando notícias em: {url}")
             response = requests.get(url, timeout=10, headers={'User-Agent': 'Mozilla/5.0'})
             if response.status_code == 200:
+                # Parse do XML/RSS
                 root = ET.fromstring(response.content)
                 channel = root.find('channel')
                 
                 if channel is not None:
                     items = channel.findall('item')
-                    for item in items:
-                        if len(noticias_coletadas) >= limite_total:
-                            break
-                            
+                    for item in items[:limite_por_portal]:
                         title_elem = item.find('title')
                         link_elem = item.find('link')
                         desc_elem = item.find('description')
@@ -42,6 +40,7 @@ def buscar_noticias_rss():
                         title = title_elem.text.strip() if title_elem is not None and title_elem.text else "Sem Título"
                         link = link_elem.text.strip() if link_elem is not None and link_elem.text else "#"
                         
+                        # Limpa tags HTML básicas do resumo se houver
                         summary = "Atualização recente sobre o cenário contábil, fiscal e tributário brasileiro."
                         if desc_elem is not None and desc_elem.text:
                             raw_desc = desc_elem.text
@@ -50,6 +49,7 @@ def buscar_noticias_rss():
                             if len(clean_desc.strip()) > 10:
                                 summary = clean_desc.strip()[:180] + "..."
 
+                        # Classificação automática simples por palavras-chave no título
                         category = "Geral"
                         t_lower = title.lower()
                         if "reforma" in t_lower or "tributári" in t_lower or "ibs" in t_lower or "cbs" in t_lower:
@@ -70,14 +70,14 @@ def buscar_noticias_rss():
                             "category": category,
                             "title": title,
                             "summary": summary,
-                            "content": "Detalhes completos disponíveis na fonte original.",
+                            "content": f"Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
                             "sourceUrl": link
                         })
                         id_contador += 1
         except Exception as e:
             print(f"Erro ao processar o feed {url}: {e}")
 
-    return noticias_coletadas[:limite_total]
+    return noticias_coletadas
 
 if __name__ == "__main__":
     try:
@@ -87,9 +87,14 @@ if __name__ == "__main__":
         if not lista_noticias:
             raise Exception("Nenhuma notícia foi encontrada nos feeds RSS.")
 
+        # Limita a um total consolidado de até 30 notícias
+        lista_noticias = lista_noticias[:30]
+
+        # Reindexa os IDs sequencialmente de 1 até o total coletado
         for idx, noticia in enumerate(lista_noticias, start=1):
             noticia["id"] = idx
 
+        # Salva o JSON na raiz do repositório para o site ler
         caminho_raiz = "noticias.json"  
         
         with open(caminho_raiz, "w", encoding="utf-8") as f:
