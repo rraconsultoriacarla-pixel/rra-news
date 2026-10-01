@@ -7,7 +7,7 @@ from datetime import datetime
 def buscar_noticias_rss():
     """
     Busca notícias contábeis e fiscais diretamente dos feeds RSS oficiais 
-    de portais confiáveis, eliminando a dependência de IA e cotas de API.
+    de portais confiáveis, coletando até 30 notícias no total.
     """
     # URLs de Feeds RSS públicos de portais de contabilidade
     rss_urls = [
@@ -17,6 +17,9 @@ def buscar_noticias_rss():
     
     noticias_coletadas = []
     id_contador = 1
+
+    # Definimos 15 notícias por portal para totalizar 30 notícias
+    limite_por_portal = 15
 
     for url in rss_urls:
         try:
@@ -29,7 +32,7 @@ def buscar_noticias_rss():
                 
                 if channel is not None:
                     items = channel.findall('item')
-                    for item in items[:8]: # Pega até 8 notícias por portal
+                    for item in items[:limite_por_portal]:
                         title_elem = item.find('title')
                         link_elem = item.find('link')
                         desc_elem = item.find('description')
@@ -41,7 +44,6 @@ def buscar_noticias_rss():
                         summary = "Atualização recente sobre o cenário contábil, fiscal e tributário brasileiro."
                         if desc_elem is not None and desc_elem.text:
                             raw_desc = desc_elem.text
-                            # Remove tags HTML simples
                             import re
                             clean_desc = re.sub('<[^<]+?>', '', raw_desc)
                             if len(clean_desc.strip()) > 10:
@@ -85,8 +87,12 @@ if __name__ == "__main__":
         if not lista_noticias:
             raise Exception("Nenhuma notícia foi encontrada nos feeds RSS.")
 
-        # Limita a um total consolidado de 12 a 16 notícias
-        lista_noticias = lista_noticias[:16]
+        # Limita a um total consolidado de até 30 notícias
+        lista_noticias = lista_noticias[:30]
+
+        # Reindexa os IDs sequencialmente de 1 até o total coletado
+        for idx, noticia in enumerate(lista_noticias, start=1):
+            noticia["id"] = idx
 
         # Salva o JSON na raiz do repositório para o site ler
         caminho_raiz = "noticias.json"  
