@@ -1,5 +1,6 @@
-name: Atualizar Noticias Contabeis
-
+- name: Executar robô de notícias
+        run: |
+          python scripts/atualizar_noticias.py
 on:
   workflow_dispatch:
   schedule:
