@@ -3,7 +3,8 @@ name: Atualizar Noticias Contabeis
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 8 * * *'
+    # Executa todo dia às 06:00 da manhã (Horário de Brasília)
+    - cron: '0 9 * * *'
 
 jobs:
   atualizar:
@@ -27,12 +28,12 @@ jobs:
 
       - name: Executar robô de notícias
         run: |
-          python scripts/atualizar_noticias.py
+          python atualizar_noticias.py
 
       - name: Salvar alterações no repositório
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Atualização automática de notícias contábeis via RSS"
+          commit_message: "Atualização automática de 30 notícias contábeis via RSS"
           file_pattern: "noticias.json"
           commit_options: '--no-verify'
           skip_ci: true
