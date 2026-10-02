@@ -1,11 +1,99 @@
 [
     {
         "category": "Reforma Tributária",
+        "title": "Reforma Tributária para Incorporadoras: Mudanças e Desafios",
+        "summary": "Entenda a reforma tributária para incorporadoras, as complexidades da transição do RET para IBS/CBS e como planejar sistemas, processos e preços para o novo cenário fiscal.\n       ...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79780/reforma-tributaria-para-incorporadoras-mudancas-e-desafios/",
+        "id": 1
+    },
+    {
+        "category": "Dicas",
+        "title": "Quinto dia útil de outubro: salário cai até dia 6",
+        "summary": "Saiba quando será o quinto dia útil de outubro de 2026 para o pagamento de salários. Entenda a contagem pela CLT, a inclusão do sábado e as implicações de atraso.\n              Lei...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79782/quinto-dia-util-de-outubro-salario-cai-ate-dia-6/",
+        "id": 2
+    },
+    {
+        "category": "Dicas",
+        "title": "STJ permite penhora de salário para pagar dívida civil",
+        "summary": "STJ define que salário pode ser penhorado excepcionalmente para quitar dívida civil, mesmo abaixo de 50 salários mínimos.\n              Leia mais em https://www.contabeis.com.br/no...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79781/stj-permite-penhora-de-salario-para-pagar-divida-civil/",
+        "id": 3
+    },
+    {
+        "category": "Dicas",
+        "title": "Projeto prevê dedução integral no IRPF para dependentes autistas",
+        "summary": "Projeto em análise na Câmara prevê dedução integral de gastos educacionais com dependentes com Transtorno do Espectro Autista.\n              Leia mais em https://www.contabeis.com....",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79786/projeto-preve-deducao-integral-no-irpf-para-dependentes-autistas/",
+        "id": 4
+    },
+    {
+        "category": "Dicas",
+        "title": "Receita define tributação de empresas públicas dependentes",
+        "summary": "Receita Federal esclarece incidência de IRPJ e CSLL e afasta crédito fiscal sobre repasses orçamentários a empresas públicas dependentes.\n              Leia mais em https://www.con...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79778/receita-define-tributacao-de-empresas-publicas-dependentes/",
+        "id": 5
+    },
+    {
+        "category": "Dicas",
+        "title": "FAP 2027 já pode ser consultado; contestação começa em novembro",
+        "summary": "Empresas já podem consultar o FAP que será aplicado em 2027. Veja como conferir o índice por estabelecimento e o prazo para contestar divergências.\n              Leia mais em https...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79776/fap-2027-ja-pode-ser-consultado-contestacao-comeca-em-novembro/",
+        "id": 6
+    },
+    {
+        "category": "Dicas",
+        "title": "Aéreas podem ter desconto de 40% nos novos tributos",
+        "summary": "Ministério de Portos e Aeroportos avalia benefício para empresas com mais de 50% da operação formada por rotas regionais.\n              Leia mais em https://www.contabeis.com.br/no...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79773/aereas-podem-ter-desconto-de-40-nos-novos-tributos/",
+        "id": 7
+    },
+    {
+        "category": "Dicas",
+        "title": "CNC: confiança do empresário do comércio cai a 100 pontos em setembro",
+        "summary": "Índice de confiança do comércio recua em setembro. CNC associa piora no vestuário à concorrência de compras internacionais após fim do imposto federal.\n              Leia mais em h...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79771/cnc-confianca-do-empresario-do-comercio-cai-a-100-pontos-em-setembro/",
+        "id": 8
+    },
+    {
+        "category": "Dicas",
+        "title": "Exame de Suficiência 2026 tem novo prazo para recursos",
+        "summary": "Candidatos da 2ª edição do Exame de Suficiência 2026 terão novo prazo para contestar o gabarito preliminar da prova objetiva.\n              Leia mais em https://www.contabeis.com.b...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79772/exame-de-suficiencia-2026-tem-novo-prazo-para-recursos/",
+        "id": 9
+    },
+    {
+        "category": "Dicas",
+        "title": "STF limita multa a empresa que distribui lucros",
+        "summary": "STF define condições para aplicar multa a empresas com dívida tributária que distribuem lucros ou bonificações.\n              Leia mais em https://www.contabeis.com.br/noticias/797...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79777/stf-limita-multa-a-empresa-que-distribui-lucros/",
+        "id": 10
+    },
+    {
+        "category": "Dicas",
+        "title": "Receita esclarece cálculo de ganho de capital em bens de casais",
+        "summary": "A Solução de Consulta Cosit nº 161/2026 determina que o ganho de capital em bens comuns de casais deve ser calculado sobre o valor total antes da divisão do imposto.\n              ...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79770/receita-esclarece-calculo-de-ganho-de-capital-em-bens-de-casais/",
+        "id": 11
+    },
+    {
+        "category": "Reforma Tributária",
         "title": "NFS-e: informações de IBS e CBS passam a ser exigidas em outubro",
         "summary": "A partir de 1º de outubro, notas fiscais da maior parte dos serviços sujeitos ao ISS devem trazer informações de IBS e CBS. Veja as exceções e os prazos do Simples.\n              L...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79768/nfs-e-informacoes-de-ibs-e-cbs-passam-a-ser-exigidas-em-outubro/",
-        "id": 1
+        "id": 12
     },
     {
         "category": "Reforma Tributária",
@@ -13,7 +101,7 @@
         "summary": "Confira os principais prazos de outubro de 2026 para EFD-Reinf, PGDAS-D, Dirbi, DCTFWeb, tributos federais e opções do Simples Nacional.\n              Leia mais em https://www.cont...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79766/agenda-tributaria-de-outubro-de-2026-veja-prazos-e-vencimentos/",
-        "id": 2
+        "id": 13
     },
     {
         "category": "Dicas",
@@ -21,7 +109,7 @@
         "summary": "Receita Federal inicia em 15 de outubro testes de integração do split payment com prestadores de serviços de pagamento.\n              Leia mais em https://www.contabeis.com.br/noti...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79769/split-payment-testes-comecam-em-15-de-outubro/",
-        "id": 3
+        "id": 14
     },
     {
         "category": "Dicas",
@@ -29,94 +117,6 @@
         "summary": "Contribuintes com negociações ativas na PGFN devem consultar o extrato bancário e verificar o pagamento da parcela com vencimento em 30 de setembro.\n              Leia mais em http...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79767/pgfn-alerta-para-atraso-no-debito-automatico-de-parcelas/",
-        "id": 4
-    },
-    {
-        "category": "Dicas",
-        "title": "STF adia decisão sobre correção de depósitos judiciais",
-        "summary": "O STF adiou o julgamento da correção de depósitos judiciais, mantendo a incerteza para empresas. Entenda os expurgos inflacionários e o impacto no planejamento financeiro.\n        ...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79756/stf-adia-decisao-sobre-correcao-de-depositos-judiciais/",
-        "id": 5
-    },
-    {
-        "category": "Dicas",
-        "title": "Capital de giro: como calcular na pequena empresa",
-        "summary": "Entenda o que é capital de giro, como calcular o valor disponível e quais cuidados ajudam a manter o caixa da pequena empresa saudável.\n              Leia mais em https://www.conta...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79755/capital-de-giro-como-calcular-na-pequena-empresa/",
-        "id": 6
-    },
-    {
-        "category": "Dicas",
-        "title": "BC avalia integração do Pix com sistema europeu de pagamentos",
-        "summary": "BC e Banco Central Europeu iniciaram estudos para avaliar a viabilidade de conectar o Pix ao sistema europeu TIPS.\n              Leia mais em https://www.contabeis.com.br/noticias/...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79754/bc-avalia-integracao-do-pix-com-sistema-europeu-de-pagamentos/",
-        "id": 7
-    },
-    {
-        "category": "Fiscal",
-        "title": "Simples Nacional: quando a contribuição patronal fica fora do DAS?",
-        "summary": "Empresas do Anexo IV recolhem a contribuição previdenciária patronal fora do DAS. Veja como funciona para atividades mistas e para o MEI com empregado.\n              Leia mais em h...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79748/simples-nacional-quando-a-contribuicao-patronal-fica-fora-do-das/",
-        "id": 8
-    },
-    {
-        "category": "Dicas",
-        "title": "Novo Caged: Brasil cria 165,8 mil vagas em agosto",
-        "summary": "Dados do Novo Caged mostram a criação de 165,8 mil empregos formais em agosto. Serviços lideraram a abertura de vagas no mês.\n              Leia mais em https://www.contabeis.com.b...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79750/novo-caged-brasil-cria-165-8-mil-vagas-em-agosto/",
-        "id": 9
-    },
-    {
-        "category": "Fiscal",
-        "title": "Pagou DAS-MEI duas vezes? Veja como solicitar a restituição",
-        "summary": "Pagamento duplicado do DAS-MEI pode ser restituído, mas o procedimento depende do tributo e do órgão responsável pela cobrança.\n              Leia mais em https://www.contabeis.com...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79752/pagou-das-mei-duas-vezes-veja-como-solicitar-a-restituicao/",
-        "id": 10
-    },
-    {
-        "category": "Dicas",
-        "title": "Dividendos: Justiça afasta IR de empresa do Simples",
-        "summary": "Justiça Federal de São Paulo afasta retenção de 10% sobre dividendos pagos por empresa do Simples Nacional. Decisão ainda pode ser revisada.\n              Leia mais em https://www....",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79749/dividendos-justica-afasta-ir-de-empresa-do-simples/",
-        "id": 11
-    },
-    {
-        "category": "Dicas",
-        "title": "Admissão preliminar no eSocial: prazo e riscos de não enviar o S-2200",
-        "summary": "Enviou o S-2190 e não completou a admissão? Veja o prazo do S-2200, o alerta no fechamento da folha e os efeitos para outros eventos do eSocial.\n              Leia mais em https://...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79744/admissao-preliminar-no-esocial-prazo-e-riscos-de-nao-enviar-o-s-2200/",
-        "id": 12
-    },
-    {
-        "category": "Fiscal",
-        "title": "Desenrola Adimplentes ganha mais 30 dias para renegociar dívidas",
-        "summary": "Programa permite a trabalhadores informais renegociar até R$ 15 mil em dívidas de crédito pessoal, com juros de até 1,99% ao mês.\n              Leia mais em https://www.contabeis.c...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79746/desenrola-adimplentes-ganha-mais-30-dias-para-renegociar-dividas/",
-        "id": 13
-    },
-    {
-        "category": "Dicas",
-        "title": "Holding: modismo ou solução?",
-        "summary": "Desvende a holding imobiliária sem fórmulas mágicas. Entenda a tributação PF x PJ na locação/venda de imóveis e armadilhas fiscais. Proteção patrimonial real.\n              Leia ma...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79753/holding-modismo-ou-solucao/",
-        "id": 14
-    },
-    {
-        "category": "Legislação",
-        "title": "Lei do Bem: Carf mantém negativa a projeto de inovação",
-        "summary": "Decisão do Carf esclarece que pareceres de órgãos vinculados ao MCTI não substituem avaliação oficial para projetos da Lei do Bem. Entenda o impacto para sua empresa.\n             ...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79747/lei-do-bem-carf-mantem-negativa-a-projeto-de-inovacao/",
         "id": 15
     },
     {
