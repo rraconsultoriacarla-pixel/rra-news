@@ -1,11 +1,75 @@
 [
     {
+        "category": "Dicas",
+        "title": "Salário complessivo: o que é, por que é proibido e quais os riscos",
+        "summary": "Entenda por que pagar salário e adicionais em um valor único, sem identificar cada parcela, pode gerar passivo trabalhista e problemas na folha.\n              Leia mais em https://...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79706/salario-complessivo-o-que-e-por-que-e-proibido-e-quais-os-riscos/",
+        "id": 1
+    },
+    {
+        "category": "Dicas",
+        "title": "Gorjeta no Simples Nacional: Entenda o Julgamento do STJ",
+        "summary": "Entenda como restaurantes devem registrar gorjetas e o que dizem o STJ e a Receita sobre a inclusão desses valores na base tributária.\n              Leia mais em https://www.contab...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79729/gorjeta-no-simples-nacional-entenda-o-julgamento-do-stj/",
+        "id": 2
+    },
+    {
+        "category": "Fiscal",
+        "title": "STJ permite bloqueio antes de citação em execução fiscal",
+        "summary": "STJ considera legítimo arresto de valores via Sisbajud antes da citação por edital em execução fiscal, em determinadas situações.\n              Leia mais em https://www.contabeis.c...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79727/stj-permite-bloqueio-antes-de-citacao-em-execucao-fiscal/",
+        "id": 3
+    },
+    {
+        "category": "Auditoria",
+        "title": "EQT: entenda para que serve a prova de auditoria na Previc",
+        "summary": "Prova específica do EQT foi aplicada em 3 de outubro e é voltada à atuação em auditoria nas entidades supervisionadas pela Previc.\n              Leia mais em https://www.contabeis....",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79775/eqt-entenda-para-que-serve-a-prova-de-auditoria-na-previc/",
+        "id": 4
+    },
+    {
+        "category": "Dicas",
+        "title": "Próximos feriados de 2026: veja as datas até dezembro",
+        "summary": "Confira os cinco feriados nacionais restantes de 2026, seus dias da semana e os pontos facultativos que exigem atenção de empresas e escritórios contábeis.\n              Leia mais ...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79707/proximos-feriados-de-2026-veja-as-datas-ate-dezembro/",
+        "id": 5
+    },
+    {
+        "category": "Dicas",
+        "title": "TST define que sindicatos podem defender direitos de um único trabalhador",
+        "summary": "Tese vinculante do TST reconhece legitimidade sindical para atuar em ações individuais ou coletivas nas fases de conhecimento, liquidação e execução.\n              Leia mais em htt...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79774/tst-define-que-sindicatos-podem-defender-direitos-de-um-unico-trabalhador/",
+        "id": 6
+    },
+    {
+        "category": "Dicas",
+        "title": "EFD-Reinf retificada: por que a DCTFWeb fica ‘em andamento’?",
+        "summary": "Após retificar a EFD-Reinf, a DCTFWeb pode gerar uma declaração retificadora em andamento. Veja por que isso ocorre e como regularizar a situação.\n              Leia mais em https:...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79705/efd-reinf-retificada-por-que-a-dctfweb-fica-em-andamento/",
+        "id": 7
+    },
+    {
+        "category": "Dicas",
+        "title": "Receita permite comparar empresa com dados do mercado",
+        "summary": "Painel Receita passa a apresentar indicadores mensais de receita bruta e participação de mercado por setor, estado, região e país.\n              Leia mais em https://www.contabeis....",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79717/receita-permite-comparar-empresa-com-dados-do-mercado/",
+        "id": 8
+    },
+    {
         "category": "Reforma Tributária",
         "title": "Recolhimento pelo Adquirente: Impacto da Reforma Tributária",
         "summary": "Entenda como o recolhimento pelo adquirente na reforma tributária muda a gestão fiscal e de fornecedores. Prepare sua empresa para o IBS e CBS em 2027.\n              Leia mais em h...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79846/recolhimento-pelo-adquirente-impacto-da-reforma-tributaria/",
-        "id": 1
+        "id": 9
     },
     {
         "category": "Dicas",
@@ -13,7 +77,7 @@
         "summary": "Prefeitura atualiza emissor da NFS-e com mudanças no Valor Total Recebido e novas validações de classificação tributária e NBS.\n              Leia mais em https://www.contabeis.com...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79850/nfs-e-de-sao-paulo-passa-a-ter-novas-validacoes-no-emissor/",
-        "id": 2
+        "id": 10
     },
     {
         "category": "Dicas",
@@ -21,7 +85,7 @@
         "summary": "Mulheres com medida protetiva poderão receber remuneração durante afastamento do trabalho por até seis meses.\n              Leia mais em https://www.contabeis.com.br/noticias/79849...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79849/inss-pagara-afastamento-para-vitimas-de-violencia-domestica/",
-        "id": 3
+        "id": 11
     },
     {
         "category": "Dicas",
@@ -29,7 +93,7 @@
         "summary": "Pagamentos do INSS referentes a outubro começam em 26 de outubro para quem recebe até um salário mínimo e seguem até 9 de novembro.\n              Leia mais em https://www.contabeis...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79845/inss-divulga-calendario-de-pagamentos-de-outubro-de-2026/",
-        "id": 4
+        "id": 12
     },
     {
         "category": "Dicas",
@@ -37,7 +101,7 @@
         "summary": "Julgamento do STF sobre créditos presumidos de ICMS no PIS/Cofins foi suspenso após sustentações das partes e entidades.\n              Leia mais em https://www.contabeis.com.br/not...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79848/stf-retoma-analise-de-icms-presumido-no-pis-cofins/",
-        "id": 5
+        "id": 13
     },
     {
         "category": "Reforma Tributária",
@@ -45,7 +109,7 @@
         "summary": "Webinar gratuito do Portal Contábeis discute os 5 aspectos essenciais da CBS para a transição em 2027. Profissionais contábeis e fiscais devem se preparar já!\n              Leia ma...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79843/5-principais-aspectos-da-cbs-para-serem-observados-na-virada-para-2027/",
-        "id": 6
+        "id": 14
     },
     {
         "category": "Reforma Tributária",
@@ -53,70 +117,6 @@
         "summary": "Fazenda discute solução simplificada para documentos fiscais e reporte de operações de marketplaces e aplicativos. Entenda o que a lei permite e o que falta definir.\n              ...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79841/marketplaces-e-aplicativos-podem-ter-emissao-fiscal-simplificada-na-reforma/",
-        "id": 7
-    },
-    {
-        "category": "Fiscal",
-        "title": "FGTS: PGFN abre negociação de dívidas de até R$ 45 milhões",
-        "summary": "PGFN permite negociar débitos de FGTS inscritos em dívida ativa, com descontos de até 70% e parcelamento conforme a modalidade.\n              Leia mais em https://www.contabeis.com...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79842/fgts-pgfn-abre-negociacao-de-dividas-de-ate-r-45-milhoes/",
-        "id": 8
-    },
-    {
-        "category": "Fiscal",
-        "title": "Imposto Seletivo pode ter alíquotas definidas após eleições",
-        "summary": "Governo deve deixar para depois das eleições a MP que define as alíquotas do Imposto Seletivo, previsto para começar em 2027.\n              Leia mais em https://www.contabeis.com.b...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79844/imposto-seletivo-pode-ter-aliquotas-definidas-apos-eleicoes/",
-        "id": 9
-    },
-    {
-        "category": "Dicas",
-        "title": "Projeto prevê indenização de até 20% por atraso salarial",
-        "summary": "PL prevê indenização de 2% mais 1% por dia útil de atraso salarial, limitada a 20%, além de regras contra assédio e retaliação.\n              Leia mais em https://www.contabeis.com...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79847/projeto-preve-indenizacao-de-ate-20-por-atraso-salarial/",
-        "id": 10
-    },
-    {
-        "category": "Reforma Tributária",
-        "title": "IBS: PGM e PGE de SP preparam atuação conjunta na Reforma Tributária",
-        "summary": "PGM e PGE de São Paulo vão criar agenda conjunta para antecipar discussões jurídicas relacionadas à implantação do IBS.\n              Leia mais em https://www.contabeis.com.br/noti...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79839/ibs-pgm-e-pge-de-sp-preparam-atuacao-conjunta-na-reforma-tributaria/",
-        "id": 11
-    },
-    {
-        "category": "Dicas",
-        "title": "NF-e e NFC-e ganham campos para informar valor líquido do produto",
-        "summary": "NT 2026.008 cria campos para o valor líquido de produtos e serviços na NF-e e na NFC-e. Veja o cronograma e os cuidados no cálculo da nota.\n              Leia mais em https://www.c...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79840/nf-e-e-nfc-e-ganham-campos-para-informar-valor-liquido-do-produto/",
-        "id": 12
-    },
-    {
-        "category": "Reforma Tributária",
-        "title": "Nota técnica atualiza regras de emissão de seis DFes com IBS e CBS",
-        "summary": "Nota técnica cria campos de valor líquido e altera regras de CTe, NFCom, BPe, NF3e, NFAg e NFGas.\n              Leia mais em https://www.contabeis.com.br/noticias/79838/nota-tecnic...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79838/nota-tecnica-atualiza-regras-de-emissao-de-seis-dfes-com-ibs-e-cbs/",
-        "id": 13
-    },
-    {
-        "category": "Reforma Tributária",
-        "title": "NF-e e NFC-e: cinco notas técnicas atualizam regras do IBS e da CBS",
-        "summary": "Pacote publicado em 1º de outubro altera validações de NF-e e NFC-e, cria campos de valor líquido e define novo leiaute do DANFE para a Reforma Tributária.\n              Leia mais ...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79836/nf-e-e-nfc-e-cinco-notas-tecnicas-atualizam-regras-do-ibs-e-da-cbs/",
-        "id": 14
-    },
-    {
-        "category": "Dicas",
-        "title": "Receita atualiza regras do Adicional da CSLL",
-        "summary": "Receita Federal cria regra simplificadora para incentivos fiscais e amplia prazo de transição do Adicional da CSLL.\n              Leia mais em https://www.contabeis.com.br/noticias...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/79837/receita-atualiza-regras-do-adicional-da-csll/",
         "id": 15
     },
     {
