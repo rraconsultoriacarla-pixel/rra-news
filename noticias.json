@@ -1,11 +1,67 @@
 [
     {
         "category": "Dicas",
+        "title": "Declaração de acompanhamento de filho justifica falta?",
+        "summary": "Entenda quando o trabalhador pode faltar para acompanhar o filho ao médico, quais documentos apresentar e quando a empresa deve aceitar a justificativa.\n              Leia mais em ...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79878/declaracao-de-acompanhamento-de-filho-justifica-falta/",
+        "id": 1
+    },
+    {
+        "category": "Reforma Tributária",
+        "title": "NFS-e sem IBS e CBS pode ser autorizada em 2026",
+        "summary": "Nota fiscal pode não ser rejeitada pelo sistema, mas ausência dos dados de IBS e CBS pode gerar desconformidade.\n              Leia mais em https://www.contabeis.com.br/noticias/79...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79892/nfs-e-sem-ibs-e-cbs-pode-ser-autorizada-em-2026/",
+        "id": 2
+    },
+    {
+        "category": "Dicas",
+        "title": "40% dos projetos de IA autônoma devem ser cancelados até 2027",
+        "summary": "Previsão da Gartner para 2027 alerta para custos, falta de retorno claro e controles insuficientes em projetos de inteligência artificial agêntica.\n              Leia mais em https...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79896/40-dos-projetos-de-ia-autonoma-devem-ser-cancelados-ate-2027/",
+        "id": 3
+    },
+    {
+        "category": "Dicas",
+        "title": "Trabalho no feriado de 12 de outubro: veja as regras",
+        "summary": "Veja quando a empresa pode exigir o expediente e como funciona a compensação.\n              Leia mais em https://www.contabeis.com.br/noticias/79877/trabalho-no-feriado-de-12-de-ou...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79877/trabalho-no-feriado-de-12-de-outubro-veja-as-regras/",
+        "id": 4
+    },
+    {
+        "category": "Reforma Tributária",
+        "title": "Reforma tributária: entenda o redutor social",
+        "summary": "Entenda o redutor social na Reforma Tributária e seu impacto. Este mecanismo visa reduzir a desigualdade fiscal no Brasil. Descubra como funciona na prática.\n              Leia mai...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79982/reforma-tributaria-entenda-o-redutor-social/",
+        "id": 5
+    },
+    {
+        "category": "Dicas",
+        "title": "12 de outubro: veja regras para o comércio no feriado",
+        "summary": "Funcionamento do comércio no feriado de 12 de outubro depende de convenção coletiva e legislação local; veja regras para empresas.\n              Leia mais em https://www.contabeis....",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79900/12-de-outubro-veja-regras-para-o-comercio-no-feriado/",
+        "id": 6
+    },
+    {
+        "category": "Dicas",
+        "title": "NR-1: treinamento de líderes é principal dificuldade, aponta pesquisa",
+        "summary": "Levantamento da EXEC aponta a capacitação de lideranças como o desafio mais citado na aplicação das regras de riscos psicossociais da NR-1.\n              Leia mais em https://www.c...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/79894/nr-1-treinamento-de-lideres-e-principal-dificuldade-aponta-pesquisa/",
+        "id": 7
+    },
+    {
+        "category": "Dicas",
         "title": "MEI com dívida: veja opções para negociar até 2027",
         "summary": "MEIs podem renegociar dívidas com descontos e parcelamentos. Veja quais programas estão disponíveis e os prazos para adesão.\n              Leia mais em https://www.contabeis.com.br...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79962/mei-com-divida-veja-opcoes-para-negociar-ate-2027/",
-        "id": 1
+        "id": 8
     },
     {
         "category": "Dicas",
@@ -13,7 +69,7 @@
         "summary": "Entenda como funciona o open hiring, modelo de contratação sem currículo e entrevista, e quais cuidados a empresa deve tomar antes de adotá-lo.\n              Leia mais em https://w...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79895/open-hiring-o-que-e-e-como-funciona-a-contratacao-aberta/",
-        "id": 2
+        "id": 9
     },
     {
         "category": "Dicas",
@@ -21,7 +77,7 @@
         "summary": "Testes do split payment começam em 15 de outubro. Entenda quais informações empresas deverão fornecer e como funcionará o novo sistema.\n              Leia mais em https://www.conta...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79960/split-payment-veja-como-empresas-devem-se-preparar/",
-        "id": 3
+        "id": 10
     },
     {
         "category": "Reforma Tributária",
@@ -29,7 +85,7 @@
         "summary": "Mudanças em dividendos, ITCMD, IBS, CBS e ITBI colocam holdings patrimoniais no radar de famílias e empresários.\n              Leia mais em https://www.contabeis.com.br/noticias/79...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79920/reforma-tributaria-faz-empresarios-reavaliarem-holdings/",
-        "id": 4
+        "id": 11
     },
     {
         "category": "Dicas",
@@ -37,7 +93,7 @@
         "summary": "Segunda quinzena de outubro concentra obrigações fiscais, trabalhistas e prazos para decisões sobre o Simples Nacional e o IBS e CBS.\n              Leia mais em https://www.contabe...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79898/apos-o-feriado-veja-os-prazos-que-vencem-em-outubro/",
-        "id": 5
+        "id": 12
     },
     {
         "category": "Dicas",
@@ -45,7 +101,7 @@
         "summary": "Receita Federal atualizou os prazos para opção pelo Simples Nacional e pelo regime regular de IBS e CBS em 2027.\n              Leia mais em https://www.contabeis.com.br/noticias/79...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79889/simples-nacional-2027-confira-os-novos-prazos/",
-        "id": 6
+        "id": 13
     },
     {
         "category": "Dicas",
@@ -53,7 +109,7 @@
         "summary": "Contrato de experiência pode durar até 90 dias e garante direitos ao trabalhador; veja regras sobre prorrogação, rescisão e estabilidade.\n              Leia mais em https://www.con...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79897/contrato-de-experiencia-veja-como-funciona/",
-        "id": 7
+        "id": 14
     },
     {
         "category": "Reforma Tributária",
@@ -61,62 +117,6 @@
         "summary": "Veja os principais campos de IBS e CBS na NF-e, entenda por que a ausência do grupo não gera rejeição automática hoje e quais erros exigem atenção.\n              Leia mais em https...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/79893/nf-e-na-reforma-campos-de-ibs-e-cbs-e-rejeicoes-em-2026/",
-        "id": 8
-    },
-    {
-        "category": "Fiscal",
-        "title": "Imposto Seletivo: governo adia definição de alíquotas para depois das eleições",
-        "summary": "Medida provisória com as alíquotas do Imposto Seletivo será enviada ao Congresso após o segundo turno, segundo o ministro da Fazenda.\n              Leia mais em https://www.contabe...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80007/imposto-seletivo-governo-adia-definicao-de-aliquotas-para-depois-das-eleicoes/",
-        "id": 9
-    },
-    {
-        "category": "Contábil",
-        "title": "Secofem terá 37 módulos de contabilidade pública em Fortaleza",
-        "summary": "Secofem acontece de 9 a 13 de novembro em Fortaleza, com cursos sobre contabilidade pública, gestão fiscal, previdência e prestação de contas.\n              Leia mais em https://ww...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80004/secofem-tera-37-modulos-de-contabilidade-publica-em-fortaleza/",
-        "id": 10
-    },
-    {
-        "category": "Fiscal",
-        "title": "Regulariza CG: prazo para negociar dívidas termina hoje (9)",
-        "summary": "Programa municipal contempla débitos vencidos até 2025 e oferece condições especiais para contribuintes com acordos anteriores e pendências ainda não parceladas.\n              Leia...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80009/regulariza-cg-prazo-para-negociar-dividas-termina-hoje-9/",
-        "id": 11
-    },
-    {
-        "category": "Contábil",
-        "title": "Inteligência Artificial e sua aplicabilidade na contabilidade",
-        "summary": "Participe do webinar gratuito Inteligência Artificial e sua aplicabilidade na contabilidade. Descubra como a IA pode transformar sua rotina contábil e gerar novas oportunidades.\n  ...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80010/inteligencia-artificial-e-sua-aplicabilidade-na-contabilidade/",
-        "id": 12
-    },
-    {
-        "category": "Dicas",
-        "title": "FPM libera R$ 5,4 bilhões aos municípios nesta sexta-feira",
-        "summary": "Primeiro repasse de outubro do FPM será distribuído entre 5.569 municípios. Valor é cerca de 13% maior que o de 2025.\n              Leia mais em https://www.contabeis.com.br/notici...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80006/fpm-libera-r-5-4-bilhoes-aos-municipios-nesta-sexta-feira/",
-        "id": 13
-    },
-    {
-        "category": "Dicas",
-        "title": "PL prevê desconto de IRPJ e CSLL para compra de recicláveis",
-        "summary": "PL 3291/2026 exige regularidade fiscal, emissão de documentos fiscais e comprovação da destinação ambientalmente adequada dos materiais.\n              Leia mais em https://www.cont...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80008/pl-preve-desconto-de-irpj-e-csll-para-compra-de-reciclaveis/",
-        "id": 14
-    },
-    {
-        "category": "Dicas",
-        "title": "Notas de crédito e débito em SC: regras ficam para 2027",
-        "summary": "Santa Catarina adiou para janeiro de 2027 a vigência de regras para emissão de notas fiscais de crédito e débito em operações específicas de ICMS.\n              Leia mais em https:...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80005/notas-de-credito-e-debito-em-sc-regras-ficam-para-2027/",
         "id": 15
     },
     {
