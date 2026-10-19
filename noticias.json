@@ -1,11 +1,43 @@
 [
     {
         "category": "Dicas",
+        "title": "Micropensão: saiba como começar a investir a partir de R$ 50 para o futuro",
+        "summary": "Micropensões permitem formar uma reserva para o futuro com contribuições pequenas. Veja simulações com aportes mensais de R$ 50 e R$ 200.\n              Leia mais em https://www.con...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80112/micropensao-saiba-como-comecar-a-investir-a-partir-de-r-50-para-o-futuro/",
+        "id": 1
+    },
+    {
+        "category": "Dicas",
+        "title": "Trabalho em feriados: o que o DP deve conferir no comércio",
+        "summary": "Entenda as regras da Portaria MTE nº 1.316/2026 e o que conferir na convenção coletiva, na escala e no pagamento de feriados no comércio.\n              Leia mais em https://www.con...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80054/trabalho-em-feriados-o-que-o-dp-deve-conferir-no-comercio/",
+        "id": 2
+    },
+    {
+        "category": "Dicas",
+        "title": "Ownership: o que é senso de dono e como aplicar no trabalho",
+        "summary": "Entenda o conceito de ownership e veja exemplos de responsabilidade, iniciativa e autonomia para aplicar na rotina de empresas e escritórios contábeis.\n              Leia mais em h...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80133/ownership-o-que-e-senso-de-dono-e-como-aplicar-no-trabalho/",
+        "id": 3
+    },
+    {
+        "category": "Dicas",
+        "title": "Sócio quer sair da empresa? Veja as etapas legais",
+        "summary": "A saída de um sócio exige observar o contrato social, formalizar a retirada, calcular os haveres e atualizar o registro da empresa.\n              Leia mais em https://www.contabeis...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80049/socio-quer-sair-da-empresa-veja-as-etapas-legais/",
+        "id": 4
+    },
+    {
+        "category": "Dicas",
         "title": "Como construir independência financeira depois dos 40 anos",
         "summary": "Construção de patrimônio e renda passiva pode ampliar a autonomia financeira e ajudar a reduzir a dependência exclusiva do salário.\n              Leia mais em https://www.contabeis...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80117/como-construir-independencia-financeira-depois-dos-40-anos/",
-        "id": 1
+        "id": 5
     },
     {
         "category": "Dicas",
@@ -13,7 +45,7 @@
         "summary": "Saiba como o RH deve proceder diante de atestado médico com rasura, dados incompletos ou informações ilegíveis, sem desrespeitar os direitos do trabalhador.\n              Leia mais...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80050/atestado-medico-com-erro-como-o-rh-deve-agir/",
-        "id": 2
+        "id": 6
     },
     {
         "category": "Dicas",
@@ -21,7 +53,7 @@
         "summary": "Pesquisa da Icatu e da Conversion ouviu 500 adultos e aponta distância entre a preocupação com a aposentadoria e a preparação financeira.\n              Leia mais em https://www.con...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80055/aposentadoria-95-dizem-ainda-nao-ter-recursos-suficientes/",
-        "id": 3
+        "id": 7
     },
     {
         "category": "Reforma Tributária",
@@ -29,7 +61,7 @@
         "summary": "Pesquisa aponta dificuldades para entender os efeitos do IBS e da CBS e mostra que 63,9% dos fornecedores esperam aumento nos preços.\n              Leia mais em https://www.contabe...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80115/empresas-enfrentam-desafios-para-ajustar-precos-a-reforma-tributaria/",
-        "id": 4
+        "id": 8
     },
     {
         "category": "Fiscal",
@@ -37,7 +69,7 @@
         "summary": "PMEs gastam 21 horas semanais com tarefas administrativas; processos manuais ampliam o retrabalho e reduzem o tempo para atividades estratégicas.\n              Leia mais em https:/...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80122/custo-brasil-burocracia-consome-horas-das-empresas/",
-        "id": 5
+        "id": 9
     },
     {
         "category": "Dicas",
@@ -45,7 +77,7 @@
         "summary": "Debate sobre o split payment gera dúvidas sobre investimentos, caixa e adaptação das empresas à Reforma Tributária.\n              Leia mais em https://www.contabeis.com.br/noticias...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80120/split-payment-empresas-devem-manter-a-adequacao/",
-        "id": 6
+        "id": 10
     },
     {
         "category": "Fiscal",
@@ -53,7 +85,7 @@
         "summary": "Alíquotas do Imposto Seletivo 2027 serão definidas após o segundo turno. Entenda os efeitos do adiamento para empresas, sistemas e planejamento.\n              Leia mais em https://...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80138/imposto-seletivo-2027-aliquotas-ficam-para-depois/",
-        "id": 7
+        "id": 11
     },
     {
         "category": "Dicas",
@@ -61,7 +93,7 @@
         "summary": "Tema 118 foi retirado do calendário do STF em fevereiro de 2026 e aguarda nova data para definir a inclusão do ISS no PIS e na Cofins.\n              Leia mais em https://www.contab...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80142/stf-julgamento-do-iss-no-pis-cofins-segue-indefinido/",
-        "id": 8
+        "id": 12
     },
     {
         "category": "Legislação",
@@ -69,7 +101,7 @@
         "summary": "Pesquisa mostra que 65% não sabem quanto receberão do INSS e destaca a importância do planejamento previdenciário e financeiro.\n              Leia mais em https://www.contabeis.com...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80074/so-28-dos-brasileiros-acreditam-que-vao-se-aposentar-ate-os-60-anos/",
-        "id": 9
+        "id": 13
     },
     {
         "category": "Dicas",
@@ -77,7 +109,7 @@
         "summary": "Pesquisa mostra como os valores praticados pelas empresas influenciam escolhas profissionais, desde aceitar uma vaga até pedir demissão.\n              Leia mais em https://www.cont...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80073/cultura-da-empresa-influencia-decisoes-de-carreira-de-73-dos-profissionais/",
-        "id": 10
+        "id": 14
     },
     {
         "category": "Dicas",
@@ -85,38 +117,6 @@
         "summary": "Entenda como funcionam as escalas de trabalho 6x1, 5x2, 4x3 e 12x36, as regras de descanso e o que muda com a PEC sobre a jornada.\n              Leia mais em https://www.contabeis....",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80141/escalas-de-trabalho-como-funcionam-os-principais-modelos/",
-        "id": 11
-    },
-    {
-        "category": "Dicas",
-        "title": "Fim da 6x1: veja quem será afetado pela nova jornada",
-        "summary": "Nova regra prevê dois dias de descanso semanal e redução gradual da jornada. Veja quais categorias serão afetadas e as exceções previstas.\n              Leia mais em https://www.co...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80139/fim-da-6x1-veja-quem-sera-afetado-pela-nova-jornada/",
-        "id": 12
-    },
-    {
-        "category": "Dicas",
-        "title": "Empresas precisam adaptar infraestrutura de TI ao avanço da IA",
-        "summary": "Infraestrutura tecnológica impacta custos, produtividade e continuidade das operações.\n              Leia mais em https://www.contabeis.com.br/noticias/80072/empresas-precisam-adap...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80072/empresas-precisam-adaptar-infraestrutura-de-ti-ao-avanco-da-ia/",
-        "id": 13
-    },
-    {
-        "category": "Dicas",
-        "title": "Regulamentação de games abre novas oportunidades para contadores",
-        "summary": "Decreto regulamenta o Marco Legal dos Games e prevê crédito, incentivos fiscais e apoio à inovação; empresas devem acompanhar regras de acesso.\n              Leia mais em https://w...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80137/regulamentacao-de-games-abre-novas-oportunidades-para-contadores/",
-        "id": 14
-    },
-    {
-        "category": "Dicas",
-        "title": "Fim da 6x1: o que muda para quem trabalha de segunda a sexta?",
-        "summary": "Redução da jornada também alcança quem cumpre 44 horas de segunda a sexta. Entenda a compensação do sábado e os contratos de até 40 horas.\n              Leia mais em https://www.co...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80127/fim-da-6x1-o-que-muda-para-quem-trabalha-de-segunda-a-sexta/",
         "id": 15
     },
     {
