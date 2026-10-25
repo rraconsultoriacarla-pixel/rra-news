@@ -1,11 +1,51 @@
 [
     {
+        "category": "Fiscal",
+        "title": "Receita Sintonia: consulte a nota fiscal da empresa",
+        "summary": "Veja como consultar a classificação no Receita Sintonia, entender os indicadores fiscais e corrigir pendências para melhorar a conformidade da empresa.\n              Leia mais em h...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80287/receita-sintonia-consulte-a-nota-fiscal-da-empresa/",
+        "id": 1
+    },
+    {
+        "category": "Reforma Tributária",
+        "title": "Processo tributário: quando começa o prazo para recorrer?",
+        "summary": "No processo administrativo fiscal federal, prazo para recorrer depende da ciência da decisão e do rito. Veja as diferenças na contagem.\n              Leia mais em https://www.conta...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80272/processo-tributario-quando-comeca-o-prazo-para-recorrer/",
+        "id": 2
+    },
+    {
+        "category": "Dicas",
+        "title": "Segundo turno: veja os direitos de quem trabalha no domingo",
+        "summary": "Trabalhadores escalados no segundo turno têm direito a tempo para votar. Entenda as regras sobre jornada, salário e ausência no trabalho.\n              Leia mais em https://www.con...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80288/segundo-turno-veja-os-direitos-de-quem-trabalha-no-domingo/",
+        "id": 3
+    },
+    {
+        "category": "Dicas",
+        "title": "Fim da escala 6x1 muda planejamento de equipes e custos",
+        "summary": "Veja como dados de jornada, horas extras e produtividade ajudam o RH a reorganizar escalas e estimar os impactos financeiros da mudança.\n              Leia mais em https://www.cont...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80289/fim-da-escala-6x1-muda-planejamento-de-equipes-e-custos/",
+        "id": 4
+    },
+    {
+        "category": "Dicas",
+        "title": "Importação de medicamentos: controles para empresas",
+        "summary": "Operações da Receita Federal e da Polícia Federal reforçam a atenção à importação e à venda de medicamentos. Veja quais documentos e controles manter.\n              Leia mais em ht...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80285/importacao-de-medicamentos-controles-para-empresas/",
+        "id": 5
+    },
+    {
         "category": "Dicas",
         "title": "ICMS pago com erro: como regularizar pendência e emitir certidão",
         "summary": "Em São Paulo, erro na guia de ICMS exige retificação do recolhimento. Veja quando usar o SIDEB para corrigir pendências que impedem a certidão.\n              Leia mais em https://w...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80269/icms-pago-com-erro-como-regularizar-pendencia-e-emitir-certidao/",
-        "id": 1
+        "id": 6
     },
     {
         "category": "Reforma Tributária",
@@ -13,7 +53,7 @@
         "summary": "Entenda as diferenças entre Simples Puro e Híbrido, os impactos da CBS e do IBS e os prazos para escolher o modelo de recolhimento.\n              Leia mais em https://www.contabeis...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80295/simples-puro-ou-hibrido-como-escolher-na-reforma/",
-        "id": 2
+        "id": 7
     },
     {
         "category": "Dicas",
@@ -21,7 +61,7 @@
         "summary": "Entenda o que diz a CLT sobre a conversão de férias em dinheiro, o prazo para solicitar o abono pecuniário e as regras que as empresas devem seguir.\n              Leia mais em http...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80330/abono-de-ferias-quando-o-trabalhador-pode-vender-parte-do-descanso/",
-        "id": 3
+        "id": 8
     },
     {
         "category": "Dicas",
@@ -29,7 +69,7 @@
         "summary": "Saiba como guardar USDT em uma carteira própria, escolher a rede, transferir fundos da exchange e converter a stablecoin para reais com segurança.\n              Leia mais em https:...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80327/como-guardar-usdt-no-brasil-sem-deixa-lo-na-exchange/",
-        "id": 4
+        "id": 9
     },
     {
         "category": "Reforma Tributária",
@@ -37,7 +77,7 @@
         "summary": "Entenda como a Reforma Tributária pode afetar a emissão de notas fiscais em 2027 e o que as empresas devem verificar nos sistemas e processos.\n              Leia mais em https://ww...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80319/reforma-tributaria-notas-fiscais-podem-ser-rejeitadas/",
-        "id": 5
+        "id": 10
     },
     {
         "category": "Dicas",
@@ -45,7 +85,7 @@
         "summary": "Nova norma centraliza pedidos de liberação de eventos e amplia exigências documentais para melhorar o controle do ISS em Porto Alegre.\n              Leia mais em https://www.contab...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80326/porto-alegre-atualiza-regras-fiscais-para-eventos/",
-        "id": 6
+        "id": 11
     },
     {
         "category": "Dicas",
@@ -53,7 +93,7 @@
         "summary": "Podcast explica os efeitos da exclusão do ISS da base de cálculo do PIS e da Cofins e os cuidados para contadores na rotina tributária.\n              Leia mais em https://www.conta...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80324/iss-fora-da-base-do-pis-e-da-cofins-o-que-muda-na-pratica/",
-        "id": 7
+        "id": 12
     },
     {
         "category": "Dicas",
@@ -61,7 +101,7 @@
         "summary": "Justiça do Trabalho determina que cinco redes varejistas ajustem escalas e liberem empregados para votar no segundo turno, sem desconto salarial.\n              Leia mais em https:/...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80321/varejistas-devem-liberar-funcionarios-para-votar-em-sp/",
-        "id": 8
+        "id": 13
     },
     {
         "category": "Dicas",
@@ -69,7 +109,7 @@
         "summary": "Pagamentos do INSS referentes a outubro começam em 26 de outubro para quem recebe até um salário mínimo; depósitos seguem até 9 de novembro.\n              Leia mais em https://www....",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80320/inss-paga-beneficios-de-outubro-a-partir-de-26-10/",
-        "id": 9
+        "id": 14
     },
     {
         "category": "Reforma Tributária",
@@ -77,46 +117,6 @@
         "summary": "Nota técnica do CTAT orienta municípios sobre notas fiscais, cadastro de cartórios e integração de dados para fiscalização do ISS e preparação para o IBS.\n              Leia mais e...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80317/cartorios-cnm-orienta-sobre-iss-e-adaptacao-ao-ibs/",
-        "id": 10
-    },
-    {
-        "category": "Dicas",
-        "title": "Funcionário com menos de um ano pode entrar em férias coletivas?",
-        "summary": "Empregado com menos de 12 meses pode ter férias coletivas. Entenda as regras de proporcionalidade, licença remunerada e pagamento.\n              Leia mais em https://www.contabeis....",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80316/funcionario-com-menos-de-um-ano-pode-entrar-em-ferias-coletivas/",
-        "id": 11
-    },
-    {
-        "category": "Dicas",
-        "title": "STF mantém adicional de ICMS sobre TV por assinatura",
-        "summary": "Supremo decidiu que a essencialidade dos serviços de comunicação não afasta a cobrança retroativa de adicional de ICMS anterior à lei de 2022.\n              Leia mais em https://ww...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80314/stf-mantem-adicional-de-icms-sobre-tv-por-assinatura/",
-        "id": 12
-    },
-    {
-        "category": "Reforma Tributária",
-        "title": "Excluir IBS e CBS da base do ICMS: vale entrar na Justiça?",
-        "summary": "Entenda o que avaliar antes de pedir a exclusão de IBS e CBS da base dos tributos atuais e por que as regras de 2026 exigem atenção.\n              Leia mais em https://www.contabei...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80313/excluir-ibs-e-cbs-da-base-do-icms-vale-entrar-na-justica/",
-        "id": 13
-    },
-    {
-        "category": "Dicas",
-        "title": "Férias individuais exigem atenção a prazos e regras da CLT",
-        "summary": "Confira o que empresas e profissionais de DP devem verificar sobre aviso prévio, pagamento, início do descanso e fracionamento das férias.\n              Leia mais em https://www.co...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80312/ferias-individuais-exigem-atencao-a-prazos-e-regras-da-clt/",
-        "id": 14
-    },
-    {
-        "category": "Dicas",
-        "title": "STJ reforça regra para análise de benefícios pelo INSS",
-        "summary": "Tribunal decidiu que o INSS deve permitir a complementação de provas antes de negar pedidos aptos à análise, inclusive em decisões automatizadas.\n              Leia mais em https:/...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80311/stj-reforca-regra-para-analise-de-beneficios-pelo-inss/",
         "id": 15
     },
     {
