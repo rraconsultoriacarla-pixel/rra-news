@@ -1,11 +1,115 @@
 [
     {
+        "category": "Contábil",
+        "title": "CFC propõe mudanças nas receitas e transferências do setor público",
+        "summary": "Foto: Jakub Żerdzicki / Unsplash · Licença UnsplashMinutas das NBC TSP 39 e 40 estão em audiência pública até 12 de novembro e propõem mudanças no tratamento de receitas e despesas...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80346/cfc-propoe-mudancas-nas-receitas-e-transferencias-do-setor-publico/",
+        "id": 1
+    },
+    {
+        "category": "Fiscal",
+        "title": "CFC abre consulta sobre divulgação contábil para empresas controladas",
+        "summary": "Proposta do CPC 52 prevê requisitos reduzidos de divulgação para controladas sem obrigação de prestação pública de contas; prazo para sugestões termina em 19 de novembro.\n         ...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80347/cfc-abre-consulta-sobre-divulgacao-contabil-para-empresas-controladas/",
+        "id": 2
+    },
+    {
+        "category": "Dicas",
+        "title": "Parcelamento de FGTS na Caixa pode migrar para transação da PGFN",
+        "summary": "Empregadores com acordo de FGTS na Caixa podem solicitar migração para transação da PGFN. Veja o canal, o prazo e os cuidados.\n              Leia mais em https://www.contabeis.com....",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80344/parcelamento-de-fgts-na-caixa-pode-migrar-para-transacao-da-pgfn/",
+        "id": 3
+    },
+    {
+        "category": "Reforma Tributária",
+        "title": "Reforma tributária retoma agenda e avança na definição da CBS",
+        "summary": "Após as eleições, TCU deve encaminhar ao Senado os cálculos da alíquota de referência da CBS até 30 de outubro; percentual final depende de votação.\n              Leia mais em http...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80345/reforma-tributaria-retoma-agenda-e-avanca-na-definicao-da-cbs/",
+        "id": 4
+    },
+    {
+        "category": "Reforma Tributária",
+        "title": "CBS substitui PIS e Cofins em 2027; veja o que falta definir",
+        "summary": "CBS passa à cobrança efetiva em 2027, após fase de testes. Definição de alíquotas e medidas sobre o Imposto Seletivo seguem na agenda.\n              Leia mais em https://www.contab...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80342/cbs-substitui-pis-e-cofins-em-2027-veja-o-que-falta-definir/",
+        "id": 5
+    },
+    {
+        "category": "Dicas",
+        "title": "STJ vai decidir se eletricidade dá direito à aposentadoria especial",
+        "summary": "Primeira Seção do STJ analisará se a exposição à eletricidade em condições de risco permite conceder aposentadoria especial; processos sobre o tema estão suspensos\n              Le...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80343/stj-vai-decidir-se-eletricidade-da-direito-a-aposentadoria-especial/",
+        "id": 6
+    },
+    {
+        "category": "Fiscal",
+        "title": "CFC prepara revisão dos processos de fiscalização profissional",
+        "summary": "Proposta de alteração da Resolução CFC nº 1.603/2020 tem apreciação prevista para novembro. Comissão também revisa orientações de fiscalização.\n              Leia mais em https://w...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80337/cfc-prepara-revisao-dos-processos-de-fiscalizacao-profissional/",
+        "id": 7
+    },
+    {
+        "category": "Contábil",
+        "title": "CFC recebe sugestões para novas normas contábeis do setor público até novembro",
+        "summary": "Audiência pública sobre as NBC TSP 39 e 40 fica aberta até 12 de novembro de 2026; veja como enviar contribuições ao CFC.\n              Leia mais em https://www.contabeis.com.br/no...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80340/cfc-recebe-sugestoes-para-novas-normas-contabeis-do-setor-publico-ate-novembro/",
+        "id": 8
+    },
+    {
+        "category": "Dicas",
+        "title": "Projeto prevê recuperação judicial simplificada para empresas",
+        "summary": "Proposta cria regras simplificadas para empresas com dívidas de até R$ 1,6 milhão, limita o número de credores e reduz custos iniciais do processo.\n              Leia mais em https...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80341/projeto-preve-recuperacao-judicial-simplificada-para-empresas/",
+        "id": 9
+    },
+    {
+        "category": "Dicas",
+        "title": "Simples Nacional: prazo para regularizar pendências termina dia 30",
+        "summary": "Empresas com pedido de opção pelo Simples Nacional impedido por pendências têm até sexta-feira (30) para regularizar a situação para 2027.\n              Leia mais em https://www.co...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80339/simples-nacional-prazo-para-regularizar-pendencias-termina-dia-30/",
+        "id": 10
+    },
+    {
+        "category": "Reforma Tributária",
+        "title": "Reforma simplifica regras fiscais para nanoempreendedores e MEIs",
+        "summary": "Decreto e resolução dispensam nanoempreendedores de CNPJ e permitem que MEIs utilizem a DASN-Simei como documento fiscal eletrônico em operações com pessoas físicas.\n              ...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80338/reforma-simplifica-regras-fiscais-para-nanoempreendedores-e-meis/",
+        "id": 11
+    },
+    {
+        "category": "Contábil",
+        "title": "Gomide Contabilidade completa 60 anos com foco em tecnologia e pessoas",
+        "summary": "Fundada em Brasília, a Gomide Contabilidade completa 60 anos em 2026 com mais de 150 profissionais, 900 CNPJs atendidos e sete áreas integradas.\n              Leia mais em https://...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80217/gomide-contabilidade-completa-60-anos-com-foco-em-tecnologia-e-pessoas/",
+        "id": 12
+    },
+    {
+        "category": "Fiscal",
+        "title": "cClassTrib exige atenção na parametrização fiscal",
+        "summary": "Entenda como a classificação tributária do IBS e da CBS deve ser definida e quais cuidados ajudam a evitar inconsistências nos documentos fiscais.\n              Leia mais em https:...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80293/cclasstrib-exige-atencao-na-parametrizacao-fiscal/",
+        "id": 13
+    },
+    {
         "category": "Fiscal",
         "title": "Receita Sintonia: consulte a nota fiscal da empresa",
         "summary": "Veja como consultar a classificação no Receita Sintonia, entender os indicadores fiscais e corrigir pendências para melhorar a conformidade da empresa.\n              Leia mais em h...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80287/receita-sintonia-consulte-a-nota-fiscal-da-empresa/",
-        "id": 1
+        "id": 14
     },
     {
         "category": "Reforma Tributária",
@@ -13,110 +117,6 @@
         "summary": "No processo administrativo fiscal federal, prazo para recorrer depende da ciência da decisão e do rito. Veja as diferenças na contagem.\n              Leia mais em https://www.conta...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80272/processo-tributario-quando-comeca-o-prazo-para-recorrer/",
-        "id": 2
-    },
-    {
-        "category": "Dicas",
-        "title": "Segundo turno: veja os direitos de quem trabalha no domingo",
-        "summary": "Trabalhadores escalados no segundo turno têm direito a tempo para votar. Entenda as regras sobre jornada, salário e ausência no trabalho.\n              Leia mais em https://www.con...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80288/segundo-turno-veja-os-direitos-de-quem-trabalha-no-domingo/",
-        "id": 3
-    },
-    {
-        "category": "Dicas",
-        "title": "Fim da escala 6x1 muda planejamento de equipes e custos",
-        "summary": "Veja como dados de jornada, horas extras e produtividade ajudam o RH a reorganizar escalas e estimar os impactos financeiros da mudança.\n              Leia mais em https://www.cont...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80289/fim-da-escala-6x1-muda-planejamento-de-equipes-e-custos/",
-        "id": 4
-    },
-    {
-        "category": "Dicas",
-        "title": "Importação de medicamentos: controles para empresas",
-        "summary": "Operações da Receita Federal e da Polícia Federal reforçam a atenção à importação e à venda de medicamentos. Veja quais documentos e controles manter.\n              Leia mais em ht...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80285/importacao-de-medicamentos-controles-para-empresas/",
-        "id": 5
-    },
-    {
-        "category": "Dicas",
-        "title": "ICMS pago com erro: como regularizar pendência e emitir certidão",
-        "summary": "Em São Paulo, erro na guia de ICMS exige retificação do recolhimento. Veja quando usar o SIDEB para corrigir pendências que impedem a certidão.\n              Leia mais em https://w...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80269/icms-pago-com-erro-como-regularizar-pendencia-e-emitir-certidao/",
-        "id": 6
-    },
-    {
-        "category": "Reforma Tributária",
-        "title": "Simples Puro ou Híbrido: como escolher na reforma",
-        "summary": "Entenda as diferenças entre Simples Puro e Híbrido, os impactos da CBS e do IBS e os prazos para escolher o modelo de recolhimento.\n              Leia mais em https://www.contabeis...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80295/simples-puro-ou-hibrido-como-escolher-na-reforma/",
-        "id": 7
-    },
-    {
-        "category": "Dicas",
-        "title": "Abono de férias: quando o trabalhador pode vender parte do descanso?",
-        "summary": "Entenda o que diz a CLT sobre a conversão de férias em dinheiro, o prazo para solicitar o abono pecuniário e as regras que as empresas devem seguir.\n              Leia mais em http...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80330/abono-de-ferias-quando-o-trabalhador-pode-vender-parte-do-descanso/",
-        "id": 8
-    },
-    {
-        "category": "Dicas",
-        "title": "Como guardar USDT no Brasil sem deixá-lo na exchange",
-        "summary": "Saiba como guardar USDT em uma carteira própria, escolher a rede, transferir fundos da exchange e converter a stablecoin para reais com segurança.\n              Leia mais em https:...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80327/como-guardar-usdt-no-brasil-sem-deixa-lo-na-exchange/",
-        "id": 9
-    },
-    {
-        "category": "Reforma Tributária",
-        "title": "Reforma Tributária: notas fiscais podem ser rejeitadas",
-        "summary": "Entenda como a Reforma Tributária pode afetar a emissão de notas fiscais em 2027 e o que as empresas devem verificar nos sistemas e processos.\n              Leia mais em https://ww...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80319/reforma-tributaria-notas-fiscais-podem-ser-rejeitadas/",
-        "id": 10
-    },
-    {
-        "category": "Dicas",
-        "title": "Porto Alegre atualiza regras fiscais para eventos",
-        "summary": "Nova norma centraliza pedidos de liberação de eventos e amplia exigências documentais para melhorar o controle do ISS em Porto Alegre.\n              Leia mais em https://www.contab...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80326/porto-alegre-atualiza-regras-fiscais-para-eventos/",
-        "id": 11
-    },
-    {
-        "category": "Dicas",
-        "title": "ISS fora da base do PIS e da Cofins: o que muda na prática?",
-        "summary": "Podcast explica os efeitos da exclusão do ISS da base de cálculo do PIS e da Cofins e os cuidados para contadores na rotina tributária.\n              Leia mais em https://www.conta...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80324/iss-fora-da-base-do-pis-e-da-cofins-o-que-muda-na-pratica/",
-        "id": 12
-    },
-    {
-        "category": "Dicas",
-        "title": "Varejistas devem liberar funcionários para votar em SP",
-        "summary": "Justiça do Trabalho determina que cinco redes varejistas ajustem escalas e liberem empregados para votar no segundo turno, sem desconto salarial.\n              Leia mais em https:/...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80321/varejistas-devem-liberar-funcionarios-para-votar-em-sp/",
-        "id": 13
-    },
-    {
-        "category": "Dicas",
-        "title": "INSS paga benefícios de outubro a partir de 26/10",
-        "summary": "Pagamentos do INSS referentes a outubro começam em 26 de outubro para quem recebe até um salário mínimo; depósitos seguem até 9 de novembro.\n              Leia mais em https://www....",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80320/inss-paga-beneficios-de-outubro-a-partir-de-26-10/",
-        "id": 14
-    },
-    {
-        "category": "Reforma Tributária",
-        "title": "Cartórios: CNM orienta sobre ISS e adaptação ao IBS",
-        "summary": "Nota técnica do CTAT orienta municípios sobre notas fiscais, cadastro de cartórios e integração de dados para fiscalização do ISS e preparação para o IBS.\n              Leia mais e...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80317/cartorios-cnm-orienta-sobre-iss-e-adaptacao-ao-ibs/",
         "id": 15
     },
     {
