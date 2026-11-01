@@ -1,11 +1,43 @@
 [
     {
+        "category": "Fiscal",
+        "title": "São Paulo cria programa de educação fiscal",
+        "summary": "Decreto institui iniciativa que prevê ações conjuntas das secretarias da Fazenda e da Educação para ampliar o conhecimento sobre tributos e recursos públicos.\n              Leia ma...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80484/sao-paulo-cria-programa-de-educacao-fiscal/",
+        "id": 1
+    },
+    {
+        "category": "Dicas",
+        "title": "Exame de Suficiência: aprovação já permite atuar como contador?",
+        "summary": "Passou no Exame de Suficiência? Entenda por que a aprovação não substitui o registro no CRC e quais são os próximos passos para exercer a profissão.\n              Leia mais em http...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80460/exame-de-suficiencia-aprovacao-ja-permite-atuar-como-contador/",
+        "id": 2
+    },
+    {
+        "category": "Dicas",
+        "title": "Carta da malha fina não gera cobrança automática",
+        "summary": "Receita Federal enviou cartas a 498 mil contribuintes com declarações retidas; veja como consultar inconsistências e quais medidas adotar.\n              Leia mais em https://www.co...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80486/carta-da-malha-fina-nao-gera-cobranca-automatica/",
+        "id": 3
+    },
+    {
+        "category": "Fiscal",
+        "title": "Cliente não pagou a nota fiscal? Veja como contabilizar",
+        "summary": "Saiba como registrar notas fiscais não pagas, reconhecer perdas com clientes inadimplentes e diferenciar o tratamento contábil do fiscal.\n              Leia mais em https://www.con...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80434/cliente-nao-pagou-a-nota-fiscal-veja-como-contabilizar/",
+        "id": 4
+    },
+    {
         "category": "Dicas",
         "title": "Salário de novembro deve ser pago até que dia?",
         "summary": "Quinto dia útil cai na sexta-feira, 6 de novembro; sábados entram na contagem do prazo, mas domingos e feriados ficam de fora.\n              Leia mais em https://www.contabeis.com....",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80483/salario-de-novembro-deve-ser-pago-ate-que-dia/",
-        "id": 1
+        "id": 5
     },
     {
         "category": "Dicas",
@@ -13,7 +45,7 @@
         "summary": "MEI pode registrar empregado e deve cumprir obrigações trabalhistas, previdenciárias e fiscais. Veja os encargos e como fazer a contratação.\n              Leia mais em https://www....",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80436/mei-pode-contratar-funcionario-veja-custos-em-2026/",
-        "id": 2
+        "id": 6
     },
     {
         "category": "Fiscal",
@@ -21,7 +53,7 @@
         "summary": "Malha fiscal verifica informações da declaração; cobrança exige regularização de débitos. Veja como identificar cada situação e qual procedimento seguir.\n              Leia mais em...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80462/cobranca-de-irpf-e-malha-fiscal-entenda-as-diferencas/",
-        "id": 3
+        "id": 7
     },
     {
         "category": "Reforma Tributária",
@@ -29,7 +61,7 @@
         "summary": "Levantamento da Receita Federal mostra que 55,14% dos estabelecimentos não destacaram a CBS em todos os CT-es emitidos no período analisado.\n              Leia mais em https://www....",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80495/cbs-no-ct-e-55-nao-destacam-o-tributo-em-todos/",
-        "id": 4
+        "id": 8
     },
     {
         "category": "Reforma Tributária",
@@ -37,7 +69,7 @@
         "summary": "Reforma Tributária exige que indústrias revisem notas fiscais, cadastros e sistemas para se preparar para a CBS e o IBS.\n              Leia mais em https://www.contabeis.com.br/not...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80496/reforma-tributaria-exige-revisao-de-notas-e-cadastros/",
-        "id": 5
+        "id": 9
     },
     {
         "category": "Reforma Tributária",
@@ -45,7 +77,7 @@
         "summary": "ABRAEC alerta que IBS e CBS próximos de 30% podem elevar a carga sobre remessas internacionais e afetar custos, empresas e conectividade logística.\n              Leia mais em https...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80513/ibs-e-cbs-perto-de-30-preocupam-setor-de-remessas/",
-        "id": 6
+        "id": 10
     },
     {
         "category": "Reforma Tributária",
@@ -53,7 +85,7 @@
         "summary": "Representante das operações de telecomunicações afirma que percentual pode elevar a carga tributária das empresas e afetar investimentos no setor.\n              Leia mais em https:...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80521/entidade-questiona-aliquota-de-11-3-da-cbs/",
-        "id": 7
+        "id": 11
     },
     {
         "category": "Dicas",
@@ -61,7 +93,7 @@
         "summary": "Estudo da Brasscom aponta que empresas brasileiras investem abaixo da média internacional em cibersegurança, apesar da previsão de R$ 126,9 bilhões até 2029.\n              Leia mai...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80522/brasil-destina-so-6-4-do-orcamento-de-ti-a-seguranca-digital/",
-        "id": 8
+        "id": 12
     },
     {
         "category": "Dicas",
@@ -69,7 +101,7 @@
         "summary": "Taxa ficou em 5% em setembro, enquanto o endividamento das famílias ultrapassou 50% da renda anual pela primeira vez.\n              Leia mais em https://www.contabeis.com.br/notici...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80520/inadimplencia-bancaria-segue-em-nivel-recorde/",
-        "id": 9
+        "id": 13
     },
     {
         "category": "Reforma Tributária",
@@ -77,7 +109,7 @@
         "summary": "Cálculo do TCU ficou 23% acima da estimativa anterior e será analisado pelo Senado. Especialistas alertam para possíveis impactos em custos e preços em 2027.\n              Leia mai...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80519/cbs-de-11-3-pressiona-senado-e-preocupa-empresas/",
-        "id": 10
+        "id": 14
     },
     {
         "category": "Dicas",
@@ -85,38 +117,6 @@
         "summary": "Programa permite renegociar débitos de ICMS, IPVA, ITCD e outras dívidas estaduais, com descontos em multas e juros e opções de parcelamento.\n              Leia mais em https://www...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80518/ceara-aprova-refis-com-descontos-de-ate-100/",
-        "id": 11
-    },
-    {
-        "category": "Dicas",
-        "title": "Carf autoriza lucro presumido após incorporação de empresa",
-        "summary": "Decisão afastou cobrança de IRPJ e CSLL contra empresa do grupo Ambev e reconheceu validade de incorporação de companhia optante pelo Refis.\n              Leia mais em https://www....",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80511/carf-autoriza-lucro-presumido-apos-incorporacao-de-empresa/",
-        "id": 12
-    },
-    {
-        "category": "Dicas",
-        "title": "IRPF: é possível trocar a tributação ao retificar a declaração?",
-        "summary": "Trocar desconto simplificado por deduções legais só é permitido dentro do prazo de entrega. Entenda os limites da declaração retificadora.\n              Leia mais em https://www.co...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80510/irpf-e-possivel-trocar-a-tributacao-ao-retificar-a-declaracao/",
-        "id": 13
-    },
-    {
-        "category": "Dicas",
-        "title": "Bancos elevam juros do financiamento imobiliário",
-        "summary": "Foto: Jakub Żerdzicki / Unsplash · Licença UnsplashBradesco, Itaú e Santander reajustaram as taxas em outubro; veja os novos percentuais e os fatores que influenciam o custo do cré...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80505/bancos-elevam-juros-do-financiamento-imobiliario/",
-        "id": 14
-    },
-    {
-        "category": "Dicas",
-        "title": "Carf pode julgar R$ 2 trilhões em processos até dezembro",
-        "summary": "Presidente do Conselho Administrativo de Recursos Fiscais prevê atingir R$ 2 trilhões em valores julgados durante a atual gestão, iniciada em 2023.\n              Leia mais em https...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80508/carf-pode-julgar-r-2-trilhoes-em-processos-ate-dezembro/",
         "id": 15
     },
     {
