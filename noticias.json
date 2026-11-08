@@ -1,11 +1,43 @@
 [
     {
         "category": "Dicas",
+        "title": "Bahia recupera R$ 222 milhões em cobrança do Difal de empresas",
+        "summary": "Operação da Sefaz-BA notificou 484 empresas sem inscrição estadual que venderam a consumidores finais no estado sem recolher o diferencial de alíquota.\n              Leia mais em h...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80651/bahia-recupera-r-222-milhoes-em-cobranca-do-difal-de-empresas/",
+        "id": 1
+    },
+    {
+        "category": "Dicas",
+        "title": "13º salário: como calcular a primeira parcela com adicionais",
+        "summary": "Horas extras, comissões e adicionais podem integrar o cálculo do 13º. Veja como considerar as médias e calcular o adiantamento.\n              Leia mais em https://www.contabeis.com...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80673/13o-salario-como-calcular-a-primeira-parcela-com-adicionais/",
+        "id": 2
+    },
+    {
+        "category": "Dicas",
+        "title": "Planejamento trimestral ajuda empresas a identificar falhas na gestão",
+        "summary": "Revisão de metas a cada 90 dias permite acompanhar indicadores, reorganizar equipes e avaliar a capacidade operacional antes de expandir o negócio.\n              Leia mais em https...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80650/planejamento-trimestral-ajuda-empresas-a-identificar-falhas-na-gestao/",
+        "id": 3
+    },
+    {
+        "category": "Fiscal",
+        "title": "PGDAS-D: como declarar venda cancelada em outro mês",
+        "summary": "Foto: SumUp / Unsplash · Licença UnsplashVeja quando ajustar o mês da venda no PGDAS-D e por que a devolução de mercadoria segue uma regra diferente no Simples Nacional.\n          ...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80560/pgdas-d-como-declarar-venda-cancelada-em-outro-mes/",
+        "id": 4
+    },
+    {
+        "category": "Dicas",
         "title": "INSS 2026: quem pode pagar 5% do salário mínimo e garantir benefícios?",
         "summary": "Contribuição de R$ 81,05 é destinada a pessoas sem renda própria que se dedicam aos afazeres domésticos e atendem aos critérios do INSS.\n              Leia mais em https://www.cont...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80649/inss-2026-quem-pode-pagar-5-do-salario-minimo-e-garantir-beneficios/",
-        "id": 1
+        "id": 5
     },
     {
         "category": "Reforma Tributária",
@@ -13,7 +45,7 @@
         "summary": "Veja como consultar o código da rejeição, a versão da nota técnica e o cronograma oficial para saber se uma validação de IBS e CBS já vale em produção.\n              Leia mais em h...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80561/nf-e-e-ibs-cbs-como-conferir-se-uma-rejeicao-ja-vale/",
-        "id": 2
+        "id": 6
     },
     {
         "category": "Dicas",
@@ -21,7 +53,7 @@
         "summary": "Foto: CardMapr.nl / Unsplash · Licença UnsplashControle de estoque, emissão de notas, formação de preços e fluxo de caixa estão entre os pontos que empresas devem revisar antes das...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80672/black-friday-5-cuidados-fiscais-para-evitar-prejuizos/",
-        "id": 3
+        "id": 7
     },
     {
         "category": "Fiscal",
@@ -29,7 +61,7 @@
         "summary": "Selic foi mantida em 13,75%. Economista avalia os riscos de cortes forçados e explica por que responsabilidade fiscal é essencial para reduzir os juros.\n              Leia mais em ...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80641/selic-a-13-75-queda-sustentavel-exige-ajuste-fiscal/",
-        "id": 4
+        "id": 8
     },
     {
         "category": "Reforma Tributária",
@@ -37,7 +69,7 @@
         "summary": "Nota Técnica 2026.008 define que IBS, CBS e IS não entram no campo vProd da NF-e. Veja os campos alterados, prazos e impactos para as empresas.\n              Leia mais em https://w...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80671/nf-e-ibs-e-cbs-ficam-fora-do-campo-vprod/",
-        "id": 5
+        "id": 9
     },
     {
         "category": "Dicas",
@@ -45,7 +77,7 @@
         "summary": "Trabalhadoras com mais de uma atividade devem conferir pagamentos e descontos previdenciários durante a licença para evitar recolhimentos incorretos.\n              Leia mais em htt...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80676/licenca-maternidade-como-conferir-contribuicoes-de-varias-fontes/",
-        "id": 6
+        "id": 10
     },
     {
         "category": "Dicas",
@@ -53,7 +85,7 @@
         "summary": "Saiba como verificar uma NF-e não reconhecida, formalizar a divergência com o fornecedor e registrar a manifestação do destinatário em até 90 dias.\n              Leia mais em https...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80675/nf-e-nao-reconhecida-como-registrar-a-divergencia/",
-        "id": 7
+        "id": 11
     },
     {
         "category": "Dicas",
@@ -61,7 +93,7 @@
         "summary": "Nova nota fiscal do gás começou a ser emitida em novembro; veja os cuidados do fiscal e do contas a pagar na conferência do documento.\n              Leia mais em https://www.contab...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80674/nfgas-recebida-o-que-conferir-antes-de-pagar-a-conta/",
-        "id": 8
+        "id": 12
     },
     {
         "category": "Legislação",
@@ -69,7 +101,7 @@
         "summary": "Decisão unânime na ADI 7918 confirma extinção do incentivo ambiental que destinava 3% da parcela municipal do ICMS.\n              Leia mais em https://www.contabeis.com.br/noticias...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80670/stf-valida-fim-do-icms-verde-e-mantem-lei-de-alagoas/",
-        "id": 9
+        "id": 13
     },
     {
         "category": "Dicas",
@@ -77,7 +109,7 @@
         "summary": "Porto Alegre permite acumular notas fiscais de serviços até 30 de novembro para obter abatimento no imposto municipal.\n              Leia mais em https://www.contabeis.com.br/notic...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80669/porto-alegre-da-ate-3-de-desconto-no-iptu-com-cpf-na-nota/",
-        "id": 10
+        "id": 14
     },
     {
         "category": "Dicas",
@@ -85,38 +117,6 @@
         "summary": "Contestação do FAP 2027 deve ser enviada pelo FAPWeb até 30 de novembro. Pedido não suspende os efeitos do índice atribuído ao estabelecimento.\n              Leia mais em https://w...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80668/fap-2027-empresas-podem-contestar-resultados-ate-30-de-novembro/",
-        "id": 11
-    },
-    {
-        "category": "Dicas",
-        "title": "Primeira NFGas é autorizada em produção na SVRS",
-        "summary": "Nota Fiscal Eletrônica do Gás da Comgás foi autorizada em 2 de novembro. Veja as regras de emissão e os cuidados com a escrituração.\n              Leia mais em https://www.contabei...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80667/primeira-nfgas-e-autorizada-em-producao-na-svrs/",
-        "id": 12
-    },
-    {
-        "category": "Dicas",
-        "title": "Sergipe aprova Refis de ICMS, IPVA e ITCMD com até 95% de desconto",
-        "summary": "Programas permitem renegociar débitos tributários com descontos em juros e multas e parcelamento de até 84 meses.\n              Leia mais em https://www.contabeis.com.br/noticias/8...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80666/sergipe-aprova-refis-de-icms-ipva-e-itcmd-com-ate-95-de-desconto/",
-        "id": 13
-    },
-    {
-        "category": "Dicas",
-        "title": "Confaz estende benefícios de ICMS até dezembro de 2028",
-        "summary": "Convênio ICMS 131/2026 prorroga cerca de 290 acordos com isenções, reduções e créditos presumidos; São Paulo tem exceções.\n              Leia mais em https://www.contabeis.com.br/n...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80664/confaz-estende-beneficios-de-icms-ate-dezembro-de-2028/",
-        "id": 14
-    },
-    {
-        "category": "Reforma Tributária",
-        "title": "EFD-Contribuições: NT 13/2026 orienta transição para a CBS",
-        "summary": "Nota Técnica nº 13/2026 detalha a continuidade da EFD-Contribuições em 2027 para saldos credores, créditos presumidos e outras finalidades.\n              Leia mais em https://www.c...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80665/efd-contribuicoes-nt-13-2026-orienta-transicao-para-a-cbs/",
         "id": 15
     },
     {
