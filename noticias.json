@@ -1,11 +1,51 @@
 [
     {
+        "category": "Legislação",
+        "title": "Compras internacionais pressionam varejo brasileiro",
+        "summary": "Encomendas do exterior cresceram 63% em outubro. Avanço amplia a concorrência com empresas nacionais e exige atenção a preços, custos e competitividade.\n              Leia mais em ...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80877/compras-internacionais-pressionam-varejo-brasileiro/",
+        "id": 1
+    },
+    {
+        "category": "Legislação",
+        "title": "Cota de PcD não garante conformidade trabalhista",
+        "summary": "Cumprir a Lei de Cotas é apenas parte da obrigação. Empresas também devem garantir acessibilidade, adaptação razoável e igualdade de oportunidades.\n              Leia mais em https...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80876/cota-de-pcd-nao-garante-conformidade-trabalhista/",
+        "id": 2
+    },
+    {
+        "category": "Fiscal",
+        "title": "CPC 47: quando reconhecer a receita de vendas",
+        "summary": "Receita prevê atribuir 2,6 milhões de inscrições de CNPJ técnico em dezembro de 2026; veja quem pode precisar do cadastro e o que muda.\n              Leia mais em https://www.conta...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80825/cpc-47-quando-reconhecer-a-receita-de-vendas/",
+        "id": 3
+    },
+    {
+        "category": "Dicas",
+        "title": "Interesse por cargos de liderança cai conforme aumenta a experiência",
+        "summary": "Pesquisa mostra que 58,7% dos jovens querem liderar, mas o interesse diminui entre profissionais de outras faixas etárias.\n              Leia mais em https://www.contabeis.com.br/n...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80880/interesse-por-cargos-de-lideranca-cai-conforme-aumenta-a-experiencia/",
+        "id": 4
+    },
+    {
+        "category": "Dicas",
+        "title": "Crédito de ICMS do imobilizado: prazo de homologação",
+        "summary": "Veja quando pedir a homologação do crédito de ICMS de máquinas e equipamentos e como o saldo poderá ser compensado com o IBS.\n              Leia mais em https://www.contabeis.com.b...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80841/credito-de-icms-do-imobilizado-prazo-de-homologacao/",
+        "id": 5
+    },
+    {
         "category": "Dicas",
         "title": "Inadimplência empresarial chega a 9,4 milhões de CNPJs",
         "summary": "Serasa Experian registra recorde de empresas negativadas em setembro, com R$ 247,8 bilhões em dívidas. Micro e pequenas empresas concentram a maior parte dos casos.\n              L...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80875/inadimplencia-empresarial-chega-a-9-4-milhoes-de-cnpjs/",
-        "id": 1
+        "id": 6
     },
     {
         "category": "Fiscal",
@@ -13,7 +53,7 @@
         "summary": "Memorando prevê estudos conjuntos, intercâmbio de dados e cooperação internacional sobre a tributação de pessoas com grandes patrimônios.\n              Leia mais em https://www.con...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80867/brasil-e-espanha-firmam-acordo-para-discutir-imposto-sobre-super-ricos/",
-        "id": 2
+        "id": 7
     },
     {
         "category": "Reforma Tributária",
@@ -21,7 +61,7 @@
         "summary": "Entenda por que a adesão do município à NFS-e Nacional não define o emissor nem a obrigação de preencher os campos de IBS e CBS.\n              Leia mais em https://www.contabeis.co...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80823/nfs-e-adesao-municipal-e-preenchimento-de-ibs-e-cbs/",
-        "id": 3
+        "id": 8
     },
     {
         "category": "Dicas",
@@ -29,7 +69,7 @@
         "summary": "Entenda como a data de aquisição de imóveis na holding pode alterar o redutor de ajuste e a base de cálculo do IBS e da CBS em uma venda futura.\n              Leia mais em https://...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80839/imoveis-na-holding-por-que-observar-o-prazo-de-2026/",
-        "id": 4
+        "id": 9
     },
     {
         "category": "Reforma Tributária",
@@ -37,7 +77,7 @@
         "summary": "Com a CBS prevista para 2027, empresas e contadores pedem tempo para adaptar sistemas e rotinas diante de regras e ferramentas ainda pendentes.\n              Leia mais em https://w...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80883/cbs-em-2027-empresas-cobram-prazo-para-adaptacao/",
-        "id": 5
+        "id": 10
     },
     {
         "category": "Reforma Tributária",
@@ -45,7 +85,7 @@
         "summary": "PLP 285/2026 propõe permitir o uso de determinados créditos da CBS para quitar outras obrigações com a Receita Federal. A proposta ainda tramita na Câmara.\n              Leia mais ...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80882/projeto-preve-uso-de-creditos-da-cbs-para-pagar-tributos/",
-        "id": 6
+        "id": 11
     },
     {
         "category": "Reforma Tributária",
@@ -53,7 +93,7 @@
         "summary": "Empresas que contestam a inclusão do IBS e da CBS na base do ICMS podem avaliar o depósito judicial da diferença enquanto aguardam decisão.\n              Leia mais em https://www.c...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80828/ibs-e-cbs-na-base-do-icms-deposito-judicial/",
-        "id": 7
+        "id": 12
     },
     {
         "category": "Dicas",
@@ -61,7 +101,7 @@
         "summary": "Receita Federal orienta como corrigir erros na DITR e responder a intimações de malha fiscal do ITR. Veja os procedimentos e documentos necessários.\n              Leia mais em http...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80879/ditr-com-divergencia-quando-retificar-ou-enviar-documentos/",
-        "id": 8
+        "id": 13
     },
     {
         "category": "Reforma Tributária",
@@ -69,7 +109,7 @@
         "summary": "Audiência em 18 de novembro terá participação da Receita Federal e discutirá alíquotas da CBS, Imposto Seletivo e impactos para pequenas empresas.\n              Leia mais em https:...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80873/camara-debate-cbs-imposto-seletivo-e-creditos-tributarios/",
-        "id": 9
+        "id": 14
     },
     {
         "category": "Reforma Tributária",
@@ -77,46 +117,6 @@
         "summary": "CGIBS anuncia dispensa de CNPJ para produtores rurais e transportadores autônomos de cargas em 2027 e 2028. Veja quem poderá continuar usando o CPF.\n              Leia mais em http...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80866/cgibs-anuncia-dispensa-de-cnpj-para-produtor-rural-e-autonomo/",
-        "id": 10
-    },
-    {
-        "category": "Dicas",
-        "title": "Fim da 6x1: STF permite jornada de 8h24 na transição",
-        "summary": "Liminar de Flávio Dino mantém jornada de 42 horas a partir de 16 de dezembro e autoriza distribuição em cinco dias sem hora extra pelos 24 minutos excedentes.\n              Leia ma...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80872/fim-da-6x1-stf-permite-jornada-de-8h24-na-transicao/",
-        "id": 11
-    },
-    {
-        "category": "Dicas",
-        "title": "NFS-e: plataformas digitais e TI têm prazo até março de 2027",
-        "summary": "A emissão da NFS-e para plataformas digitais e serviços de tecnologia foi adiada para 1º de março de 2027; veja quem está contemplado.\n              Leia mais em https://www.contab...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80865/nfs-e-plataformas-digitais-e-ti-tem-prazo-ate-marco-de-2027/",
-        "id": 12
-    },
-    {
-        "category": "Reforma Tributária",
-        "title": "APIs da CBS exigem nova credencial para consulta de débitos e créditos",
-        "summary": "Receita Federal orienta usuários das APIs da CBS a cancelar a credencial antiga e emitir outra para acessar as funcionalidades da versão 2.0.\n              Leia mais em https://www...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80864/apis-da-cbs-exigem-nova-credencial-para-consulta-de-debitos-e-creditos/",
-        "id": 13
-    },
-    {
-        "category": "Dicas",
-        "title": "Bets terão de comprovar falta de recursos para usar reserva de R$ 5 milhões",
-        "summary": "Receita Federal? Não. Ministério da Fazenda regulamentou o uso da reserva financeira das bets para devolver saldos a apostadores; recursos não podem pagar despesas das empresas.\n  ...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80868/bets-terao-de-comprovar-falta-de-recursos-para-usar-reserva-de-r-5-milhoes/",
-        "id": 14
-    },
-    {
-        "category": "Dicas",
-        "title": "NF-e e CT-e: o que muda em 16/11 e o que fica para dezembro",
-        "summary": "Veja quais mudanças na NF-e seguem previstas para 16 de novembro e quais notas técnicas da NF-e, da NFC-e e do CT-e ficam para 14 de dezembro.\n              Leia mais em https://ww...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/80863/nf-e-e-ct-e-o-que-muda-em-16-11-e-o-que-fica-para-dezembro/",
         "id": 15
     },
     {
