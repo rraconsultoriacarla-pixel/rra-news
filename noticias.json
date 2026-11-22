@@ -1,11 +1,43 @@
 [
     {
+        "category": "Contábil",
+        "title": "Como lançar juros e multas por atraso na contabilidade?",
+        "summary": "Juros, multas e encargos pagos a fornecedores devem ser registrados separadamente da compra. Veja os lançamentos contábeis e os cuidados necessários.\n              Leia mais em htt...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80993/como-lancar-juros-e-multas-por-atraso-na-contabilidade/",
+        "id": 1
+    },
+    {
+        "category": "Dicas",
+        "title": "Onde encontrar atendimento presencial para acessar a conta GOV.BR?",
+        "summary": "Rede do MGI está presente em 265 municípios e oferece ajuda para criar, recuperar e proteger contas GOV.BR.\n              Leia mais em https://www.contabeis.com.br/noticias/81008/o...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/81008/onde-encontrar-atendimento-presencial-para-acessar-a-conta-gov-br/",
+        "id": 2
+    },
+    {
+        "category": "Dicas",
+        "title": "5 cuidados para proteger empresas de golpes digitais",
+        "summary": "Pesquisa do Sebrae mostra que 44% dos pequenos negócios já enfrentaram tentativas de golpes digitais ou por telefone. Veja como reduzir os riscos.\n              Leia mais em https:...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80920/5-cuidados-para-proteger-empresas-de-golpes-digitais/",
+        "id": 3
+    },
+    {
+        "category": "Dicas",
+        "title": "Comunicação para contadores: por que desenvolver essa habilidade?",
+        "summary": "Entenda por que a comunicação é importante para contadores e como clareza, escuta ativa e relacionamento com clientes contribuem para a atuação profissional.\n              Leia mai...",
+        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
+        "sourceUrl": "https://www.contabeis.com.br/noticias/80969/comunicacao-para-contadores-por-que-desenvolver-essa-habilidade/",
+        "id": 4
+    },
+    {
         "category": "Reforma Tributária",
         "title": "Reforma Tributária: veja o que muda na rotina dos escritórios contábeis em 2027",
         "summary": "Entrada da CBS e implantação do IBS exigem ajustes na apuração de tributos, emissão de notas fiscais e cumprimento de obrigações.\n              Leia mais em https://www.contabeis.c...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80949/reforma-tributaria-veja-o-que-muda-na-rotina-dos-escritorios-contabeis-em-2027/",
-        "id": 1
+        "id": 5
     },
     {
         "category": "Dicas",
@@ -13,7 +45,7 @@
         "summary": "Pró-labore remunera o trabalho do sócio, enquanto a distribuição depende do lucro da empresa. Entenda as diferenças, os impostos e quando usar cada modalidade.\n              Leia m...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80921/pro-labore-ou-lucro-entenda-como-remunerar-os-socios/",
-        "id": 2
+        "id": 6
     },
     {
         "category": "Dicas",
@@ -21,7 +53,7 @@
         "summary": "Prazo para retirar o abono salarial de 2026 termina em 28 de dezembro; valores disponíveis somam R$ 304,8 milhões.\n              Leia mais em https://www.contabeis.com.br/noticias/...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80948/abono-salarial-de-2026-veja-como-consultar-e-sacar-os-valores-disponiveis/",
-        "id": 3
+        "id": 7
     },
     {
         "category": "Dicas",
@@ -29,7 +61,7 @@
         "summary": "Internet, energia elétrica e equipamentos podem gerar custos para quem trabalha em casa. Entenda o que diz a CLT sobre o reembolso no trabalho remoto.\n              Leia mais em ht...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80919/home-office-quais-despesas-a-empresa-deve-reembolsar/",
-        "id": 4
+        "id": 8
     },
     {
         "category": "Dicas",
@@ -37,7 +69,7 @@
         "summary": "Trabalhadores brancos receberam mais que pretos e pardos em 2025. Estudo do IBGE também mostra desigualdade na informalidade e nos cargos de chefia.\n              Leia mais em http...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/81021/ibge-aponta-diferenca-de-ate-71-na-renda-entre-brancos-e-negros/",
-        "id": 5
+        "id": 9
     },
     {
         "category": "Dicas",
@@ -45,7 +77,7 @@
         "summary": "Feriado da Consciência Negra altera o funcionamento de bancos, comércios, serviços públicos, transportes e unidades de saúde.\n              Leia mais em https://www.contabeis.com.b...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80947/dia-da-consciencia-negra-veja-o-que-abre-e-fecha/",
-        "id": 6
+        "id": 10
     },
     {
         "category": "Reforma Tributária",
@@ -53,7 +85,7 @@
         "summary": "Entenda os cuidados com o fechamento da EFD-Contribuições em 2026 e a transição para a cobrança da CBS em 2027.\n              Leia mais em https://www.contabeis.com.br/noticias/809...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80909/efd-contribuicoes-2027-do-fechamento-de-2026-a-apuracao-da-cbs-em-2027/",
-        "id": 7
+        "id": 11
     },
     {
         "category": "Dicas",
@@ -61,7 +93,7 @@
         "summary": "Foto: Vitaly Gariev / Unsplash · Licença UnsplashExigir CNPJ para manter um trabalhador pode configurar pejotização fraudulenta quando os requisitos do vínculo empregatício continu...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80954/empresa-pode-obrigar-funcionario-a-abrir-mei-entenda/",
-        "id": 8
+        "id": 12
     },
     {
         "category": "Dicas",
@@ -69,7 +101,7 @@
         "summary": "Trabalhadores escalados para atuar no Dia da Consciência Negra têm direito a pagamento em dobro ou folga compensatória, conforme as regras aplicáveis.\n              Leia mais em ht...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/80946/feriado-de-20-de-novembro-veja-os-direitos-de-quem-trabalha-na-data/",
-        "id": 9
+        "id": 13
     },
     {
         "category": "Dicas",
@@ -77,7 +109,7 @@
         "summary": "Para Danilo Custódio, a IA transforma o trabalho quando empresas redesenham objetivos, processos e softwares, em vez de apenas acelerar tarefas.\n              Leia mais em https://...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/81027/ia-transforma-a-natureza-do-trabalho-nas-empresas/",
-        "id": 10
+        "id": 14
     },
     {
         "category": "Legislação",
@@ -85,38 +117,6 @@
         "summary": "Proposta aprovada em comissão do Senado pode ampliar o alcance da Lei do Bem no Simples para pequenas empresas que recebem recursos para pesquisa e inovação.\n              Leia mai...",
         "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
         "sourceUrl": "https://www.contabeis.com.br/noticias/81011/lei-do-bem-no-simples-avanca-no-senado/",
-        "id": 11
-    },
-    {
-        "category": "Reforma Tributária",
-        "title": "Reforma tributária em 2026: o que muda para empresas",
-        "summary": "Entenda a fase de testes da reforma tributária em 2026, as mudanças nas notas fiscais e como as empresas podem se preparar para 2027.\n              Leia mais em https://www.contabe...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/81001/reforma-tributaria-em-2026-o-que-muda-para-empresas/",
-        "id": 12
-    },
-    {
-        "category": "Dicas",
-        "title": "Operação Cash Out investiga bets por movimentação bilionária",
-        "summary": "Grupo investigado declarou cerca de R$ 2 bilhões, mas movimentações podem ter chegado a R$ 13 bilhões em 2025, segundo o MPF.\n              Leia mais em https://www.contabeis.com.b...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/81025/operacao-cash-out-investiga-bets-por-movimentacao-bilionaria/",
-        "id": 13
-    },
-    {
-        "category": "Dicas",
-        "title": "Fraude com notas fiscais falsas movimenta R$ 1,3 bi em SP",
-        "summary": "Operação X.509 investiga emissão de notas fiscais falsas em cinco cidades de SP e possível geração irregular de R$ 232 milhões em créditos tributários.\n              Leia mais em h...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/81018/fraude-com-notas-fiscais-falsas-movimenta-r-1-3-bi-em-sp/",
-        "id": 14
-    },
-    {
-        "category": "Reforma Tributária",
-        "title": "Reforma Tributária 2027: como preparar seu escritório contábil?",
-        "summary": "Webinar do Portal Contábeis em 25 de novembro abordará mudanças da Reforma Tributária em 2027 e como preparar os escritórios contábeis.\n              Leia mais em https://www.conta...",
-        "content": "Detalhes completos sobre esta matéria podem ser acessados diretamente na fonte original. Esta notícia faz parte das atualizações diárias automatizadas do portal RRAnews para manter os profissionais informados sobre as mudanças nas áreas contábil e fiscal.",
-        "sourceUrl": "https://www.contabeis.com.br/noticias/81019/reforma-tributaria-2027-como-preparar-seu-escritorio-contabil/",
         "id": 15
     },
     {
